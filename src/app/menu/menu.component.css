@@ -1,0 +1,52 @@
+/* Estilos del encabezado de la página */
+.header {
+    background-color: #673AB7;
+    height: auto;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 5% 35% 50% 5% 5%;
+    grid-template-areas: 
+    '. area1 . area2 .';
+}
+
+/* Estilo para el div que contiene los botones del menú */
+.botonesMenu {
+    grid-area: area1;
+}
+
+  /* Estilos de los botones del menú */
+  button {
+    font-size: 20px;
+    color: white;
+  }
+
+  button:hover {
+    background-color: #522E92;
+  }
+
+/* Estilos para el div de logo */
+.logo {
+  grid-area: area2;
+}
+
+img {
+  width: 100px;
+  float: right;
+  margin-top: 15px;
+}
+
+  .example-button-row {
+    display: table-cell;
+    width: 500px;
+  }
+  
+  .example-button-row .mat-button-base {
+    margin: 10px;
+  }
+  
+  
+  .example-button-container {
+    display: flex;
+    justify-content: center;
+    width: 120px;
+  }
