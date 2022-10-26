@@ -7,11 +7,17 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from '@angular/material/button';
 import { MenuComponent } from './menu/menu.component';
+import { DadesComponent } from './dades/dades.component';
+import { PrincipalComponent } from './principal/principal.component';
+import { GraficComponent } from './grafic/grafic.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    MenuComponent
+    MenuComponent,
+    DadesComponent,
+    PrincipalComponent,
+    GraficComponent
   ],
   imports: [
     BrowserModule,
