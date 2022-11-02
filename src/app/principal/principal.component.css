@@ -1,5 +1,5 @@
 .banner-principal{
-    min-height: 100vh;
+    min-height: 92vh;
         width: 100%;
         background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url("../../assets/banner-principal.png");
         background-position: center;
@@ -9,22 +9,25 @@
         font-family: sans-serif;
   }
 
-  .texto-banner {
-    width: 100%;
-    color: white;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    
-}
+    .texto-banner {
+        width: 100%;
+        color: white;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family: sans-serif;
+    }
 
-.texto-banner > h1 {
-    font-size: 70px;
-}
+    .texto-banner > h1 {
+        font-size: 70px;
+        margin-bottom: 35px;
+    }
 
-.texto-banner > p {
-    margin: 20px 10px 0px 10px;
-    font-size: 14px;
-}
+    .texto-banner > p {
+        margin: 20px 10px 0px 10px;
+        font-size: 14px;
+    }
+
+
