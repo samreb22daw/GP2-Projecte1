@@ -1,5 +1,5 @@
 .banner-principal{
-    min-height: 92vh;
+    min-height: 100vh;
         width: 100%;
         background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url("../../assets/banner-principal.png");
         background-position: center;
@@ -26,7 +26,7 @@
     }
 
     .texto-banner > p {
-        margin: 20px 10px 0px 10px;
+
         font-size: 14px;
     }
 
