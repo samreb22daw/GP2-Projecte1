@@ -1,3 +1,4 @@
+/* Div que contine la imagen principal de la página index */
 .banner-principal{
     min-height: 100vh;
         width: 100%;
@@ -9,6 +10,7 @@
         font-family: sans-serif;
   }
 
+    /* Estilos para el título y la pequeña frase de la página principal (índex) */
     .texto-banner {
         width: 100%;
         color: white;
@@ -26,8 +28,89 @@
     }
 
     .texto-banner > p {
-
-        font-size: 14px;
+        font-size: 16px;
     }
+
+/* Estilo para el div para centrar los títulos y la info de la web */
+.contenido {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px; 
+}
+
+    /* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
+    .contenido h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        color: #1465BB;
+    }
+
+    .contenido p {
+        font-size: 15px;
+        color: gray;
+    }
+
+/* Div para hacer flex las imágenes que encontramos en la página principal */
+.flex-index {
+    margin-top: 60px;
+    display: flex;
+    /* Para distribuir la imágenes de forma de forma uniforme */
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+    /* Div para ajustar el tamaño donde van las imágenes de la página principal */
+    .flex-index .flex-images {
+        width: 48%;
+        height: 400px;
+        margin-bottom: 40px;
+        /* Lo hago relativo para después posicionar encima el overlay */
+        position: relative;
+    }
+
+    /* Ajusto las imágenes al 100% de espacio de su respectivo div */
+    .flex-images img {
+        width: 100%;
+        height: 100%;
+        /* Para ajustar bien la imagen al div y no perder resolución */
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    /* Estilo del overlay */
+    .overlay {
+        /* Lo hago abosluto para posicionar encima el overlay en la posición que quiera */
+        position: absolute;
+        /* Situo justo el overlay en la posición 0-0 del div */
+            top: 0;
+            left: 0;
+        width: 100%;
+        border-radius: 5px;
+        /* Le doy al height el valor de 0 ya que no quiero mostrarlo si no estoy en hover */
+        height: 100%;
+        transition: .7s;
+        /* Para esconder el contenido y que no se vea */
+    }
+
+    .overlay h2 {
+        font-size: 42px;
+        color: white;
+        position: absolute;
+        /* Para colocar exactamente en el centro el texto del overlay */
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0;
+        transition: .7s;
+    }
+
+    /* Hover para activar el overlay de la imagen */
+    .flex-images:hover .overlay, .flex-images:hover .overlay h2 {
+        cursor: pointer;
+        background-color: rgba(4, 9, 30, 0.7);
+        opacity: 1;
+    }
+
 
 

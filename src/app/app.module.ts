@@ -18,6 +18,7 @@ import { MenuComponent } from './menu/menu.component';
 import { DadesComponent } from './dades/dades.component';
 import { PrincipalComponent } from './principal/principal.component';
 import { GraficComponent } from './grafic/grafic.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { GraficComponent } from './grafic/grafic.component';
     MenuComponent,
     DadesComponent,
     PrincipalComponent,
-    GraficComponent
+    GraficComponent,
+    FooterComponent
   ],
   imports: [
     AppRoutingModule,
