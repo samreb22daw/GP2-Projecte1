@@ -23,6 +23,7 @@ tr.example-element-row:not(.example-expanded-row):active {
 .example-element-detail {
   overflow: hidden;
   display: flex;
+  height: 170px;
 }
 
 .example-element-diagram {
@@ -35,6 +36,7 @@ tr.example-element-row:not(.example-expanded-row):active {
 
 .example-element-diagram img{
   width: 200px;
+  object-fit: cover;
 }
 
 .example-element-symbol {
@@ -44,9 +46,13 @@ tr.example-element-row:not(.example-expanded-row):active {
 }
 
 .example-element-description {
-  padding: 16px;
+  padding: 20px 40px 0px 140px;
 }
 
 .example-element-description-attribution {
   opacity: 0.5;
+}
+
+.element1 {
+  padding-right: -50px;
 }

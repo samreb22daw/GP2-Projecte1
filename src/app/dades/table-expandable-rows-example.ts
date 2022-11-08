@@ -5,6 +5,7 @@ import {animate, state, style, transition, trigger} from '@angular/animations';
 /**
  * @title Table with expandable rows
 */
+
 @Component({
   selector: 'table-expandable-rows-example',
   styleUrls: ['table-expandable-rows-example.css'],
@@ -30,6 +31,7 @@ interface dades {
   dataYear: number;
   lessThan10aDay: string;
   lessThan550aDay: string;
+  description: string;
 }
 
 const ELEMENT_DATA: dades[] = dades;
