@@ -1,0 +1,1027 @@
+[
+  {
+    "country": "Honduras",
+    "percPoverty": "48.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": 74,
+    "lessThan550aDay": "48.9900"
+  },
+  {
+    "country": "Senegal",
+    "percPoverty": "46.7000",
+    "dataYear": 2011,
+    "lessThan10aDay": "94.3600",
+    "lessThan550aDay": "81.8600"
+  },
+  {
+    "country": "Sudan",
+    "percPoverty": "46.5000",
+    "dataYear": 2009,
+    "lessThan10aDay": "95.9800",
+    "lessThan550aDay": "80.6900"
+  },
+  {
+    "country": "Mozambique",
+    "percPoverty": "46.1000",
+    "dataYear": 2014,
+    "lessThan10aDay": "96.8300",
+    "lessThan550aDay": "91.7700"
+  },
+  {
+    "country": "Guinea",
+    "percPoverty": "43.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "97.3100",
+    "lessThan550aDay": "85.7000"
+  },
+  {
+    "country": "Comoros",
+    "percPoverty": "42.4000",
+    "dataYear": 2013,
+    "lessThan10aDay": "86.5700",
+    "lessThan550aDay": "63.9400"
+  },
+  {
+    "country": "Chad",
+    "percPoverty": "42.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "97.0900",
+    "lessThan550aDay": 88
+  },
+  {
+    "country": "Mali",
+    "percPoverty": "42.1000",
+    "dataYear": 2019,
+    "lessThan10aDay": "99.1700",
+    "lessThan550aDay": "93.2900"
+  },
+  {
+    "country": "Mexico",
+    "percPoverty": "41.9000",
+    "dataYear": 2018,
+    "lessThan10aDay": "55.7700",
+    "lessThan550aDay": "22.9600"
+  },
+  {
+    "country": "Timor-Leste",
+    "percPoverty": "41.8000",
+    "dataYear": 2014
+  },
+  {
+    "country": "Burkina Faso",
+    "percPoverty": "41.4000",
+    "dataYear": 2018,
+    "lessThan10aDay": "97.5300",
+    "lessThan550aDay": "89.9600"
+  },
+  {
+    "country": "Micronesia",
+    "percPoverty": "41.2000",
+    "dataYear": 2013,
+    "lessThan10aDay": "90.5400",
+    "lessThan550aDay": "68.8100"
+  },
+  {
+    "country": "Republic of the Congo",
+    "percPoverty": "40.9000",
+    "dataYear": 2011,
+    "lessThan10aDay": "97.2900",
+    "lessThan550aDay": "91.9400"
+  },
+  {
+    "country": "Niger",
+    "percPoverty": "40.8000",
+    "dataYear": 2018,
+    "lessThan10aDay": "98.6100",
+    "lessThan550aDay": "91.8900"
+  },
+  {
+    "country": "Nigeria",
+    "percPoverty": "40.1000",
+    "dataYear": 2018,
+    "lessThan10aDay": "98.7600",
+    "lessThan550aDay": "92.0400"
+  },
+  {
+    "country": "Papua New Guinea",
+    "percPoverty": "39.9000",
+    "dataYear": 2009,
+    "lessThan10aDay": "93.8900",
+    "lessThan550aDay": "77.5700"
+  },
+  {
+    "country": "Ivory Coast",
+    "percPoverty": "39.5000",
+    "dataYear": 2018,
+    "lessThan10aDay": "93.1400",
+    "lessThan550aDay": "76.9000"
+  },
+  {
+    "country": "Benin",
+    "percPoverty": "38.5000",
+    "dataYear": 2019,
+    "lessThan10aDay": "95.5200",
+    "lessThan550aDay": "89.5400"
+  },
+  {
+    "country": "Zimbabwe",
+    "percPoverty": "38.3000",
+    "dataYear": 2019,
+    "lessThan10aDay": "93.0800",
+    "lessThan550aDay": "82.7800"
+  },
+  {
+    "country": "Rwanda",
+    "percPoverty": "38.2000",
+    "dataYear": 2016,
+    "lessThan10aDay": "97.4200",
+    "lessThan550aDay": "90.0400"
+  },
+  {
+    "country": "Cameroon",
+    "percPoverty": "37.5000",
+    "dataYear": 2014,
+    "lessThan10aDay": "87.8600",
+    "lessThan550aDay": "67.5900"
+  },
+  {
+    "country": "Bolivia",
+    "percPoverty": "37.2000",
+    "dataYear": 2019,
+    "lessThan10aDay": "49.1400",
+    "lessThan550aDay": "19.9000"
+  },
+  {
+    "country": "Kenya",
+    "percPoverty": "36.1000",
+    "dataYear": 2015,
+    "lessThan10aDay": "95.6200",
+    "lessThan550aDay": "83.8100"
+  },
+  {
+    "country": "Colombia",
+    "percPoverty": "35.7000",
+    "dataYear": 2019,
+    "lessThan10aDay": "55.8000",
+    "lessThan550aDay": "29.3700"
+  },
+  {
+    "country": "Argentina",
+    "percPoverty": "35.5000",
+    "dataYear": 2019,
+    "lessThan10aDay": "35.7600",
+    "lessThan550aDay": "14.4000"
+  },
+  {
+    "country": "Syria",
+    "percPoverty": "35.2000",
+    "dataYear": 2007,
+    "lessThan10aDay": "97.2300",
+    "lessThan550aDay": "88.6800"
+  },
+  {
+    "country": "Gabon",
+    "percPoverty": "33.4000",
+    "dataYear": 2017,
+    "lessThan10aDay": "65.1800",
+    "lessThan550aDay": "32.3700"
+  },
+  {
+    "country": "Venezuela",
+    "percPoverty": "33.1000",
+    "dataYear": 2015
+  },
+  {
+    "country": "Egypt",
+    "percPoverty": "32.5000",
+    "dataYear": 2017,
+    "lessThan10aDay": "94.0200",
+    "lessThan550aDay": "73.4300"
+  },
+  {
+    "country": "Angola",
+    "percPoverty": "32.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "97.1600",
+    "lessThan550aDay": "89.1300"
+  },
+  {
+    "country": "Mauritania",
+    "percPoverty": 31,
+    "dataYear": 2014,
+    "lessThan10aDay": "88.8200",
+    "lessThan550aDay": "56.3300"
+  },
+  {
+    "country": "Fiji",
+    "percPoverty": "29.9000",
+    "dataYear": 2019,
+    "lessThan10aDay": "64.2200",
+    "lessThan550aDay": "24.5800"
+  },
+  {
+    "country": "Palestine",
+    "percPoverty": "29.2000",
+    "dataYear": 2018,
+    "lessThan10aDay": "57.3300",
+    "lessThan550aDay": "22.3200"
+  },
+  {
+    "country": "Mongolia",
+    "percPoverty": "28.4000",
+    "dataYear": 2018,
+    "lessThan10aDay": "62.3400",
+    "lessThan550aDay": "22.3000"
+  },
+  {
+    "country": "Lebanon",
+    "percPoverty": "27.4000",
+    "dataYear": 2011,
+    "lessThan10aDay": "15.2300",
+    "lessThan550aDay": "2.5000"
+  },
+  {
+    "country": "Brazil",
+    "percPoverty": "26.5000",
+    "dataYear": 2018,
+    "lessThan10aDay": "39.6600",
+    "lessThan550aDay": "19.6200"
+  },
+  {
+    "country": "Tanzania",
+    "percPoverty": "26.4000",
+    "dataYear": 2017,
+    "lessThan10aDay": "97.7100",
+    "lessThan550aDay": "91.4000"
+  },
+  {
+    "country": "Armenia",
+    "percPoverty": "26.4000",
+    "dataYear": 2019,
+    "lessThan10aDay": "86.8400",
+    "lessThan550aDay": "44.0200"
+  },
+  {
+    "country": "Tajikistan",
+    "percPoverty": "26.3000",
+    "dataYear": 2019,
+    "lessThan10aDay": "76.6900",
+    "lessThan550aDay": "38.4900"
+  },
+  {
+    "country": "Tuvalu",
+    "percPoverty": "26.3000",
+    "dataYear": 2010,
+    "lessThan10aDay": "66.6800",
+    "lessThan550aDay": "30.1000"
+  },
+  {
+    "country": "Seychelles",
+    "percPoverty": "25.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "16.7700",
+    "lessThan550aDay": "4.7600"
+  },
+  {
+    "country": "Nepal",
+    "percPoverty": "25.2000",
+    "dataYear": 2010,
+    "lessThan10aDay": "91.7300",
+    "lessThan550aDay": "67.9100"
+  },
+  {
+    "country": "Ecuador",
+    "percPoverty": 25,
+    "dataYear": 2019,
+    "lessThan10aDay": "52.9900",
+    "lessThan550aDay": "25.3900"
+  },
+  {
+    "country": "Saint Lucia",
+    "percPoverty": 25,
+    "dataYear": 2016,
+    "lessThan10aDay": "38.9800",
+    "lessThan550aDay": "18.6100"
+  },
+  {
+    "country": "Nicaragua",
+    "percPoverty": "24.9000",
+    "dataYear": 2016,
+    "lessThan10aDay": "68.0300",
+    "lessThan550aDay": "35.4900"
+  },
+  {
+    "country": "Palau",
+    "percPoverty": "24.9000",
+    "dataYear": 2006
+  },
+  {
+    "country": "Myanmar",
+    "percPoverty": "24.8000",
+    "dataYear": 2017,
+    "lessThan10aDay": "85.9400",
+    "lessThan550aDay": "47.3800"
+  },
+  {
+    "country": "Montenegro",
+    "percPoverty": "24.5000",
+    "dataYear": 2018,
+    "lessThan10aDay": "31.7200",
+    "lessThan550aDay": "12.9200"
+  },
+  {
+    "country": "Pakistan",
+    "percPoverty": "24.3000",
+    "dataYear": 2015,
+    "lessThan10aDay": "94.6400",
+    "lessThan550aDay": "75.9600"
+  },
+  {
+    "country": "Bangladesh",
+    "percPoverty": "24.3000",
+    "dataYear": 2016,
+    "lessThan10aDay": "94.4200",
+    "lessThan550aDay": "76.0100"
+  },
+  {
+    "country": "Romania",
+    "percPoverty": "23.8000",
+    "dataYear": 2018,
+    "lessThan10aDay": "23.6600",
+    "lessThan550aDay": "9.8200"
+  },
+  {
+    "country": "Bulgaria",
+    "percPoverty": "23.8000",
+    "dataYear": 2019,
+    "lessThan10aDay": "16.0500",
+    "lessThan550aDay": "6.1000"
+  },
+  {
+    "country": "Ethiopia",
+    "percPoverty": "23.5000",
+    "dataYear": 2015,
+    "lessThan10aDay": "96.3300",
+    "lessThan550aDay": "85.6700"
+  },
+  {
+    "country": "Paraguay",
+    "percPoverty": "23.5000",
+    "dataYear": 2019,
+    "lessThan10aDay": "39.5300",
+    "lessThan550aDay": "15.3600"
+  },
+  {
+    "country": "Ghana",
+    "percPoverty": "23.4000",
+    "dataYear": 2016,
+    "lessThan10aDay": "78.4500",
+    "lessThan550aDay": "50.2700"
+  },
+  {
+    "country": "Serbia",
+    "percPoverty": "23.2000",
+    "dataYear": 2018,
+    "lessThan10aDay": "31.8500",
+    "lessThan550aDay": "4.9900"
+  },
+  {
+    "country": "Latvia",
+    "percPoverty": "22.9000",
+    "dataYear": 2018,
+    "lessThan10aDay": "7.7200",
+    "lessThan550aDay": "2.3700"
+  },
+  {
+    "country": "El Salvador",
+    "percPoverty": "22.8000",
+    "dataYear": 2019,
+    "lessThan10aDay": "56.0400",
+    "lessThan550aDay": "22.3100"
+  },
+  {
+    "country": "Tonga",
+    "percPoverty": "22.5000",
+    "dataYear": 2009,
+    "lessThan10aDay": "63.2400",
+    "lessThan550aDay": "23.9800"
+  },
+  {
+    "country": "Panama",
+    "percPoverty": "22.1000",
+    "dataYear": 2016,
+    "lessThan10aDay": "26.9400",
+    "lessThan550aDay": "12.1300"
+  },
+  {
+    "country": "India",
+    "percPoverty": "21.9000",
+    "dataYear": 2011
+  },
+  {
+    "country": "Kiribati",
+    "percPoverty": "21.8000",
+    "dataYear": 2006,
+    "lessThan10aDay": "91.1800",
+    "lessThan550aDay": "65.1100"
+  },
+  {
+    "country": "Estonia",
+    "percPoverty": "21.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "2.9100",
+    "lessThan550aDay": "0.7100"
+  },
+  {
+    "country": "North Macedonia",
+    "percPoverty": "21.6000",
+    "dataYear": 2018,
+    "lessThan10aDay": "43.2400",
+    "lessThan550aDay": "16.5900"
+  },
+  {
+    "country": "Uganda",
+    "percPoverty": "21.4000",
+    "dataYear": 2016,
+    "lessThan10aDay": "95.8900",
+    "lessThan550aDay": "86.4800"
+  },
+  {
+    "country": "Djibouti",
+    "percPoverty": "21.1000",
+    "dataYear": 2017,
+    "lessThan10aDay": "88.9700",
+    "lessThan550aDay": "65.0900"
+  },
+  {
+    "country": "Dominican Republic",
+    "percPoverty": 21,
+    "dataYear": 2019,
+    "lessThan10aDay": "40.9100",
+    "lessThan550aDay": "12.4000"
+  },
+  {
+    "country": "Costa Rica",
+    "percPoverty": 21,
+    "dataYear": 2019,
+    "lessThan10aDay": "31.3800",
+    "lessThan550aDay": "10.6200"
+  },
+  {
+    "country": "Spain",
+    "percPoverty": "20.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "6.5500",
+    "lessThan550aDay": "2.4000"
+  },
+  {
+    "country": "Lithuania",
+    "percPoverty": "20.6000",
+    "dataYear": 2018,
+    "lessThan10aDay": "7.5300",
+    "lessThan550aDay": "2.4000"
+  },
+  {
+    "country": "Samoa",
+    "percPoverty": "20.3000",
+    "dataYear": 2013,
+    "lessThan10aDay": "65.8200",
+    "lessThan550aDay": "26.7800"
+  },
+  {
+    "country": "Peru",
+    "percPoverty": "20.2000",
+    "dataYear": 2019,
+    "lessThan10aDay": "48.3600",
+    "lessThan550aDay": "20.5700"
+  },
+  {
+    "country": "Italy",
+    "percPoverty": "20.1000",
+    "dataYear": 2018,
+    "lessThan10aDay": "5.5800",
+    "lessThan550aDay": "3.0500"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "percPoverty": "20.1000",
+    "dataYear": 2019,
+    "lessThan10aDay": "89.6300",
+    "lessThan550aDay": "52.6000"
+  },
+  {
+    "country": "Jamaica",
+    "percPoverty": "19.9000",
+    "dataYear": 2012,
+    "lessThan10aDay": "62.0100",
+    "lessThan550aDay": "29.9300"
+  },
+  {
+    "country": "Georgia",
+    "percPoverty": "19.5000",
+    "dataYear": 2019,
+    "lessThan10aDay": "78.1800",
+    "lessThan550aDay": 42
+  },
+  {
+    "country": "Botswana",
+    "percPoverty": "19.3000",
+    "dataYear": 2009,
+    "lessThan10aDay": "76.9400",
+    "lessThan550aDay": "57.6100"
+  },
+  {
+    "country": "Iraq",
+    "percPoverty": "18.9000",
+    "dataYear": 2012,
+    "lessThan10aDay": "86.4600",
+    "lessThan550aDay": "48.2900"
+  },
+  {
+    "country": "United Kingdom",
+    "percPoverty": "18.6000",
+    "dataYear": 2017,
+    "lessThan10aDay": "2.1300",
+    "lessThan550aDay": "0.8600"
+  },
+  {
+    "country": "Laos",
+    "percPoverty": "18.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "90.7100",
+    "lessThan550aDay": "69.5100"
+  },
+  {
+    "country": "Croatia",
+    "percPoverty": "18.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "9.7300",
+    "lessThan550aDay": "2.1400"
+  },
+  {
+    "country": "Greece",
+    "percPoverty": "17.9000",
+    "dataYear": 2018,
+    "lessThan10aDay": "13.8800",
+    "lessThan550aDay": "2.8600"
+  },
+  {
+    "country": "United States",
+    "percPoverty": "17.8000",
+    "dataYear": 2018,
+    "lessThan10aDay": "2.7500",
+    "lessThan550aDay": "1.7500"
+  },
+  {
+    "country": "Cambodia",
+    "percPoverty": "17.7000",
+    "dataYear": 2012
+  },
+  {
+    "country": "Luxembourg",
+    "percPoverty": "17.5000",
+    "dataYear": 2018,
+    "lessThan10aDay": "1.3400",
+    "lessThan550aDay": "0.5800"
+  },
+  {
+    "country": "Namibia",
+    "percPoverty": "17.4000",
+    "dataYear": 2015,
+    "lessThan10aDay": "73.7400",
+    "lessThan550aDay": "54.0800"
+  },
+  {
+    "country": "Portugal",
+    "percPoverty": "17.2000",
+    "dataYear": 2018,
+    "lessThan10aDay": "6.1100",
+    "lessThan550aDay": "1.6400"
+  },
+  {
+    "country": "Sweden",
+    "percPoverty": "17.1000",
+    "dataYear": 2018,
+    "lessThan10aDay": "2.1600",
+    "lessThan550aDay": "1.2100"
+  },
+  {
+    "country": "Malta",
+    "percPoverty": "17.1000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.5900",
+    "lessThan550aDay": "0.2700"
+  },
+  {
+    "country": "Israel",
+    "percPoverty": "16.9000",
+    "dataYear": 2018,
+    "lessThan10aDay": 10,
+    "lessThan550aDay": "2.4700"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "percPoverty": "16.9000",
+    "dataYear": 2015,
+    "lessThan10aDay": "11.7000",
+    "lessThan550aDay": "2.0100"
+  },
+  {
+    "country": "Philippines",
+    "percPoverty": "16.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "84.3400",
+    "lessThan550aDay": "56.1200"
+  },
+  {
+    "country": "Switzerland",
+    "percPoverty": 16,
+    "dataYear": 2018,
+    "lessThan10aDay": "0.8400",
+    "lessThan550aDay": "0.1400"
+  },
+  {
+    "country": "Japan",
+    "percPoverty": "15.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "2.4900",
+    "lessThan550aDay": "1.2100"
+  },
+  {
+    "country": "Jordan",
+    "percPoverty": "15.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "58.6600",
+    "lessThan550aDay": "16.2500"
+  },
+  {
+    "country": "Poland",
+    "percPoverty": "15.4000",
+    "dataYear": 2018,
+    "lessThan10aDay": "16.7700",
+    "lessThan550aDay": "1.2000"
+  },
+  {
+    "country": "Tunisia",
+    "percPoverty": "15.2000",
+    "dataYear": 2015,
+    "lessThan10aDay": "54.4700",
+    "lessThan550aDay": "16.4100"
+  },
+  {
+    "country": "Germany",
+    "percPoverty": "14.8000",
+    "dataYear": 2018,
+    "lessThan10aDay": "1.2400",
+    "lessThan550aDay": "0.5000"
+  },
+  {
+    "country": "Belgium",
+    "percPoverty": "14.8000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.4200",
+    "lessThan550aDay": "0.1600"
+  },
+  {
+    "country": "Cyprus",
+    "percPoverty": "14.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.7300",
+    "lessThan550aDay": "0.0800"
+  },
+  {
+    "country": "Turkey",
+    "percPoverty": "14.4000",
+    "dataYear": 2018,
+    "lessThan10aDay": "30.4800",
+    "lessThan550aDay": "10.2000"
+  },
+  {
+    "country": "Albania",
+    "percPoverty": "14.3000",
+    "dataYear": 2012,
+    "lessThan10aDay": "66.4500",
+    "lessThan550aDay": "29.8600"
+  },
+  {
+    "country": "Uzbekistan",
+    "percPoverty": "14.1000",
+    "dataYear": 2013,
+    "lessThan10aDay": "93.2100",
+    "lessThan550aDay": "75.1400"
+  },
+  {
+    "country": "France",
+    "percPoverty": "13.6000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.4100",
+    "lessThan550aDay": "0.1100"
+  },
+  {
+    "country": "Netherlands",
+    "percPoverty": "13.6000",
+    "dataYear": 2019,
+    "lessThan10aDay": "0.7100",
+    "lessThan550aDay": "0.3400"
+  },
+  {
+    "country": "Austria",
+    "percPoverty": "13.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "1.5300",
+    "lessThan550aDay": "1.0400"
+  },
+  {
+    "country": "Ireland",
+    "percPoverty": "13.1000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.7200",
+    "lessThan550aDay": "0.4000"
+  },
+  {
+    "country": "Norway",
+    "percPoverty": "12.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.6300",
+    "lessThan550aDay": "0.3600"
+  },
+  {
+    "country": "Solomon Islands",
+    "percPoverty": "12.7000",
+    "dataYear": 2012,
+    "lessThan10aDay": "96.1700",
+    "lessThan550aDay": "83.3800"
+  },
+  {
+    "country": "Vanuatu",
+    "percPoverty": "12.7000",
+    "dataYear": 2010,
+    "lessThan10aDay": "92.9900",
+    "lessThan550aDay": "73.4400"
+  },
+  {
+    "country": "Russia",
+    "percPoverty": "12.6000",
+    "dataYear": 2018,
+    "lessThan10aDay": "22.4200",
+    "lessThan550aDay": "3.2700"
+  },
+  {
+    "country": "Denmark",
+    "percPoverty": "12.5000",
+    "dataYear": 2018,
+    "lessThan10aDay": "0.5700",
+    "lessThan550aDay": "0.2600"
+  },
+  {
+    "country": "Australia",
+    "percPoverty": "12.4000",
+    "dataYear": 2018,
+    "lessThan10aDay": "1.4800",
+    "lessThan550aDay": "0.7400"
+  },
+  {
+    "country": "Hungary",
+    "percPoverty": "12.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "6.7700",
+    "lessThan550aDay": "1.9400"
+  },
+  {
+    "country": "Finland",
+    "percPoverty": "12.2000",
+    "dataYear": 2019,
+    "lessThan10aDay": "0.3000",
+    "lessThan550aDay": "0.1900"
+  },
+  {
+    "country": "Slovenia",
+    "percPoverty": 12,
+    "dataYear": 2018,
+    "lessThan10aDay": "0.6200",
+    "lessThan550aDay": "0.0700"
+  },
+  {
+    "country": "Canada",
+    "percPoverty": "11.6000",
+    "dataYear": 2018,
+    "lessThan10aDay": "1.5000",
+    "lessThan550aDay": "0.7400"
+  },
+  {
+    "country": "Mauritius",
+    "percPoverty": "10.3000",
+    "dataYear": 2017,
+    "lessThan10aDay": "41.7000",
+    "lessThan550aDay": "10.3000"
+  },
+  {
+    "country": "Czech Republic",
+    "percPoverty": "10.1000",
+    "dataYear": 2018
+  },
+  {
+    "country": "Thailand",
+    "percPoverty": "9.9000",
+    "dataYear": 2018,
+    "lessThan10aDay": "37.2000",
+    "lessThan550aDay": "6.1700"
+  },
+  {
+    "country": "Indonesia",
+    "percPoverty": "9.4000",
+    "dataYear": 2019,
+    "lessThan10aDay": "83.3100",
+    "lessThan550aDay": "52.8400"
+  },
+  {
+    "country": "Uruguay",
+    "percPoverty": "8.8000",
+    "dataYear": 2019,
+    "lessThan10aDay": "16.7700",
+    "lessThan550aDay": "3.1600"
+  },
+  {
+    "country": "Iceland",
+    "percPoverty": "8.8000",
+    "dataYear": 2017,
+    "lessThan10aDay": "0.2300",
+    "lessThan550aDay": "0.0400"
+  },
+  {
+    "country": "Chile",
+    "percPoverty": "8.6000",
+    "dataYear": 2017,
+    "lessThan10aDay": "18.6100",
+    "lessThan550aDay": "3.3800"
+  },
+  {
+    "country": "Bhutan",
+    "percPoverty": "8.2000",
+    "dataYear": 2017,
+    "lessThan10aDay": "62.1600",
+    "lessThan550aDay": "28.9800"
+  },
+  {
+    "country": "Maldives",
+    "percPoverty": "8.2000",
+    "dataYear": 2016,
+    "lessThan10aDay": "16.9000",
+    "lessThan550aDay": "1.9800"
+  },
+  {
+    "country": "Moldova",
+    "percPoverty": "7.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "59.5600",
+    "lessThan550aDay": "10.4400"
+  },
+  {
+    "country": "Vietnam",
+    "percPoverty": "6.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "55.2300",
+    "lessThan550aDay": "19.8700"
+  },
+  {
+    "country": "Azerbaijan",
+    "percPoverty": 6,
+    "dataYear": 2012,
+    "lessThan10aDay": "3.6900",
+    "lessThan550aDay": 0
+  },
+  {
+    "country": "Malaysia",
+    "percPoverty": "5.6000",
+    "dataYear": 2018,
+    "lessThan10aDay": "10.1400",
+    "lessThan550aDay": "1.3900"
+  },
+  {
+    "country": "Algeria",
+    "percPoverty": "5.5000",
+    "dataYear": 2011,
+    "lessThan10aDay": "68.3000",
+    "lessThan550aDay": "20.8300"
+  },
+  {
+    "country": "Belarus",
+    "percPoverty": 5,
+    "dataYear": 2019,
+    "lessThan10aDay": "6.7600",
+    "lessThan550aDay": "0.2400"
+  },
+  {
+    "country": "Morocco",
+    "percPoverty": "4.8000",
+    "dataYear": 2013,
+    "lessThan10aDay": "61.6600",
+    "lessThan550aDay": "24.1000"
+  },
+  {
+    "country": "Kazakhstan",
+    "percPoverty": "4.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "40.9800",
+    "lessThan550aDay": "3.6700"
+  },
+  {
+    "country": "Sri Lanka",
+    "percPoverty": "4.1000",
+    "dataYear": 2016,
+    "lessThan10aDay": "74.6100",
+    "lessThan550aDay": "37.3200"
+  },
+  {
+    "country": "Ukraine",
+    "percPoverty": "1.1000",
+    "dataYear": 2019,
+    "lessThan10aDay": "25.3900",
+    "lessThan550aDay": "2.4800"
+  },
+  {
+    "country": "China",
+    "percPoverty": "0.6000",
+    "dataYear": 2019,
+    "lessThan10aDay": "43.3400",
+    "lessThan550aDay": "14.1000"
+  },
+  {
+    "country": "Iran",
+    "dataYear": 2019,
+    "lessThan10aDay": "47.2500",
+    "lessThan550aDay": "16.5700"
+  },
+  {
+    "country": "South Korea",
+    "dataYear": 2019,
+    "lessThan10aDay": "2.5000",
+    "lessThan550aDay": "0.7400"
+  },
+  {
+    "country": "Taiwan",
+    "dataYear": 2019,
+    "lessThan10aDay": "0.5000",
+    "lessThan550aDay": "0.2500"
+  },
+  {
+    "country": "Somalia",
+    "dataYear": 2019,
+    "lessThan10aDay": "99.6300",
+    "lessThan550aDay": "97.8700"
+  },
+  {
+    "country": "United Arab Emirates",
+    "dataYear": 2019,
+    "lessThan10aDay": "0.7300",
+    "lessThan550aDay": 0
+  },
+  {
+    "country": "Turkmenistan",
+    "dataYear": 2019,
+    "lessThan10aDay": "63.9800",
+    "lessThan550aDay": "30.3300"
+  },
+  {
+    "country": "Slovakia",
+    "dataYear": 2019,
+    "lessThan10aDay": "6.1300",
+    "lessThan550aDay": "2.4500"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "dataYear": 2019,
+    "lessThan10aDay": "22.1500",
+    "lessThan550aDay": "6.1200"
+  },
+  {
+    "country": "Guyana",
+    "dataYear": 2019,
+    "lessThan10aDay": "53.9500",
+    "lessThan550aDay": "23.8400"
+  },
+  {
+    "country": "Suriname",
+    "dataYear": 2019,
+    "lessThan10aDay": "62.3400",
+    "lessThan550aDay": "38.3100"
+  },
+  {
+    "country": "Cape Verde",
+    "dataYear": 2019,
+    "lessThan10aDay": "65.7200",
+    "lessThan550aDay": "34.2300"
+  },
+  {
+    "country": "Belize",
+    "dataYear": 2019,
+    "lessThan10aDay": "77.6300",
+    "lessThan550aDay": "53.7700"
+  },
+  {
+    "country": "Nauru",
+    "dataYear": 2019,
+    "lessThan10aDay": "67.1900",
+    "lessThan550aDay": "27.2900"
+  }
+]
