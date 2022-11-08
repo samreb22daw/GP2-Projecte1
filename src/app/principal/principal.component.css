@@ -6,7 +6,6 @@
         background-position: center;
         /* Para escalar la imagen al mayor tamaño posible sin estirarla */
         background-size: cover;
-        background-attachment: fixed;
         position: relative;
         font-family: sans-serif;
   }
@@ -32,6 +31,42 @@
         font-size: 16px;
     }
 
+/* Estilo para el div para centrar los títulos y la info de la web */
+.contenido {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px; 
+}
 
+    /* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
+    .contenido h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        color: #1465BB;
+    }
+
+    .contenido p {
+        font-size: 15px;
+        color: gray;
+    }
+
+/* Div para hacer flex las imágenes que encontramos en la página principal */
+.flex-index {
+    margin-top: 60px;
+    display: flex;
+    /* Para distribuir la imágenes de forma de forma uniforme */
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+    /* Div para ajustar el tamaño donde van las imágenes de la página principal */
+    .imagenes-div-index .imagenes-index {
+        width: 32%;
+        height: 300px;
+        margin-bottom: 40px;
+        /* Lo hago relativo para después posicionar encima el overlay */
+        position: relative;
+    }
 
 
