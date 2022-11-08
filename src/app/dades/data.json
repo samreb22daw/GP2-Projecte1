@@ -1,0 +1,44 @@
+[
+  {
+    "country": "Honduras",
+    "percPoverty": "48.3000",
+    "dataYear": 2018,
+    "lessThan10aDay": "74",
+    "lessThan550aDay": "48.9900"
+  },
+  {
+    "country": "Senegal",
+    "percPoverty": "46.7000",
+    "dataYear": 2011,
+    "lessThan10aDay": "94.3600",
+    "lessThan550aDay": "81.8600"
+  },
+  {
+    "country": "Sudan",
+    "percPoverty": "46.5000",
+    "dataYear": 2009,
+    "lessThan10aDay": "95.9800",
+    "lessThan550aDay": "80.6900"
+  },
+  {
+    "country": "Mozambique",
+    "percPoverty": "46.1000",
+    "dataYear": 2014,
+    "lessThan10aDay": "96.8300",
+    "lessThan550aDay": "91.7700"
+  },
+  {
+    "country": "Guinea",
+    "percPoverty": "43.7000",
+    "dataYear": 2018,
+    "lessThan10aDay": "97.3100",
+    "lessThan550aDay": "85.7000"
+  },
+  {
+    "country": "Comoros",
+    "percPoverty": "42.4000",
+    "dataYear": 2013,
+    "lessThan10aDay": "86.5700",
+    "lessThan550aDay": "63.9400"
+  }
+]
