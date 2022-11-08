@@ -36,7 +36,7 @@
     width: 80%;
     text-align: center;
     margin: auto;
-    margin-top: 70px; 
+    margin-top: 70px;
 }
 
     /* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
@@ -92,7 +92,7 @@
         transition: .7s;
         /* Para esconder el contenido y que no se vea */
     }
-
+    
     .overlay h2 {
         font-size: 42px;
         color: white;
