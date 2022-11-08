@@ -102,6 +102,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         opacity: 0;
+        transition: .7s;
     }
 
     /* Hover para activar el overlay de la imagen */
