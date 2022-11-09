@@ -5,7 +5,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 74,
     "lessThan550aDay": 48.9900,
-    "description":""
+    "description":"Honduras es un país de América Central con costas en el mar Caribe al norte y en el océano Pacífico al sur. En el bosque tropical cerca de Guatemala, el antiguo sitio ceremonial maya de Copán tiene jeroglíficos tallados en piedra y estelas, altos monumentos de piedra. En el mar Caribe, se encuentran las Islas de la Bahía, un destino para el buceo que forma parte de la Barrera de Coral Mesoamericana."
   },
   {
     "country": "Senegal",
@@ -13,7 +13,7 @@
     "dataYear": 2011,
     "lessThan10aDay": 94.3600,
     "lessThan550aDay": 81.8600,
-    "description":"" 
+    "description":"Senegal es un país de la costa oeste de África con un rico legado colonial francés y muchas atracciones naturales. En Dakar, la capital, se encuentra el antiguo distrito de Médina y el reconocido museo Musée Théodore Monod, que exhibe arte africano. Dakar también es conocida por su vida nocturna, centrada en música mbalax nativa. San Luis, antiguamente la capital de África Occidental Francesa, tiene una ciudad antigua con arquitectura colonial." 
   },
   {
     "country": "Sudan",
@@ -21,7 +21,7 @@
     "dataYear": 2009,
     "lessThan10aDay": 95.9800,
     "lessThan550aDay": 80.6900,
-    "description":""
+    "description":"Sudán​, oficialmente República del Sudán​, ​ es uno de los cincuenta y cuatro países que forman el continente africano. Su capital y ciudad más poblada es Jartum. Está situado al noreste de África y comparte frontera con Egipto al norte, con el mar Rojo al noreste, con Eritrea y Etiopía al este, con Sudán del Sur al sur, con la República Centroafricana al suroeste, con Chad al oeste y con Libia al noroeste. Hasta el año 2011,​ momento en que se separó la región sur del país (conformando la nueva República de Sudán del Sur) fue el estado africano que compartía frontera con un mayor número de países (nueve), incluyendo a Kenia, Uganda y la República Democrática del Congo. "
   },
   {
     "country": "Mozambique",
@@ -29,7 +29,7 @@
     "dataYear": 2014,
     "lessThan10aDay": 96.8300,
     "lessThan550aDay": 91.7700,
-    "description":""
+    "description":"Mozambique es un país del sur de África cuya larga costa en el océano Índico tiene playas populares como Tofo; también posee parques marinos en el litoral. En el archipiélago de las Quirimbas, una extensión de islas de coral de 250 km, la isla de Ibo, cubierta de mangles, tiene ruinas de la época colonial que sobreviven de un período bajo el régimen portugués. Más al sur, el archipiélago de Bazaruto tiene arrecifes que protegen especies marinas poco comunes, incluido el dugongo."
   },
   {
     "country": "Guinea",
@@ -37,15 +37,15 @@
     "dataYear": 2018,
     "lessThan10aDay": 97.3100,
     "lessThan550aDay": 85.7000,
-    "description":""
+    "description":"La República de Guinea, usualmente llamada Guinea-Conakri para diferenciarla de otros países africanos como su vecino Guinea-Bisáu o Guinea Ecuatorial, es un país de África occidental, antiguamente conocido como Guinea Francesa. Guinea está dividida en ocho regiones administrativas y subdividida a su vez en 33 prefecturas. Conakri es la capital, la mayor ciudad y el centro económico más importante. Otras ciudades importantes son Kankan, Nzérékoré, Kindia, Labé, Guéckédou, Mamou y Boke.​ "
   },
   {
-    "country": "Comoros",
+    "country": "Comoras",
     "percPoverty": 42.4000,
     "dataYear": 2013,
     "lessThan10aDay": 86.5700,
     "lessThan550aDay": 63.9400,
-    "description":""
+    "description":"La Unión de las Comoras, ​ o simplemente las Comoras o Comores​, es un país Independiente formado por tres islas en el sureste de África, situado al extremo norte del canal de Mozambique en el océano Índico, entre el norte de Madagascar y el este de Mozambique. El país consta de tres islas volcánicas: Gran Comora (Ngazidja), Mohéli (Mwali) y Anjouan (Nzwani), mientras que la vecina isla de Mayotte (Mahore), reclamada por Comoras, sigue siendo francesa. El territorio comprende además otras pequeñas islas."
   },
   {
     "country": "Chad",
@@ -53,7 +53,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 97.0900,
     "lessThan550aDay": 88,
-    "description":""
+    "description":"Chad​, cuyo nombre oficial es República del Chad, ​ es un país sin litoral ubicado en África Central. Limita con Libia al norte, con Sudán al este, con la República Centroafricana al sur, Camerún y Nigeria al suroeste y con Níger al oeste. Chad se encuentra dividido en tres grandes regiones geográficas: la zona desértica del norte, el árido cinturón de Sahel en el centro y la sabana sudanesa fértil al sur. El lago Chad, por el cual el país obtuvo su nombre, es el cuerpo de agua más grande en Chad y el segundo más grande de África. "
   },
   {
     "country": "Mali",
@@ -61,7 +61,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 99.1700,
     "lessThan550aDay": 93.2900,
-    "description":""
+    "description":"Malí o Mali, ​​ cuyo nombre completo es República de Malí, es un Estado sin litoral situado en África Occidental, que tiene como su capital a la ciudad de Bamako. Es el octavo país más extenso de África y limita al norte con Argelia, al este con Níger, al oeste con Mauritania y Senegal, y al sur con Costa de Marfil, Guinea y con Burkina Faso. Su tamaño es de 1 240 192 km²​ y su población estimada es de alrededor de 20 millones de habitantes (2021). Su capital y ciudad más poblada es Bamako."
   },
   {
     "country": "Mexico",
@@ -69,13 +69,13 @@
     "dataYear": 2018,
     "lessThan10aDay": 55.7700,
     "lessThan550aDay": 22.9600,
-    "description":""
+    "description":"México es un país entre los Estados Unidos y América Central, conocido por las playas en el Pacífico y el golfo de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española. En la capital Ciudad de México, las elegantes tiendas, los famosos museos y los restaurantes gourmet son parte de la vida moderna."
   },
   {
     "country": "Timor-Leste",
     "percPoverty": 41.8000,
     "dataYear": 2014,
-    "description":""
+    "description":"Timor Oriental es un país del Sudeste Asiático que ocupa la mitad de la isla de Timor y está rodeado de arrecifes de coral con abundante fauna marina. Los sitios icónicos de la capital, Dili, dan cuenta de las luchas del país por su independencia de Portugal en 1975 e Indonesia en 2002. La icónica estatua del Cristo Rey de Dili, de 27 m de alto, se ubica sobre un alto cerro de la ciudad y tiene vista panorámica de la bahía circundante."
   },
   {
     "country": "Burkina Faso",
@@ -83,7 +83,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 97.5300,
     "lessThan550aDay": 89.9600,
-    "description":""
+    "description":"Burkina Faso es un país sin litoral de África Occidental que limita al noroeste con Malí, al este con Níger, al sureste con Benín y al sur con Costa de Marfil, Ghana y Togo.​ En 2022 la ONU estimó su población en 22 673 762 habitantes. Anteriormente llamada República del Alto Volta (1958-1984), el país fue nombrado 'Burkina Faso' el 4 de agosto de 1984 por el entonces presidente Thomas Sankara. Sus ciudadanos son conocidos como burkineses, y su capital y ciudad más grande es Uagadugú."
   },
   {
     "country": "Micronesia",
@@ -91,7 +91,7 @@
     "dataYear": 2013,
     "lessThan10aDay": 90.5400,
     "lessThan550aDay": 68.8100,
-    "description":""
+    "description":"Micronesia es una de las veintidós subregiones en que la ONU divide el mundo, una de las cuatro pertenecientes a Oceanía. Está compuesta por los siguientes países. Palaos, los Estados Federados de Micronesia, las Islas Marshall, Nauru, Kiribati. Además incluye tres dependencias de los Estados Unidosː Guam, Isla Wake e Islas Marianas del Norte. Cuenta con una población aproximada de 340 000 habitantes."
   },
   {
     "country": "Republic of the Congo",
@@ -99,7 +99,7 @@
     "dataYear": 2011,
     "lessThan10aDay": 97.2900,
     "lessThan550aDay": 91.9400,
-    "description":""
+    "description":"La República del Congo (en francés, République du Congo; en lingala, Repubilika ya Kongó; en kituba, Repubilika ya Kongo), también conocida con los nombres de Congo-Brazzaville o simplemente Congo, es un país de África Central. Limita al norte con Camerún y la República Centroafricana, al sur y al este con la República Democrática del Congo, al oeste con Gabón y al suroeste con el océano Atlántico y un enclave angoleño (Cabinda)."
   },
   {
     "country": "Niger",
@@ -107,7 +107,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 98.6100,
     "lessThan550aDay": 91.8900,
-    "description":""
+    "description":"Níger, oficialmente República del Níger​​​, ​​ es un país sin litoral de África occidental. Limita al sur con Nigeria y Benín, al oeste con Burkina Faso y Malí, al norte con Argelia y Libia, y al este con Chad. Sus zonas septentrional y central se encuentra en las áreas desérticas del Sahara y el Sahel. Níger fue una colonia europea del África Occidental Francesa, que accedió a la independencia en 1960. Su economía es considerada por algunas fuentes como una de las más desfavorecidas de África​ y se estima que aproximadamente dos tercios de su población viven bajo el umbral de la pobreza."
   },
   {
     "country": "Nigeria",
@@ -115,7 +115,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 98.7600,
     "lessThan550aDay": 92.0400,
-    "description":""
+    "description":"Nigeria, oficialmente República Federal de Nigeria, es un país de África occidental, que limita con Níger al norte, con Chad en el nordeste, con Camerún en el este y con Benín en el oeste. Su costa sur está localizada en el Golfo de Guinea en el Océano Atlántico. Nigeria ha sido el hogar de varios reinos y estados antiguos e indígenas durante milenios. El estado moderno se originó a partir del dominio colonial británico, a partir del siglo XIX, y tomó su forma territorial actual con la fusión del Protectorado de Nigeria del Sur y el Protectorado de Nigeria del Norte en 1914 por Lord Fredrick Lugard."
   },
   {
     "country": "Papua New Guinea",
@@ -123,7 +123,7 @@
     "dataYear": 2009,
     "lessThan10aDay": 93.8900,
     "lessThan550aDay": 77.5700,
-    "description":""
+    "description":"Papúa Nueva Guinea, en la región suroeste del Pacífico, abarca la mitad oriental de Nueva Guinea y sus islas. El país tiene una inmensa diversidad cultural y biológica y es famoso por sus playas y sus arrecifes de coral. En el interior, tiene volcanes activos, el monte de granito Wilhelm, densos bosques pluviales y rutas de excursionismo, como el sendero de Kokoda. También hay aldeas tribales tradicionales, muchas de ellas con sus propios dialectos."
   },
   {
     "country": "Ivory Coast",
@@ -131,7 +131,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 93.1400,
     "lessThan550aDay": 76.9000,
-    "description":""
+    "description":"Costa de Marfil es un país de la región occidental de África con resorts de playa, selvas tropicales y un legado colonial francés. Abiyán, en la costa atlántica, es el principal centro urbano del país. Entre sus monumentos modernos cabe destacar La Pyramide y la catedral de San Pablo, una enorme estructura unida a una cruz gigantesca. E​l ​pa​rq​ue​ n​ac​io​na​l ​de​l ​Ba​nc​o,​ a​l ​no​rt​e ​de​l ​ce​nt​ro​, ​es​ u​na​ r​es​er​va​ d​e ​se​lv​a ​tr​op​ic​al​ c​on​ s​en​de​ro​s. "
   },
   {
     "country": "Benin",
@@ -139,7 +139,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 95.5200,
     "lessThan550aDay": 89.5400,
-    "description":""
+    "description":"Benín, país de habla francesa del oeste de África, es un lugar de nacimiento de la religión vudú (o “voodoo”) y es hogar del antiguo Reino de Dahomey desde alrededor de 1600 a 1900. En Abomey, la antigua capital de Dahomey, el Museo Histórico ocupa dos palacios reales con bajorrelieves que relatan el pasado del reino y un trono montado sobre cráneos humanos. Al norte, el Parque nacional de Pendjari ofrece safaris con elefantes, hipopótamos y leones."
   },
   {
     "country": "Zimbabwe",
@@ -147,7 +147,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 93.0800,
     "lessThan550aDay": 82.7800,
-    "description":""
+    "description":"Zimbabue es un país del interior del sur de África famoso por sus espectaculares paisajes y su variada fauna, que habita principalmente en parques, reservas y áreas de safari. En el río Zambeze, las cataratas Victoria desembocan, tras una estruendosa caída de 108 m, en la garganta Batoka, donde es posible realizar actividades como rafting en rápidos y puenting. Río abajo se encuentran los parques nacionales de Matusadona y Mana Pools, con hipopótamos, rinocerontes y diferentes especies de aves."
   },
   {
     "country": "Rwanda",
@@ -155,7 +155,7 @@
     "dataYear": 2016,
     "lessThan10aDay": 97.4200,
     "lessThan550aDay": 90.0400,
-    "description":""
+    "description":"Ruanda es un país sin litoral de África Oriental con un paisaje verde montañoso. Su famoso Parque Nacional de los Volcanes alberga gorilas de montaña y monos dorados. El parque abarca el monte Karisimbi de 4,507 m de altura y otros 4 volcanes cubiertos de bosques. En el suroeste, está el Parque Nacional Nyungwe, con un antiguo bosque pluvial de montaña que alberga chimpancés y otros primates."
   },
   {
     "country": "Cameroon",
@@ -163,7 +163,7 @@
     "dataYear": 2014,
     "lessThan10aDay": 87.8600,
     "lessThan550aDay": 67.5900,
-    "description":""
+    "description":"Camerún, oficialmente la República de Camerún​, es un Estado unitario organizado como república en el África central.​ «Limita al sur con Guinea Ecuatorial, a continuación con Gabón, y con República del Congo. Al este limita con República Centroafricana, al noroeste con Chad, y al oeste con Nigeria. Su litoral se encuentra en el golfo de Biafra, que forma parte del golfo de Guinea (océano Atlántico). El país ha sido llamado 'África en miniatura' por su diversidad geológica y cultural: tiene playas, desiertos, montañas, selvas y sabanas. "
   },
   {
     "country": "Bolivia",
@@ -171,7 +171,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 49.1400,
     "lessThan550aDay": 19.9000,
-    "description":""
+    "description":"Bolivia es un país del centro de Sudamérica, con un terreno variado desde los Andes, el Desierto de Atacama y el bosque pluvial en la cuenca del Amazonas. A más de 3,500 m de altura, su capital administrativa, La Paz, se ubica en el Altiplano de los Andes con el monte nevado Illimani de fondo. Cerca se encuentra el cristalino lago Titicaca, el más grande del continente, que se extiende por la frontera con Perú."
   },
   {
     "country": "Kenya",
@@ -179,7 +179,7 @@
     "dataYear": 2015,
     "lessThan10aDay": 95.6200,
     "lessThan550aDay": 83.8100,
-    "description":""
+    "description":"Kenia es un país de África Oriental con una costa en el océano Índico. Su territorio abarca sabana, terrenos en lagos, el espectacular Gran Valle del Rift y zonas montañosas altas. También alberga fauna, como leones, elefantes y rinocerontes. Se realizan safaris desde Nairobi, la capital, a la Reserva Masái Mara, conocida por sus migraciones anuales de ñus, y el Parque Nacional Amboseli, que ofrece vistas del monte Kilimanjaro en Tanzania, de 5,895 m de altura."
   },
   {
     "country": "Colombia",
@@ -187,7 +187,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 55.8000,
     "lessThan550aDay": 29.3700,
-    "description":""
+    "description":"Colombia es un país del extremo norte de Sudamérica. Su paisaje cuenta con bosques tropicales, las montañas de los Andes y varias plantaciones de café. En Bogotá, su capital a gran altura, el distrito Zona Rosa es famoso por sus restaurantes y tiendas. Cartagena, en la costa del Caribe, tiene una Ciudad Antigua colonial amurallada, un castillo del siglo XVI y arrecifes de coral cercanos."
   },
   {
     "country": "Argentina",
@@ -195,7 +195,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 35.7600,
     "lessThan550aDay": 14.4000,
-    "description":""
+    "description":"Argentina es un país sudamericano de gran envergadura con un terreno que incluye las montañas de los Andes, lagos glaciales y praderas en las Pampas, la tierra tradicional de pastoreo de su famoso ganado. El país es conocido por el baile y la música del tango. Su gran capital cosmopolita, Buenos Aires, se centra en la Plaza de Mayo, rodeada por imponentes edificios del siglo XIX, como la Casa Rosada, el icónico palacio presidencial."
   },
   {
     "country": "Syria",
@@ -203,7 +203,7 @@
     "dataYear": 2007,
     "lessThan10aDay": 97.2300,
     "lessThan550aDay": 88.6800,
-    "description":""
+    "description":"Siria (en árabe: سوريا Sūriyā), oficialmente República Árabe Siria (en árabe: الجمهوريّة العربيّة السّوريّة Al-Ŷumhūriyya Al-`Arabiyya As-Sūriyya) es un país soberano del Oriente Próximo, en la costa oriental mediterránea, cuya forma de gobierno es la república unitaria semipresidencialista, sumida en una guerra civil desde marzo de 2011.​ Comparte fronteras con Turquía por el norte, con Irak por el este, con Israel y Jordania al sur, y con Líbano y el mar Mediterráneo por el oeste, pudiéndose ver desde sus costas a lo lejos la isla de Chipre. Siria es miembro de la Organización de las Naciones Unidas desde su fundación."
   },
   {
     "country": "Gabon",
@@ -211,13 +211,13 @@
     "dataYear": 2017,
     "lessThan10aDay": 65.1800,
     "lessThan550aDay": 32.3700,
-    "description":""
+    "description":"Gabón, un país en la costa del Atlántico en África Central, tiene áreas importantes de parques protegidos. El terreno de la costa protegida de su famoso Parque Nacional de Loango alberga una diversa fauna, desde gorilas e hipopótamos hasta ballenas. El Parque Nacional de Lopé abarca en su mayoría un bosque tropical. El Parque Nacional de Akanda es famoso por sus mangles y playas con fuertes mareas."
   },
   {
     "country": "Venezuela",
     "percPoverty": 33.1000,
     "dataYear": 2015,
-    "description":""
+    "description":"Venezuela es un país de la costa norte de Sudamérica con numerosos atractivos naturales. A lo largo de su costa caribeña hay islas tropicales turísticas como la isla de Margarita y el archipiélago de Los Roques. Al noroeste se encuentran los Andes y la ciudad colonial de Mérida, que sirve de base para visitar el Parque Natural de Sierra Nevada. La capital, Caracas, está en el norte. El territorio ahora conocido como Venezuela fue colonizado por España en 1522, en medio de la resistencia de los pueblos amerindios."
   },
   {
     "country": "Egypt",
@@ -225,7 +225,7 @@
     "dataYear": 2017,
     "lessThan10aDay": 94.0200,
     "lessThan550aDay": 73.4300,
-    "description":""
+    "description":"Egipto, país que une el noreste de África con Medio Oriente, data del período de los faraones. Tiene monumentos de milenios de antigüedad ubicados junto al fértil valle del río Nilo, incluidas las colosales pirámides de Guiza y la Gran Esfinge, al igual que las tumbas del Valle de los Reyes y el Templo de Karnak bordeado de jeroglíficos en Luxor. En la capital, El Cairo, hay monumentos otomanos, como la mezquita de Muhammad Alí y el Museo Egipcio, un tesoro de antigüedades."
   },
   {
     "country": "Angola",
@@ -233,7 +233,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 97.1600,
     "lessThan550aDay": 89.1300,
-    "description":""
+    "description":"Angola es un país sudafricano con terrenos variados que abarca playas tropicales en el Atlántico, un sistema laberíntico de ríos y el desierto subsahariano que se extiende por la frontera hasta Namibia. La historia colonial del país se refleja en su gastronomía con influencia portuguesa y sus hitos, como la Fortaleza de Saõ Miguel que construyeron los portugueses en 1576 para defender la capital, Luanda."
   },
   {
     "country": "Mauritania",
@@ -241,7 +241,7 @@
     "dataYear": 2014,
     "lessThan10aDay": 88.8200,
     "lessThan550aDay": 56.3300,
-    "description":""
+    "description":"Mauritania, oficialmente la República Islámica de Mauritania (en árabe: الجمهورية الإسلامية الموريتانية Al-Ŷumhūrīya al-Islāmīya al-Mawrītānīya, en francés: République Islamique de Mauritanie), es un país ubicado en el noroeste de África. Limita con el océano Atlántico al oeste, con Senegal al suroeste, con Malí al este y al sureste, con Argelia al noreste y con el territorio del Sahara Occidental (en disputa entre la República Árabe Saharaui Democrática y Marruecos) al norte."
   },
   {
     "country": "Fiji",
@@ -249,7 +249,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 64.2200,
     "lessThan550aDay": 24.5800,
-    "description":""
+    "description":"Fiyi, un país del Pacífico Sur, es un archipiélago de más de 300 islas. Es famoso por sus paisajes escabrosos, las playas bordeadas de palmeras y los arrecifes de coral con lagunas de aguas cristalinas. Sus islas más importantes, Viti Levu y Vanua Levu, albergan la mayor parte de la población. En Viti Levu, se encuentra la capital, Suva, una ciudad puerto con arquitectura colonial británica. El Museo de Fiyi, en los Jardines Thurston de la época victoriana, tiene exhibiciones etnográficas."
   },
   {
     "country": "Palestine",
@@ -257,7 +257,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 57.3300,
     "lessThan550aDay": 22.3200,
-    "description":""
+    "description":"Palestina​ (árabe: فلسطين, Filasṭīn, Falasṭīn o Filisṭīn), denominado oficialmente Estado de Palestina (árabe: دولة فلسطين, Dawlat Filasṭin), es un Estado con reconocimiento limitado ubicado en el Próximo Oriente, más concretamente en el Levante mediterráneo, que consta de las regiones de Cisjordania (en la que se incluye Jerusalén Este) y la Franja de Gaza. Limita con Israel, Jordania, Egipto y la ribera sudoriental del mar Mediterráneo. También es considerado un protoestado.​"
   },
   {
     "country": "Mongolia",
@@ -265,7 +265,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 62.3400,
     "lessThan550aDay": 22.3000,
-    "description":""
+    "description":"Mongolia (en mongol cirílico: Монгол Улс; romanización: Mongol Uls; en mongol tradicional: ᠮᠣᠩᠭ᠋ᠣᠯᠤᠯᠤᠰ), oficialmente el Estado de Mongolia (en mongol cirílico: Монголын төр; romanización: Mongolyn tör), es un estado soberano, sin acceso al mar, situado en Asia Oriental. Limita con Rusia al norte y con China al sur. Su capital es Ulán Bator, en donde reside la mitad de la población total. Esta nación tiene sus raíces en el antiguo Imperio mongol, que dominó gran parte de Asia durante el siglo xiii."
   },
   {
     "country": "Lebanon",
@@ -273,7 +273,7 @@
     "dataYear": 2011,
     "lessThan10aDay": 15.2300,
     "lessThan550aDay": 2.5000,
-    "description":""
+    "description":"Líbano, oficialmente la República Libanesa, es un país en Oriente Próximo que limita al sur con Israel y al norte y al este con Siria, y está bañado por el mar Mediterráneo al oeste. En las ciudades de Baalbek, Tiro y Biblos existen los templos romanos y santuarios fenicios más antiguos conservados."
   },
   {
     "country": "Brazil",
@@ -281,7 +281,7 @@
     "dataYear": 2018,
     "lessThan10aDay": 39.6600,
     "lessThan550aDay": 19.6200,
-    "description":""
+    "description":"Brasil es un vasto país de Sudamérica que se extiende desde la Cuenca del Amazonas en el norte hasta los viñedos y las enormes cataratas del Iguazú en el sur. Río de Janeiro, simbolizado por su estatua de 38 m del Cristo Redentor sobre el cerro del Corcovado, es famoso por sus ajetreadas playas Copacabana e Ipanema, junto con su enorme y estridente festival del Carnaval, que cuenta con carros alegóricos, exuberantes disfraces y danza y música samba."
   },
   {
     "country": "Tanzania",
@@ -289,7 +289,7 @@
     "dataYear": 2017,
     "lessThan10aDay": 97.7100,
     "lessThan550aDay": 91.4000,
-    "description":""
+    "description":"Tanzania es un país de África Oriental famoso por sus extensas zonas de fauna salvaje. Estas incluyen las llanuras del parque nacional Serengueti, una meca del safari poblada por los 'cinco grandes' animales (elefantes, leones, leopardos, búfalos y rinocerontes), y el parque nacional del Kilimanjaro, donde se ubica la montaña más alta de África. En el litoral, se ubican las islas tropicales de Zanzíbar, con influencias árabes, y de Mafia, con un parque marino con tiburones ballena y arrecifes de coral."
   },
   {
     "country": "Armenia",
@@ -297,7 +297,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 86.8400,
     "lessThan550aDay": 44.0200,
-    "description":""
+    "description":"Armenia es un país y antigua república soviética en la región montañosa del Cáucaso entre Asia y Europa. Es una de las primeras civilizaciones cristianas y se caracteriza por sus sitios religiosos, como el templo grecorromano de Garni y la catedral de Ejmiatsin del siglo IV, sede principal de la Iglesia Armenia. El monasterio Khor Virap es un sitio de peregrinaje cercano al monte Ararat, un volcán inactivo justo en frente de la frontera en Turquía."
   },
   {
     "country": "Tajikistan",
@@ -305,7 +305,7 @@
     "dataYear": 2019,
     "lessThan10aDay": 76.6900,
     "lessThan550aDay": 38.4900,
-    "description":""
+    "description":"Tayikistán,​ oficialmente la República de Tayikistán (en tayiko, Ҷумҳурии Тоҷикистон, romanizado: Yumhurii Toyikiston; en ruso, Республика Таджикистан, romanizado: Respúblika Tadzhikistán), 1 es un país soberano sin litoral ubicado en Asia Central. Cuenta con una población estimada de 8 millones (datos de 2013), y una superficie de 144 100 km². Limita con Afganistán al sur, Uzbekistán al oeste, Kirguistán al norte, y la República Popular China al este. Pakistán se encuentra al sur, separados por el corredor de Waján. El hogar tradicional de pueblo tayiko incluye la actual Tayikistán, Afganistán y Uzbekistán. Su capital es Dusambé."
   },
   {
     "country": "Tuvalu",
