@@ -1,7 +1,9 @@
-<!-- <mat-form-field>
+<!-- Filtrar per caracters -->
+<mat-form-field class="buscador">
   <mat-label>Buscar</mat-label>
-  <input matInput (keyup)="filtrar($event)" placeholder="buscar">
-</mat-form-field> -->
+  <input matInput (keyup)="filtrar($event)" placeholder="Pais">
+</mat-form-field>
+
 <table mat-table [dataSource]="dataSource" multiTemplateDataRows class="mat-elevation-z8" matSort>
   <!-- Nom columna i fila -->
   <ng-container matColumnDef="{{columnsToDisplay[0]}}">

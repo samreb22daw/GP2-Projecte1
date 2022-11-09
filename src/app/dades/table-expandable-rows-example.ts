@@ -51,10 +51,13 @@ export class TableExpandableRowsExample {
     }
   }
 
+  filtrar(event: Event) {
+    const filtro = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filtro.trim().toLowerCase();
+  }
+
 }
 /** Announce the change in sort state for assistive technology. */
-
-
 
 interface dades {
   country?: string;
@@ -66,5 +69,3 @@ interface dades {
 }
 
 const ELEMENT_DATA: dades[] = dades;
-
-console.log(dades);
