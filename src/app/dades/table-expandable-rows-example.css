@@ -59,7 +59,9 @@ tr.example-element-row:not(.example-expanded-row):active {
 
 .example-element-diagram img{
   width: 200px;
+  height: 110px; 
   object-fit: cover;
+  border-radius: 7px;
 }
 
 .example-element-symbol {
