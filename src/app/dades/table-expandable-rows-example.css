@@ -4,6 +4,11 @@ table {
   width: 60%;
 }
 
+.buscador {
+  top: 5%;
+  left: 20%;
+}
+
 tr.example-detail-row {
   height: 0;
 }
