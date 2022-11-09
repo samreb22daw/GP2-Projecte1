@@ -1,6 +1,9 @@
 import {Component} from '@angular/core';
+import {AfterViewInit, ViewChild} from '@angular/core';
+import {MatPaginator} from '@angular/material/paginator';
 import dades from './data.json';
 import {animate, state, style, transition, trigger} from '@angular/animations';
+import {MatTableDataSource} from '@angular/material/table';
 
 /**
  * @title Table with expandable rows
@@ -18,11 +21,19 @@ import {animate, state, style, transition, trigger} from '@angular/animations';
     ]),
   ],
 })
+
 export class TableExpandableRowsExample {
-  dataSource = ELEMENT_DATA;
+  dataSource = new MatTableDataSource<dades>(ELEMENT_DATA);
   columnsToDisplay = ['country', 'percPoverty', 'dataYear', 'lessThan10aDay','lessThan550aDay'];
   columnsToDisplayWithExpand = [...this.columnsToDisplay, 'expand'];
   expandedElement: dades | any;
+
+  @ViewChild(MatPaginator) paginator: MatPaginator;
+
+  ngAfterViewInit() {
+    this.dataSource.paginator = this.paginator;
+  }
+  
 }
 
 interface dades {
