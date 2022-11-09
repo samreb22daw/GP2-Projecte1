@@ -4,6 +4,11 @@ table {
   width: 60%;
 }
 
+.buscador {
+  top: 5%;
+  left: 20%;
+}
+
 tr.example-detail-row {
   height: 0;
 }
@@ -17,27 +22,23 @@ tr.example-element-row:not(.example-expanded-row):active {
 }
 
 .celdaPercentatgePobresa{
-  padding-right: 7%;
-  text-align: center;
-}
-
-.celdaMenys550{
-  padding-right: 6%;
-  text-align: center;
+  padding-left: 3.5em;
 }
 
 .celdaMenys10{
-  padding-right: 5.5%;
-  text-align: center;
+  padding-left: 2em;
 }
+
+.celdaMenys550{
+  padding-left: 2.5em;
+}
+
+
 
 .celdaAny{
-  padding-left: 0.5%;
+  padding-left: 0.4em;
 }
 
-.celdaPais{
-  padding-left: 0.5%;
-}
 
 .example-element-row td {
   border-bottom-width: 0;
@@ -59,7 +60,9 @@ tr.example-element-row:not(.example-expanded-row):active {
 
 .example-element-diagram img{
   width: 200px;
+  height: 110px; 
   object-fit: cover;
+  border-radius: 7px;
 }
 
 .example-element-symbol {
