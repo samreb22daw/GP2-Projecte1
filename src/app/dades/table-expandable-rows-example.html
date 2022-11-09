@@ -11,7 +11,7 @@
 
   <ng-container matColumnDef="{{columnsToDisplay[1]}}">
     <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Percentatge de pobresa"> Percentatge de pobresa </th>
-    <td mat-cell *matCellDef="let element">
+    <td mat-cell *matCellDef="let element" class="celdaPercentatgePobresa">
       <div *ngIf="element[columnsToDisplay[1]];else elseBlock" >{{element[columnsToDisplay[1]]}}%</div>
       <ng-template #elseBlock>----</ng-template>
     </td>
@@ -19,7 +19,7 @@
 
   <ng-container matColumnDef="{{columnsToDisplay[2]}}">
     <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Menys de 10$/dia"> Menys de 10$/dia </th>
-    <td mat-cell *matCellDef="let element">
+    <td mat-cell *matCellDef="let element" class="celdaMenys10">
       <div *ngIf="element[columnsToDisplay[2]];else elseBlock" >{{element[columnsToDisplay[2]]}}%</div>
       <ng-template #elseBlock>----</ng-template>
     </td>
@@ -27,14 +27,14 @@
 
   <ng-container matColumnDef="{{columnsToDisplay[3]}}">
     <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Menys de 5.50$/dia"> Menys de 5.50$/dia </th>
-    <td mat-cell *matCellDef="let element">
+    <td mat-cell *matCellDef="let element" class="celdaMenys550">
       <div *ngIf="element[columnsToDisplay[3]];else elseBlock" >{{element[columnsToDisplay[3]]}}%</div>
       <ng-template #elseBlock>----</ng-template>
     </td>
   </ng-container>
 
   <ng-container matColumnDef="{{columnsToDisplay[4]}}">
-    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Any"> Any </th>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Any" class="celdaAny"> Any </th>
     <td mat-cell *matCellDef="let element"> {{element[columnsToDisplay[4]]}} </td>
   </ng-container>
 
