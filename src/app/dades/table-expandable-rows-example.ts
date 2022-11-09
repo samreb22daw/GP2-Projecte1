@@ -27,10 +27,10 @@ export class TableExpandableRowsExample {
 
 interface dades {
   country?: string;
-  percPoverty?: any;
-  dataYear?: any;
-  lessThan10aDay?: any;
-  lessThan550aDay?: any;
+  percPoverty?: number;
+  dataYear?: number;
+  lessThan10aDay?: number;
+  lessThan550aDay?: number;
   description?: string;
 }
 
