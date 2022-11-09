@@ -2,15 +2,15 @@
   <mat-label>Buscar</mat-label>
   <input matInput (keyup)="filtrar($event)" placeholder="buscar">
 </mat-form-field> -->
-<table mat-table [dataSource]="dataSource" multiTemplateDataRows class="mat-elevation-z8">
+<table mat-table [dataSource]="dataSource" multiTemplateDataRows class="mat-elevation-z8" matSort>
   <!-- Nom columna i fila -->
   <ng-container matColumnDef="{{columnsToDisplay[0]}}">
-    <th mat-header-cell *matHeaderCellDef> Pais </th>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by País"> Pais </th>
     <td mat-cell *matCellDef="let element"> {{element[columnsToDisplay[0]]}} </td>
   </ng-container>
 
   <ng-container matColumnDef="{{columnsToDisplay[1]}}">
-    <th mat-header-cell *matHeaderCellDef> Percentatge de pobresa </th>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Percentatge de pobresa"> Percentatge de pobresa </th>
     <td mat-cell *matCellDef="let element">
       <div *ngIf="element[columnsToDisplay[1]];else elseBlock" >{{element[columnsToDisplay[1]]}}%</div>
       <ng-template #elseBlock>----</ng-template>
@@ -18,12 +18,15 @@
   </ng-container>
 
   <ng-container matColumnDef="{{columnsToDisplay[2]}}">
-    <th mat-header-cell *matHeaderCellDef> Any </th>
-    <td mat-cell *matCellDef="let element"> {{element[columnsToDisplay[2]]}} </td>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Menys de 10$/dia"> Menys de 10$/dia </th>
+    <td mat-cell *matCellDef="let element">
+      <div *ngIf="element[columnsToDisplay[2]];else elseBlock" >{{element[columnsToDisplay[2]]}}%</div>
+      <ng-template #elseBlock>----</ng-template>
+    </td>
   </ng-container>
 
   <ng-container matColumnDef="{{columnsToDisplay[3]}}">
-    <th mat-header-cell *matHeaderCellDef> Menys de 10$/dia </th>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Menys de 5.50$/dia"> Menys de 5.50$/dia </th>
     <td mat-cell *matCellDef="let element">
       <div *ngIf="element[columnsToDisplay[3]];else elseBlock" >{{element[columnsToDisplay[3]]}}%</div>
       <ng-template #elseBlock>----</ng-template>
@@ -31,11 +34,8 @@
   </ng-container>
 
   <ng-container matColumnDef="{{columnsToDisplay[4]}}">
-    <th mat-header-cell *matHeaderCellDef> Menys de 5.50$/dia </th>
-    <td mat-cell *matCellDef="let element">
-      <div *ngIf="element[columnsToDisplay[4]];else elseBlock" >{{element[columnsToDisplay[4]]}}%</div>
-      <ng-template #elseBlock>----</ng-template>
-    </td>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by Any"> Any </th>
+    <td mat-cell *matCellDef="let element"> {{element[columnsToDisplay[4]]}} </td>
   </ng-container>
 
   <!-- Cel·la -->
@@ -76,7 +76,7 @@
   </tr>
   <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
 </table>
-<mat-paginator [pageSizeOptions]="[5, 10, 20]"
+<mat-paginator [pageSizeOptions]="[5, 10, 20, 150]"
   showFirstLastButtons 
   aria-label="Select page of countries">
 </mat-paginator>

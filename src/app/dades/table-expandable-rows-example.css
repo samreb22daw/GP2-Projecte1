@@ -56,3 +56,11 @@ tr.example-element-row:not(.example-expanded-row):active {
 .element1 {
   padding-right: -50px;
 }
+
+mat-paginator {
+  margin-right: 20%;
+}
+
+mat-option:last-child::before{
+  content:'All' !important;
+}
