@@ -16,6 +16,29 @@ tr.example-element-row:not(.example-expanded-row):active {
   background: #efefef;
 }
 
+.celdaPercentatgePobresa{
+  padding-right: 7%;
+  text-align: center;
+}
+
+.celdaMenys550{
+  padding-right: 6%;
+  text-align: center;
+}
+
+.celdaMenys10{
+  padding-right: 5.5%;
+  text-align: center;
+}
+
+.celdaAny{
+  padding-left: 0.5%;
+}
+
+.celdaPais{
+  padding-left: 0.5%;
+}
+
 .example-element-row td {
   border-bottom-width: 0;
 }
@@ -56,6 +79,7 @@ tr.example-element-row:not(.example-expanded-row):active {
 .element1 {
   padding-right: -50px;
 }
+
 
 mat-paginator {
   margin-right: 20%;
