@@ -307,7 +307,7 @@
     "access2Electricity": 18.95723915,
     "lifeExpectancy": 61.981,
     "rentaPerCapita": 918.1525819,
-    "description": ""
+    "description": "Burkina Faso és una república de l'Àfrica Occidental situada a la part superior del riu Volta. Limita al nord i a l'oest amb Mali, a l'est amb el Níger i Benín, i al sud amb Togo, Ghana i Costa d'Ivori. La capital i ciutat més poblada n'és Ouagadougou. El seu nom significa 'país de les persones íntegres'."
   },
   {
     "country": "Burundi",
@@ -317,7 +317,7 @@
     "access2Electricity": 11.73555565,
     "lifeExpectancy": 61.916,
     "rentaPerCapita": 236.7954142,
-    "description": ""
+    "description": "Burundi és un estat de l'Àfrica centre-oriental, situat en un altiplà a la regió dels Grans Llacs, a la riba est del llac Tanganyika. Afronta al nord amb Ruanda, a l'oest amb la República Democràtica del Congo i a l'est i al sud amb Tanzània."
   },
   {
     "country": "Cabo Verde",
@@ -327,7 +327,7 @@
     "access2Electricity": 94.16174316,
     "lifeExpectancy": 73.166,
     "rentaPerCapita": 3445.756536,
-    "description": ""
+    "description": "Cap Verd és una república insular situada en un arxipèlag de l'Atlàntic nord, enllà de la costa occidental de l'Àfrica. La capital és Praia i la segona ciutat més poblada és Mindelo."
   },
   {
     "country": "Cambodia",
@@ -337,7 +337,7 @@
     "access2Electricity": 86.40000153,
     "lifeExpectancy": 70.054,
     "rentaPerCapita": 1590.95666,
-    "description": ""
+    "description": "Cambodja és un regne del sud-est asiàtic, situat a la península d'Indo-xina. Limita amb Tailàndia al nord-oest, amb Laos al nord-est, amb el Vietnam a l'est i al sud, i amb el golf de Siam al sud-oest. La capital és Phnom Penh. La religió principal és el budisme."
   },
   {
     "country": "Cameroon",
@@ -347,24 +347,27 @@
     "access2Electricity": 64.72136688,
     "lifeExpectancy": 59.626,
     "rentaPerCapita": 1661.702105,
-    "description": ""
+    "description": "El Camerun, oficialment República del Camerun, és un país de l'Àfrica Central. Limita amb Nigèria a l'oest i el nord, el Txad al nord-est, la República Centreafricana a l'est i Guinea Equatorial, el Gabon i la República del Congo al sud."
   },
   {
     "country": "Canada",
     "population": 38246108,
+    "percPoverty": 10.9,
+    "literacyRate15Above": 86.3,
     "access2Electricity": 100,
     "lifeExpectancy": 81.74878049,
     "rentaPerCapita": 52051.35146,
-    "description": ""
+    "description": "El Canadà és un estat situat a l'extrem septentrional d'Amèrica del Nord. Es tracta de l'estat independent més proper al pol Nord i, per la seva extensió, el segon més gran del món després de Rússia."
   },
   {
     "country": "Cayman Islands",
     "population": 66498,
+    "percPoverty": 1.9,
     "literacyRate15Above": 98.86782074,
     "access2Electricity": 100,
     "lifeExpectancy": 82.1902439,
     "rentaPerCapita": 85346.76195,
-    "description": ""
+    "description": "Les Illes Caiman són un territori del Regne Unit al mar Carib, al sud de Cuba i al nord-oest de Jamaica. Inclou tres illes: Grand Cayman, Cayman Brac i Little Cayman. El 60% dels caimanians es poden considerar afroamericans de les Illes Caiman. El 20% en són caimanesos negres i el 40% mulats."
   },
   {
     "country": "Central African Republic",
@@ -374,7 +377,7 @@
     "access2Electricity": 15.46508408,
     "lifeExpectancy": 53.679,
     "rentaPerCapita": 511.4847456,
-    "description": ""
+    "description": "La República Centreafricana és un país sense sortida al mar, situat al centre d'Àfrica. Limita al nord amb el Txad, a l'est amb el Sudan i el Sudan del Sud, al sud amb la República del Congo i la República Democràtica del Congo i a l'oest amb el Camerun. Va ser colònia francesa amb el nom d'Ubangui-Chari."
   },
   {
     "country": "Chad",
@@ -384,15 +387,17 @@
     "access2Electricity": 11.08011723,
     "lifeExpectancy": 54.505,
     "rentaPerCapita": 696.4227755,
-    "description": ""
+    "description": "La República del Txad o, senzillament, el Txad és una república de l'Àfrica central sense sortida al mar, que limita al nord amb Líbia, a l'est amb el Sudan, al sud amb la República Centreafricana, al sud-oest amb el Camerun i Nigèria i a l'oest amb el Níger."
   },
   {
     "country": "Channel Islands",
     "population": 175244,
+    "percPoverty": 7.64,
+    "literacyRate15Above": 83,
     "access2Electricity": 100,
     "lifeExpectancy": 83.24,
     "rentaPerCapita": 74463.01592,
-    "description": ""
+    "description": "Les illes Anglonormandes o illes del Canal són un grup d'illes del canal de la Mànega situades a l'oest de la península de Cotentin. Pertanyen a la Corona Britànica, si bé no formen part del Regne Unit. Administrativament estan separades en dues batllies: Jersey i Guernsey."
   },
   {
     "country": "Chile",
