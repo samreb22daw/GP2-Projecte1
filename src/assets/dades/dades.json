@@ -102,19 +102,22 @@
   {
     "country": "Australia",
     "population": 25739256,
+    "percPoverty": 2.7,
+    "literacyRate15Above": 99,
     "access2Electricity": 100,
     "lifeExpectancy": 83.2,
     "rentaPerCapita": 59934.12941,
-    "description": ""
+    "description": "Austràlia, oficialment la Mancomunitat d'Austràlia, és un estat de l'hemisferi sud que conforma un continent; i que inclou, a més, diverses illes petites dels oceans Pacífic i Índic."
   },
   {
     "country": "Austria",
     "population": 8956279,
     "percPoverty": 14.7,
+    "literacyRate15Above": 99,
     "access2Electricity": 100,
     "lifeExpectancy": 81.19268293,
     "rentaPerCapita": 53267.93275,
-    "description": ""
+    "description": "Àustria, oficialment la República d'Àustria, és un estat sense litoral a l'Europa central. Limita amb Alemanya i Txèquia al nord, amb Eslovàquia i Hongria a l'est, amb Eslovènia i Itàlia al sud, i amb Suïssa i Liechtenstein a l'oest. La capital n'és Viena."
   },
   {
     "country": "Azerbaijan",
@@ -124,24 +127,27 @@
     "access2Electricity": 100,
     "lifeExpectancy": 73.123,
     "rentaPerCapita": 5384.034998,
-    "description": ""
+    "description": "L'Azerbaidjan o Azerbaitjan, oficialment la República de l'Azerbaidjan, és l'estat més gran de la regió del Caucas, localitzat entre l'Àsia occidental i Europa oriental. Limita a l'est amb el mar Caspi, al nord amb Rússia, al nord-oest amb Geòrgia, a l'oest amb Armènia i al sud amb l'Iran."
   },
   {
     "country": "Bahamas, The",
     "population": 396914,
+    "percPoverty": 9.3,
+    "literacyRate15Above": 95.8,
     "access2Electricity": 100,
     "lifeExpectancy": 74.053,
     "rentaPerCapita": 28239.36671,
-    "description": ""
+    "description": "Les Bahames són un estat insular de l'Amèrica Central, situat a l'oceà Atlàntic, al sud-est de la península de Florida, al nord-est de Cuba, al nord d'Haití i a l'oest de les illes Turks i Caicos."
   },
   {
     "country": "Bahrain",
     "population": 1748295,
+    "percPoverty": 0,
     "literacyRate15Above": 90.97740173,
     "access2Electricity": 100,
     "lifeExpectancy": 77.419,
     "rentaPerCapita": 22232.32523,
-    "description": ""
+    "description": "Bahrain, oficialment el Regne de Bahrain, és un estat insular del sud-oest d'Àsia, format per un arxipèlag d'unes 30 illes situat al Golf Pèrsic, prop de la costa de l'Aràbia Saudita, a la qual la uneix un dic artificial de 24 km; les illes principals són Al-Bahrayn i Al-Muharraq, unides també per un dic."
   },
   {
     "country": "Bangladesh",
@@ -151,16 +157,17 @@
     "access2Electricity": 96.19999695,
     "lifeExpectancy": 72.868,
     "rentaPerCapita": 2503.04388,
-    "description": ""
+    "description": "Bangladesh és una república popular de l'Àsia meridional, situada al golf de Bengala, al delta que formen els rius Ganges i Brahmaputra. El nom Bangladesh significa, en bengalí, 'Estat de Bengala'. També pot significar 'país dels bengalins'."
   },
   {
     "country": "Barbados",
     "population": 287708,
+    "percPoverty": 14,
     "literacyRate15Above": 99.59999847,
     "access2Electricity": 100,
     "lifeExpectancy": 79.308,
     "rentaPerCapita": 17033.93719,
-    "description": ""
+    "description": "Barbados és un estat insular de l'Amèrica Central, a les Petites Antilles. Està format per l'illa del mateix nom, situada a l'oceà Atlàntic, a l'est de Saint Vincent i les Grenadines. Antiga colònia britànica, és independent des de 1966."
   },
   {
     "country": "Belarus",
@@ -170,25 +177,27 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.22682927,
     "rentaPerCapita": 7303.696266,
-    "description": ""
+    "description": "Bielorússia o Belarús, oficialment República de Belarús, és un estat sense litoral de l'Europa de l'Est. Limita amb Rússia al nord-est, Ucraïna al sud, Polònia a l'oest i Lituània i Letònia al nord-oest. La capital n'és Minsk. Els boscos en cobreixen més d'un 40% de la superfície de 207.600 km²."
   },
   {
     "country": "Belgium",
     "population": 11587882,
     "percPoverty": 13.1,
+    "literacyRate15Above": 99,
     "access2Electricity": 100,
     "lifeExpectancy": 80.79512195,
     "rentaPerCapita": 51767.78857,
-    "description": ""
+    "description": "Bèlgica, oficialment el Regne de Bèlgica és un estat de l'Europa occidental. Situat sobre la frontera cultural entre l'Europa germànica i l'Europa llatina, Bèlgica és la llar de dos grups culturals principals: els flamencs a Flandes, al nord, i els francoparlants o valons a Valònia, al sud."
   },
   {
     "country": "Belize",
     "population": 404915,
+    "percPoverty": 4.3,
     "literacyRate15Above": 76.90297699,
     "access2Electricity": 97.11333466,
     "lifeExpectancy": 74.754,
     "rentaPerCapita": 4420.491372,
-    "description": ""
+    "description": "Belize és un estat de l'Amèrica central, que limita al nord i al nord-oest amb Mèxic, a l'oest i al sud amb Guatemala i a l'est amb el mar de les Antilles. La capital és Belmopan i la principal aglomeració urbana és la ciutat de Belize, l'antiga capital del país i el seu principal port."
   },
   {
     "country": "Benin",
