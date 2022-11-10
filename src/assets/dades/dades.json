@@ -7,7 +7,7 @@
     "access2Electricity": 97.69999695,
     "lifeExpectancy": 65.173,
     "rentaPerCapita": 516.7478708,
-    "description": ""
+    "description": "L'Afganistan, oficialment l'Emirat Islàmic de l'Afganistan, és un estat sense litoral situat a la cruïlla de l'Àsia Central i de l'Àsia Meridional, a l'altiplà iranià, a la zona de transició entre l'Himàlaia i les regions de la mar Càspia."
   },
   {
     "country": "Albania",
@@ -17,7 +17,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.686,
     "rentaPerCapita": 6494.385713,
-    "description": ""
+    "description": "Albània és una república d'Europa, situada a la zona dels Balcans. Limita al nord amb Montenegro, al nord-est amb Kosovo, a l'est amb Macedònia del Nord, al sud amb Grècia, a l'oest amb la mar Adriàtica i al sud-oest amb la mar Jònica."
   },
   {
     "country": "Algeria",
@@ -27,21 +27,27 @@
     "access2Electricity": 99.80413055,
     "lifeExpectancy": 77.063,
     "rentaPerCapita": 3765.034625,
-    "description": ""
+    "description": "Algèria, oficialment República Democràtica Popular d'Algèria, és un estat del nord d'Àfrica. És l'estat més gran del continent i de la riba mediterrània, així com el desè estat més gran del món en termes de superfície."
   },
   {
     "country": "American Samoa",
     "population": 55103,
+    "percPoverty": 20,
     "literacyRate15Above": 97.34416199,
+    "access2Electricity": 100.00,
+    "lifeExpectancy": 73.45,
     "rentaPerCapita": 12844.90099,
-    "description": ""
+    "description": "La Samoa Nord-americana és un territori no incorporat dels Estats Units. Junt amb l'estat de Samoa comparteix l'arxipèlag de les illes Samoa a la Polinèsia. També s'anomena Samoa Americana, però està situada a 7.700 km de la costa americana."
   },
   {
     "country": "Andorra",
     "population": 77354,
+    "percPoverty": 13,
+    "literacyRate15Above": 100,
     "access2Electricity": 100,
+    "lifeExpectancy": 87,
     "rentaPerCapita": 43047.68627,
-    "description": ""
+    "description": "Andorra, oficialment Principat d'Andorra, és un microestat independent de l'Europa sud-occidental situat als Pirineus entre Catalunya i França. Limita amb Catalunya del Sud al sud, amb Catalunya del Nord al nord-est i amb el departament franco-occità de l'Arieja al nord."
   },
   {
     "country": "Angola",
@@ -51,16 +57,17 @@
     "access2Electricity": 46.89060974,
     "lifeExpectancy": 61.487,
     "rentaPerCapita": 2137.909393,
-    "description": ""
+    "description": "La República d'Angola és un estat de la costa occidental de l'Àfrica, que confronta amb la República Democràtica del Congo al nord i a l'est, amb Zàmbia a l'est, amb Namíbia al sud i amb l'oceà Atlàntic a l'oest."
   },
   {
     "country": "Antigua and Barbuda",
     "population": 98728,
+    "percPoverty": 18.3,
     "literacyRate15Above": 98.94999695,
     "access2Electricity": 100,
     "lifeExpectancy": 77.146,
     "rentaPerCapita": 14900.7974,
-    "description": ""
+    "description": "Antigua i Barbuda és un estat insular de l'Amèrica Central, a l'oceà Atlàntic. Comprèn les illes d'Antigua, Barbuda i Redonda, grup d'illes de les Petites Antilles situat entre Saint-Barthélemy al nord-oest, Saint Kitts i Nevis i Montserrat a l'oest i Guadeloupe al sud. La capital és Saint John's."
   },
   {
     "country": "Argentina",
@@ -70,7 +77,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 76.813,
     "rentaPerCapita": 10729.23258,
-    "description": ""
+    "description": "L'Argentina, oficialment la República Argentina, és un Estat sobirà de l'Amèrica del Sud organitzat com a república representativa i federal, integrat per vint-i-tres províncies i una ciutat autònoma, Buenos Aires, la qual és la capital."
   },
   {
     "country": "Armenia",
@@ -80,16 +87,17 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.224,
     "rentaPerCapita": 4670.008798,
-    "description": ""
+    "description": "La República d'Armènia o Armènia és un país del Caucas, del 1990 ençà una república independent que es va segregar de la Unió Soviètica. Geogràficament, l'estat armeni pertany a Àsia, tot i que està fortament lligat a Europa per raons històriques i culturals."
   },
   {
     "country": "Aruba",
     "population": 107195,
+    "percPoverty": 0,
     "literacyRate15Above": 97.80741882,
     "access2Electricity": 100,
     "lifeExpectancy": 76.434,
     "rentaPerCapita": 23384.29879,
-    "description": ""
+    "description": "Aruba és una illa del Carib situada 10 quilòmetres al nord de la península de Paraguaná, part del Regne dels Països Baixos. Juntament amb Bonaire i Curaçao forma les illes ABC. Té una població d'uns 100.000 habitants i una superfície de 180 km²."
   },
   {
     "country": "Australia",
