@@ -1,0 +1,2047 @@
+[
+  {
+    "country": "Afghanistan",
+    "population": 39835428,
+    "percPoverty": 54.5,
+    "literacyRate15Above": 37.2660408,
+    "access2Electricity": 97.69999695,
+    "lifeExpectancy": 65.173,
+    "rentaPerCapita": 516.7478708,
+    "description": ""
+  },
+  {
+    "country": "Albania",
+    "population": 2811666,
+    "percPoverty": 21.8,
+    "literacyRate15Above": 98.14115143,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.686,
+    "rentaPerCapita": 6494.385713,
+    "description": ""
+  },
+  {
+    "country": "Algeria",
+    "population": 44616626,
+    "percPoverty": 5.5,
+    "literacyRate15Above": 81.40783691,
+    "access2Electricity": 99.80413055,
+    "lifeExpectancy": 77.063,
+    "rentaPerCapita": 3765.034625,
+    "description": ""
+  },
+  {
+    "country": "American Samoa",
+    "population": 55103,
+    "literacyRate15Above": 97.34416199,
+    "rentaPerCapita": 12844.90099,
+    "description": ""
+  },
+  {
+    "country": "Andorra",
+    "population": 77354,
+    "access2Electricity": 100,
+    "rentaPerCapita": 43047.68627,
+    "description": ""
+  },
+  {
+    "country": "Angola",
+    "population": 33933611,
+    "percPoverty": 32.3,
+    "literacyRate15Above": 66.03011322,
+    "access2Electricity": 46.89060974,
+    "lifeExpectancy": 61.487,
+    "rentaPerCapita": 2137.909393,
+    "description": ""
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "population": 98728,
+    "literacyRate15Above": 98.94999695,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.146,
+    "rentaPerCapita": 14900.7974,
+    "description": ""
+  },
+  {
+    "country": "Argentina",
+    "population": 45808747,
+    "percPoverty": 42,
+    "literacyRate15Above": 99.0038681,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.813,
+    "rentaPerCapita": 10729.23258,
+    "description": ""
+  },
+  {
+    "country": "Armenia",
+    "population": 2968128,
+    "percPoverty": 27,
+    "literacyRate15Above": 99.78861237,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.224,
+    "rentaPerCapita": 4670.008798,
+    "description": ""
+  },
+  {
+    "country": "Aruba",
+    "population": 107195,
+    "literacyRate15Above": 97.80741882,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.434,
+    "rentaPerCapita": 23384.29879,
+    "description": ""
+  },
+  {
+    "country": "Australia",
+    "population": 25739256,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.2,
+    "rentaPerCapita": 59934.12941,
+    "description": ""
+  },
+  {
+    "country": "Austria",
+    "population": 8956279,
+    "percPoverty": 14.7,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.19268293,
+    "rentaPerCapita": 53267.93275,
+    "description": ""
+  },
+  {
+    "country": "Azerbaijan",
+    "population": 10145212,
+    "percPoverty": 6,
+    "literacyRate15Above": 99.79598236,
+    "access2Electricity": 100,
+    "lifeExpectancy": 73.123,
+    "rentaPerCapita": 5384.034998,
+    "description": ""
+  },
+  {
+    "country": "Bahamas, The",
+    "population": 396914,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.053,
+    "rentaPerCapita": 28239.36671,
+    "description": ""
+  },
+  {
+    "country": "Bahrain",
+    "population": 1748295,
+    "literacyRate15Above": 90.97740173,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.419,
+    "rentaPerCapita": 22232.32523,
+    "description": ""
+  },
+  {
+    "country": "Bangladesh",
+    "population": 166303494,
+    "percPoverty": 24.3,
+    "literacyRate15Above": 74.9088974,
+    "access2Electricity": 96.19999695,
+    "lifeExpectancy": 72.868,
+    "rentaPerCapita": 2503.04388,
+    "description": ""
+  },
+  {
+    "country": "Barbados",
+    "population": 287708,
+    "literacyRate15Above": 99.59999847,
+    "access2Electricity": 100,
+    "lifeExpectancy": 79.308,
+    "rentaPerCapita": 17033.93719,
+    "description": ""
+  },
+  {
+    "country": "Belarus",
+    "population": 9340314,
+    "percPoverty": 4.8,
+    "literacyRate15Above": 99.87400055,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.22682927,
+    "rentaPerCapita": 7303.696266,
+    "description": ""
+  },
+  {
+    "country": "Belgium",
+    "population": 11587882,
+    "percPoverty": 13.1,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.79512195,
+    "rentaPerCapita": 51767.78857,
+    "description": ""
+  },
+  {
+    "country": "Belize",
+    "population": 404915,
+    "literacyRate15Above": 76.90297699,
+    "access2Electricity": 97.11333466,
+    "lifeExpectancy": 74.754,
+    "rentaPerCapita": 4420.491372,
+    "description": ""
+  },
+  {
+    "country": "Benin",
+    "population": 12451031,
+    "percPoverty": 38.5,
+    "literacyRate15Above": 42.36240005,
+    "access2Electricity": 41.41095734,
+    "lifeExpectancy": 62.077,
+    "rentaPerCapita": 1428.447177,
+    "description": ""
+  },
+  {
+    "country": "Bermuda",
+    "population": 63867,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.05609756,
+    "rentaPerCapita": 110869.4631,
+    "description": ""
+  },
+  {
+    "country": "Bhutan",
+    "population": 779900,
+    "percPoverty": 8.2,
+    "literacyRate15Above": 66.5611496,
+    "access2Electricity": 100,
+    "lifeExpectancy": 72.08,
+    "rentaPerCapita": 3000.777986,
+    "description": ""
+  },
+  {
+    "country": "Bolivia",
+    "population": 11832936,
+    "percPoverty": 39,
+    "literacyRate15Above": 93.85256195,
+    "access2Electricity": 97.55412292,
+    "lifeExpectancy": 71.771,
+    "rentaPerCapita": 3414.892849,
+    "description": ""
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "population": 3263459,
+    "percPoverty": 16.9,
+    "literacyRate15Above": 96.99176788,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.545,
+    "rentaPerCapita": 6916.438315,
+    "description": ""
+  },
+  {
+    "country": "Botswana",
+    "population": 2397240,
+    "percPoverty": 19.3,
+    "literacyRate15Above": 86.82318115,
+    "access2Electricity": 71.99475861,
+    "lifeExpectancy": 69.793,
+    "rentaPerCapita": 7347.552382,
+    "description": ""
+  },
+  {
+    "country": "Brazil",
+    "population": 213993441,
+    "literacyRate15Above": 93.22750092,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.084,
+    "rentaPerCapita": 7518.834284,
+    "description": ""
+  },
+  {
+    "country": "British Virgin Islands",
+    "population": 30423,
+    "access2Electricity": 100,
+    "description": ""
+  },
+  {
+    "country": "Brunei Darussalam",
+    "population": 441532,
+    "literacyRate15Above": 97.21411133,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.998,
+    "rentaPerCapita": 31722.66014,
+    "description": ""
+  },
+  {
+    "country": "Bulgaria",
+    "population": 6899125,
+    "percPoverty": 22.1,
+    "literacyRate15Above": 98.35244751,
+    "access2Electricity": 99.69999695,
+    "lifeExpectancy": 73.60731707,
+    "rentaPerCapita": 11634.97102,
+    "description": ""
+  },
+  {
+    "country": "Burkina Faso",
+    "population": 21497097,
+    "percPoverty": 41.4,
+    "literacyRate15Above": 39.3458519,
+    "access2Electricity": 18.95723915,
+    "lifeExpectancy": 61.981,
+    "rentaPerCapita": 918.1525819,
+    "description": ""
+  },
+  {
+    "country": "Burundi",
+    "population": 12255429,
+    "percPoverty": 64.9,
+    "literacyRate15Above": 68.37532806,
+    "access2Electricity": 11.73555565,
+    "lifeExpectancy": 61.916,
+    "rentaPerCapita": 236.7954142,
+    "description": ""
+  },
+  {
+    "country": "Cabo Verde",
+    "population": 561901,
+    "percPoverty": 35,
+    "literacyRate15Above": 86.79029083,
+    "access2Electricity": 94.16174316,
+    "lifeExpectancy": 73.166,
+    "rentaPerCapita": 3445.756536,
+    "description": ""
+  },
+  {
+    "country": "Cambodia",
+    "population": 16946446,
+    "percPoverty": 17.7,
+    "literacyRate15Above": 80.52648926,
+    "access2Electricity": 86.40000153,
+    "lifeExpectancy": 70.054,
+    "rentaPerCapita": 1590.95666,
+    "description": ""
+  },
+  {
+    "country": "Cameroon",
+    "population": 27224262,
+    "percPoverty": 37.5,
+    "literacyRate15Above": 77.07103729,
+    "access2Electricity": 64.72136688,
+    "lifeExpectancy": 59.626,
+    "rentaPerCapita": 1661.702105,
+    "description": ""
+  },
+  {
+    "country": "Canada",
+    "population": 38246108,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.74878049,
+    "rentaPerCapita": 52051.35146,
+    "description": ""
+  },
+  {
+    "country": "Cayman Islands",
+    "population": 66498,
+    "literacyRate15Above": 98.86782074,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.1902439,
+    "rentaPerCapita": 85346.76195,
+    "description": ""
+  },
+  {
+    "country": "Central African Republic",
+    "population": 4919987,
+    "percPoverty": 62,
+    "literacyRate15Above": 37.39582062,
+    "access2Electricity": 15.46508408,
+    "lifeExpectancy": 53.679,
+    "rentaPerCapita": 511.4847456,
+    "description": ""
+  },
+  {
+    "country": "Chad",
+    "population": 16914985,
+    "percPoverty": 42.3,
+    "literacyRate15Above": 22.31155014,
+    "access2Electricity": 11.08011723,
+    "lifeExpectancy": 54.505,
+    "rentaPerCapita": 696.4227755,
+    "description": ""
+  },
+  {
+    "country": "Channel Islands",
+    "population": 175244,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.24,
+    "rentaPerCapita": 74463.01592,
+    "description": ""
+  },
+  {
+    "country": "Chile",
+    "population": 19212362,
+    "percPoverty": 10.8,
+    "literacyRate15Above": 96.40228271,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.329,
+    "rentaPerCapita": 16502.83857,
+    "description": ""
+  },
+  {
+    "country": "China",
+    "population": 1412360000,
+    "percPoverty": 0,
+    "literacyRate15Above": 96.84088898,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.097,
+    "rentaPerCapita": 12556.33312,
+    "description": ""
+  },
+  {
+    "country": "Colombia",
+    "population": 51265841,
+    "percPoverty": 42.5,
+    "literacyRate15Above": 95.63632965,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.46,
+    "rentaPerCapita": 6131.225922,
+    "description": ""
+  },
+  {
+    "country": "Comoros",
+    "population": 888456,
+    "percPoverty": 42.4,
+    "literacyRate15Above": 58.81702042,
+    "access2Electricity": 86.73713684,
+    "lifeExpectancy": 64.525,
+    "rentaPerCapita": 1494.687693,
+    "description": ""
+  },
+  {
+    "country": "Congo, Dem. Rep.",
+    "population": 92377986,
+    "percPoverty": 63.9,
+    "literacyRate15Above": 77.04267883,
+    "access2Electricity": 19.10000038,
+    "lifeExpectancy": 60.971,
+    "rentaPerCapita": 584.1064092,
+    "description": ""
+  },
+  {
+    "country": "Congo, Rep.",
+    "population": 5657017,
+    "percPoverty": 40.9,
+    "literacyRate15Above": 80.29875946,
+    "access2Electricity": 49.51710129,
+    "lifeExpectancy": 64.804,
+    "rentaPerCapita": 2213.880863,
+    "description": ""
+  },
+  {
+    "country": "Costa Rica",
+    "population": 5139053,
+    "percPoverty": 30,
+    "literacyRate15Above": 97.86379242,
+    "access2Electricity": 99.90000153,
+    "lifeExpectancy": 80.465,
+    "rentaPerCapita": 12508.61563,
+    "description": ""
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "population": 27053629,
+    "percPoverty": 39.5,
+    "literacyRate15Above": 89.89341736,
+    "access2Electricity": 69.67912292,
+    "lifeExpectancy": 58.104,
+    "rentaPerCapita": 2578.760412,
+    "description": ""
+  },
+  {
+    "country": "Croatia",
+    "population": 3899000,
+    "percPoverty": 18.3,
+    "literacyRate15Above": 99.12535858,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.72439024,
+    "rentaPerCapita": 17398.76598,
+    "description": ""
+  },
+  {
+    "country": "Cuba",
+    "population": 11317498,
+    "literacyRate15Above": 99.75253296,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.892,
+    "rentaPerCapita": 9477.852873,
+    "description": ""
+  },
+  {
+    "country": "Curacao",
+    "population": 152369,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.01707317,
+    "rentaPerCapita": 16109.86167,
+    "description": ""
+  },
+  {
+    "country": "Cyprus",
+    "population": 1215588,
+    "percPoverty": 14.3,
+    "literacyRate15Above": 98.67842865,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.135,
+    "rentaPerCapita": 30798.47656,
+    "description": ""
+  },
+  {
+    "country": "Czechia",
+    "population": 10703446,
+    "percPoverty": 8.6,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.22682927,
+    "rentaPerCapita": 26378.49996,
+    "description": ""
+  },
+  {
+    "country": "Denmark",
+    "population": 5856733,
+    "percPoverty": 12.3,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.55121951,
+    "rentaPerCapita": 67803.0471,
+    "description": ""
+  },
+  {
+    "country": "Djibouti",
+    "population": 1002197,
+    "percPoverty": 21.1,
+    "access2Electricity": 61.76708221,
+    "lifeExpectancy": 67.49,
+    "rentaPerCapita": 3363.712048,
+    "description": ""
+  },
+  {
+    "country": "Dominica",
+    "population": 72172,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.59756098,
+    "rentaPerCapita": 7559.975039,
+    "description": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "population": 10953714,
+    "percPoverty": 21,
+    "literacyRate15Above": 93.77845764,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.257,
+    "rentaPerCapita": 8603.789905,
+    "description": ""
+  },
+  {
+    "country": "Ecuador",
+    "population": 17888474,
+    "percPoverty": 33,
+    "literacyRate15Above": 93.62609863,
+    "access2Electricity": 98.84999847,
+    "lifeExpectancy": 77.216,
+    "rentaPerCapita": 5934.875496,
+    "description": ""
+  },
+  {
+    "country": "Egypt, Arab Rep.",
+    "population": 104258327,
+    "percPoverty": 32.5,
+    "literacyRate15Above": 71.16825104,
+    "access2Electricity": 100,
+    "lifeExpectancy": 72.15,
+    "rentaPerCapita": 3876.359594,
+    "description": ""
+  },
+  {
+    "country": "El Salvador",
+    "population": 6518500,
+    "percPoverty": 26.2,
+    "literacyRate15Above": 89.98452759,
+    "access2Electricity": 100,
+    "lifeExpectancy": 73.533,
+    "rentaPerCapita": 4408.520365,
+    "description": ""
+  },
+  {
+    "country": "Equatorial Guinea",
+    "population": 1449891,
+    "percPoverty": 76.8,
+    "literacyRate15Above": 94.3705368,
+    "access2Electricity": 66.74772644,
+    "lifeExpectancy": 59.057,
+    "rentaPerCapita": 8462.28633,
+    "description": ""
+  },
+  {
+    "country": "Eritrea",
+    "population": 3213969,
+    "percPoverty": 69,
+    "literacyRate15Above": 76.57051849,
+    "access2Electricity": 52.1710968,
+    "lifeExpectancy": 66.679,
+    "rentaPerCapita": 642.5082588,
+    "description": ""
+  },
+  {
+    "country": "Estonia",
+    "population": 1329254,
+    "percPoverty": 20.6,
+    "literacyRate15Above": 99.88578796,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.34634146,
+    "rentaPerCapita": 27280.65844,
+    "description": ""
+  },
+  {
+    "country": "Eswatini",
+    "population": 1172369,
+    "percPoverty": 58.9,
+    "literacyRate15Above": 88.41938019,
+    "access2Electricity": 79.73049927,
+    "lifeExpectancy": 60.721,
+    "rentaPerCapita": 4214.861688,
+    "description": ""
+  },
+  {
+    "country": "Ethiopia",
+    "population": 117876226,
+    "percPoverty": 23.5,
+    "literacyRate15Above": 51.7711792,
+    "access2Electricity": 51.0939827,
+    "lifeExpectancy": 66.953,
+    "rentaPerCapita": 943.9656842,
+    "description": ""
+  },
+  {
+    "country": "Faroe Islands",
+    "population": 49053,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.09268293,
+    "rentaPerCapita": 66320.6792,
+    "description": ""
+  },
+  {
+    "country": "Fiji",
+    "population": 902899,
+    "percPoverty": 24.1,
+    "access2Electricity": 100,
+    "lifeExpectancy": 67.561,
+    "rentaPerCapita": 5085.971642,
+    "description": ""
+  },
+  {
+    "country": "Finland",
+    "population": 5541696,
+    "percPoverty": 10.8,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.13170732,
+    "rentaPerCapita": 53982.61427,
+    "description": ""
+  },
+  {
+    "country": "France",
+    "population": 67499343,
+    "percPoverty": 13.8,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.17560976,
+    "rentaPerCapita": 43518.53851,
+    "description": ""
+  },
+  {
+    "country": "French Polynesia",
+    "population": 282534,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.836,
+    "rentaPerCapita": 20182.5845,
+    "description": ""
+  },
+  {
+    "country": "Gabon",
+    "population": 2278829,
+    "percPoverty": 33.4,
+    "literacyRate15Above": 84.66716003,
+    "access2Electricity": 91.57156372,
+    "lifeExpectancy": 66.69,
+    "rentaPerCapita": 8016.990495,
+    "description": ""
+  },
+  {
+    "country": "Gambia, The",
+    "population": 2486937,
+    "percPoverty": 48.6,
+    "literacyRate15Above": 50.77796936,
+    "access2Electricity": 62.27306747,
+    "lifeExpectancy": 62.383,
+    "rentaPerCapita": 835.5944214,
+    "description": ""
+  },
+  {
+    "country": "Georgia",
+    "population": 3708610,
+    "percPoverty": 21.3,
+    "literacyRate15Above": 99.55844116,
+    "access2Electricity": 100,
+    "lifeExpectancy": 73.919,
+    "rentaPerCapita": 5042.385528,
+    "description": ""
+  },
+  {
+    "country": "Germany",
+    "population": 83129285,
+    "percPoverty": 15.8,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.94146341,
+    "rentaPerCapita": 50801.78671,
+    "description": ""
+  },
+  {
+    "country": "Ghana",
+    "population": 31732128,
+    "percPoverty": 23.4,
+    "literacyRate15Above": 79.03964233,
+    "access2Electricity": 85.87355042,
+    "lifeExpectancy": 64.347,
+    "rentaPerCapita": 2445.290749,
+    "description": ""
+  },
+  {
+    "country": "Gibraltar",
+    "population": 33691,
+    "access2Electricity": 100,
+    "description": ""
+  },
+  {
+    "country": "Greece",
+    "population": 10664568,
+    "percPoverty": 19.6,
+    "literacyRate15Above": 97.93595123,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.08780488,
+    "rentaPerCapita": 20276.54467,
+    "description": ""
+  },
+  {
+    "country": "Greenland",
+    "population": 56653,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.40463415,
+    "rentaPerCapita": 54570.37502,
+    "description": ""
+  },
+  {
+    "country": "Grenada",
+    "population": 113015,
+    "literacyRate15Above": 98.59999847,
+    "access2Electricity": 93.58644867,
+    "lifeExpectancy": 72.426,
+    "rentaPerCapita": 9928.621733,
+    "description": ""
+  },
+  {
+    "country": "Guam",
+    "population": 170184,
+    "literacyRate15Above": 99.36914825,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.277,
+    "rentaPerCapita": 34624.34013,
+    "description": ""
+  },
+  {
+    "country": "Guatemala",
+    "population": 17109746,
+    "percPoverty": 59.3,
+    "literacyRate15Above": 80.81067657,
+    "access2Electricity": 97.05526733,
+    "lifeExpectancy": 74.529,
+    "rentaPerCapita": 5025.575573,
+    "description": ""
+  },
+  {
+    "country": "Guinea",
+    "population": 13497237,
+    "percPoverty": 43.7,
+    "literacyRate15Above": 39.6176796,
+    "access2Electricity": 44.66867828,
+    "lifeExpectancy": 61.962,
+    "rentaPerCapita": 1174.352972,
+    "description": ""
+  },
+  {
+    "country": "Guinea-Bissau",
+    "population": 2015490,
+    "percPoverty": 47.7,
+    "literacyRate15Above": 45.5811615,
+    "access2Electricity": 33.33546829,
+    "lifeExpectancy": 58.634,
+    "rentaPerCapita": 812.962373,
+    "description": ""
+  },
+  {
+    "country": "Guyana",
+    "population": 790329,
+    "literacyRate15Above": 85.63973236,
+    "access2Electricity": 92.5405426,
+    "lifeExpectancy": 70.023,
+    "rentaPerCapita": 9374.80457,
+    "description": ""
+  },
+  {
+    "country": "Haiti",
+    "population": 11541683,
+    "percPoverty": 58.5,
+    "literacyRate15Above": 61.69134903,
+    "access2Electricity": 46.92553329,
+    "lifeExpectancy": 64.315,
+    "rentaPerCapita": 1814.674048,
+    "description": ""
+  },
+  {
+    "country": "Honduras",
+    "population": 10062994,
+    "percPoverty": 48,
+    "literacyRate15Above": 88.50743103,
+    "access2Electricity": 93.20671082,
+    "lifeExpectancy": 75.448,
+    "rentaPerCapita": 2831.033021,
+    "description": ""
+  },
+  {
+    "country": "Hong Kong SAR, China",
+    "population": 7413100,
+    "access2Electricity": 100,
+    "lifeExpectancy": 85.38780488,
+    "rentaPerCapita": 49660.63424,
+    "description": ""
+  },
+  {
+    "country": "Hungary",
+    "population": 9709886,
+    "percPoverty": 12.7,
+    "literacyRate15Above": 99.09999847,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.61707317,
+    "rentaPerCapita": 18772.67329,
+    "description": ""
+  },
+  {
+    "country": "Iceland",
+    "population": 372295,
+    "percPoverty": 8.8,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.06585366,
+    "rentaPerCapita": 68383.76534,
+    "description": ""
+  },
+  {
+    "country": "India",
+    "population": 1393409033,
+    "percPoverty": 21.9,
+    "literacyRate15Above": 74.37299347,
+    "access2Electricity": 99,
+    "lifeExpectancy": 69.887,
+    "rentaPerCapita": 2277.434347,
+    "description": ""
+  },
+  {
+    "country": "Indonesia",
+    "population": 276361788,
+    "percPoverty": 9.8,
+    "literacyRate15Above": 95.99900818,
+    "access2Electricity": 96.94999695,
+    "lifeExpectancy": 71.908,
+    "rentaPerCapita": 4291.812554,
+    "description": ""
+  },
+  {
+    "country": "Iran, Islamic Rep.",
+    "population": 85028760,
+    "literacyRate15Above": 85.54425049,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.87,
+    "rentaPerCapita": 2756.749977,
+    "description": ""
+  },
+  {
+    "country": "Iraq",
+    "population": 41179351,
+    "percPoverty": 18.9,
+    "literacyRate15Above": 85.59999847,
+    "access2Electricity": 100,
+    "lifeExpectancy": 70.748,
+    "rentaPerCapita": 5048.387813,
+    "description": ""
+  },
+  {
+    "country": "Ireland",
+    "population": 5028230,
+    "percPoverty": 12.9,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.20487805,
+    "rentaPerCapita": 99152.10257,
+    "description": ""
+  },
+  {
+    "country": "Isle of Man",
+    "population": 85410,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.96585366,
+    "rentaPerCapita": 86481.55259,
+    "description": ""
+  },
+  {
+    "country": "Israel",
+    "population": 9364000,
+    "literacyRate15Above": 91.75141144,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.7,
+    "rentaPerCapita": 51430.07968,
+    "description": ""
+  },
+  {
+    "country": "Italy",
+    "population": 59066225,
+    "percPoverty": 20.1,
+    "literacyRate15Above": 99.34909821,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.34390244,
+    "rentaPerCapita": 35551.28499,
+    "description": ""
+  },
+  {
+    "country": "Jamaica",
+    "population": 2973462,
+    "percPoverty": 19.9,
+    "literacyRate15Above": 88.09999847,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.586,
+    "rentaPerCapita": 4586.650509,
+    "description": ""
+  },
+  {
+    "country": "Japan",
+    "population": 125681593,
+    "access2Electricity": 100,
+    "lifeExpectancy": 84.61560976,
+    "rentaPerCapita": 39285.16311,
+    "description": ""
+  },
+  {
+    "country": "Jordan",
+    "population": 10269022,
+    "percPoverty": 15.7,
+    "literacyRate15Above": 98.22711182,
+    "access2Electricity": 99.90000153,
+    "lifeExpectancy": 74.655,
+    "rentaPerCapita": 4405.839424,
+    "description": ""
+  },
+  {
+    "country": "Kazakhstan",
+    "population": 19002586,
+    "percPoverty": 5.3,
+    "literacyRate15Above": 99.78163147,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.37,
+    "rentaPerCapita": 10041.48984,
+    "description": ""
+  },
+  {
+    "country": "Kenya",
+    "population": 54985702,
+    "percPoverty": 36.1,
+    "literacyRate15Above": 81.53497314,
+    "access2Electricity": 71.4379425,
+    "lifeExpectancy": 66.991,
+    "rentaPerCapita": 2006.83224,
+    "description": ""
+  },
+  {
+    "country": "Kiribati",
+    "population": 121388,
+    "percPoverty": 21.9,
+    "access2Electricity": 91.96302795,
+    "lifeExpectancy": 68.611,
+    "rentaPerCapita": 1514.591059,
+    "description": ""
+  },
+  {
+    "country": "Korea, Dem. People's Rep.",
+    "population": 25887045,
+    "literacyRate15Above": 99.99819183,
+    "access2Electricity": 52.31354523,
+    "lifeExpectancy": 72.453,
+    "description": ""
+  },
+  {
+    "country": "Korea, Rep.",
+    "population": 51744876,
+    "literacyRate15Above": 97.96594238,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.42682927,
+    "rentaPerCapita": 34757.72007,
+    "description": ""
+  },
+  {
+    "country": "Kosovo",
+    "population": 1806279,
+    "percPoverty": 17.6,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.08780488,
+    "rentaPerCapita": 4986.582469,
+    "description": ""
+  },
+  {
+    "country": "Kuwait",
+    "population": 4328553,
+    "literacyRate15Above": 96.45754242,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.586,
+    "rentaPerCapita": 24811.76971,
+    "description": ""
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "population": 6694200,
+    "percPoverty": 25.3,
+    "literacyRate15Above": 99.58599854,
+    "access2Electricity": 99.98104858,
+    "lifeExpectancy": 71.8,
+    "rentaPerCapita": 1276.242643,
+    "description": ""
+  },
+  {
+    "country": "Lao PDR",
+    "population": 7379358,
+    "percPoverty": 18.3,
+    "literacyRate15Above": 84.66104126,
+    "access2Electricity": 100,
+    "lifeExpectancy": 68.219,
+    "rentaPerCapita": 2551.326081,
+    "description": ""
+  },
+  {
+    "country": "Latvia",
+    "population": 1883162,
+    "percPoverty": 23.4,
+    "literacyRate15Above": 99.88931274,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.38780488,
+    "rentaPerCapita": 20642.16792,
+    "description": ""
+  },
+  {
+    "country": "Lebanon",
+    "population": 6769151,
+    "percPoverty": 27.4,
+    "literacyRate15Above": 95.06944275,
+    "access2Electricity": 100,
+    "lifeExpectancy": 79.004,
+    "rentaPerCapita": 2670.441956,
+    "description": ""
+  },
+  {
+    "country": "Lesotho",
+    "population": 2159067,
+    "percPoverty": 49.7,
+    "literacyRate15Above": 76.6352005,
+    "access2Electricity": 47.35273743,
+    "lifeExpectancy": 54.836,
+    "rentaPerCapita": 1166.461667,
+    "description": ""
+  },
+  {
+    "country": "Liberia",
+    "population": 5180208,
+    "percPoverty": 50.9,
+    "literacyRate15Above": 48.30136108,
+    "access2Electricity": 27.53470993,
+    "lifeExpectancy": 64.423,
+    "rentaPerCapita": 673.0890671,
+    "description": ""
+  },
+  {
+    "country": "Libya",
+    "population": 6958538,
+    "literacyRate15Above": 86.09999847,
+    "access2Electricity": 69.70735168,
+    "lifeExpectancy": 73.082,
+    "rentaPerCapita": 6018.445207,
+    "description": ""
+  },
+  {
+    "country": "Liechtenstein",
+    "population": 38254,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.80731707,
+    "rentaPerCapita": 169049.1569,
+    "description": ""
+  },
+  {
+    "country": "Lithuania",
+    "population": 2795321,
+    "percPoverty": 20.9,
+    "literacyRate15Above": 99.81559753,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.92926829,
+    "rentaPerCapita": 23433.39091,
+    "description": ""
+  },
+  {
+    "country": "Luxembourg",
+    "population": 639070,
+    "percPoverty": 17.4,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.74146341,
+    "rentaPerCapita": 135682.7943,
+    "description": ""
+  },
+  {
+    "country": "Macao SAR, China",
+    "population": 658391,
+    "literacyRate15Above": 96.5384903,
+    "access2Electricity": 100,
+    "lifeExpectancy": 84.37,
+    "rentaPerCapita": 45421.62663,
+    "description": ""
+  },
+  {
+    "country": "Madagascar",
+    "population": 28427333,
+    "percPoverty": 70.7,
+    "literacyRate15Above": 76.67967987,
+    "access2Electricity": 33.7350769,
+    "lifeExpectancy": 67.39,
+    "rentaPerCapita": 514.9058618,
+    "description": ""
+  },
+  {
+    "country": "Malawi",
+    "population": 19647681,
+    "percPoverty": 50.7,
+    "literacyRate15Above": 62.14353943,
+    "access2Electricity": 14.86676884,
+    "lifeExpectancy": 64.694,
+    "rentaPerCapita": 642.6569158,
+    "description": ""
+  },
+  {
+    "country": "Malaysia",
+    "population": 32776195,
+    "percPoverty": 8.4,
+    "literacyRate15Above": 94.97113037,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.306,
+    "rentaPerCapita": 11371.09902,
+    "description": ""
+  },
+  {
+    "country": "Maldives",
+    "population": 543620,
+    "percPoverty": 5.4,
+    "literacyRate15Above": 97.7349472,
+    "access2Electricity": 100,
+    "lifeExpectancy": 79.208,
+    "rentaPerCapita": 8994.641352,
+    "description": ""
+  },
+  {
+    "country": "Mali",
+    "population": 20855724,
+    "percPoverty": 41.9,
+    "literacyRate15Above": 30.76140976,
+    "access2Electricity": 50.56141663,
+    "lifeExpectancy": 59.692,
+    "rentaPerCapita": 917.9130633,
+    "description": ""
+  },
+  {
+    "country": "Malta",
+    "population": 516869,
+    "percPoverty": 16.9,
+    "literacyRate15Above": 94.50318909,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.65365854,
+    "rentaPerCapita": 33257.42203,
+    "description": ""
+  },
+  {
+    "country": "Marshall Islands",
+    "population": 59618,
+    "literacyRate15Above": 98.26508331,
+    "access2Electricity": 99.16060638,
+    "lifeExpectancy": 65.23902439,
+    "rentaPerCapita": 4170.981918,
+    "description": ""
+  },
+  {
+    "country": "Mauritania",
+    "population": 4775110,
+    "percPoverty": 31,
+    "literacyRate15Above": 53.49758911,
+    "access2Electricity": 47.34841919,
+    "lifeExpectancy": 65.129,
+    "rentaPerCapita": 1723.013866,
+    "description": ""
+  },
+  {
+    "country": "Mauritius",
+    "population": 1266060,
+    "percPoverty": 10.3,
+    "literacyRate15Above": 93.15783691,
+    "access2Electricity": 99.66165161,
+    "lifeExpectancy": 74.17707317,
+    "rentaPerCapita": 8812.108249,
+    "description": ""
+  },
+  {
+    "country": "Mexico",
+    "population": 130262220,
+    "percPoverty": 43.9,
+    "literacyRate15Above": 95.24784851,
+    "access2Electricity": 99.40000153,
+    "lifeExpectancy": 75.131,
+    "rentaPerCapita": 9926.422768,
+    "description": ""
+  },
+  {
+    "country": "Micronesia, Fed. Sts.",
+    "population": 116255,
+    "percPoverty": 41.2,
+    "access2Electricity": 82.92591858,
+    "lifeExpectancy": 68.002,
+    "rentaPerCapita": 3476.650895,
+    "description": ""
+  },
+  {
+    "country": "Moldova",
+    "population": 2573928,
+    "percPoverty": 26.8,
+    "literacyRate15Above": 99.3598938,
+    "access2Electricity": 100,
+    "lifeExpectancy": 72.006,
+    "rentaPerCapita": 5314.531461,
+    "description": ""
+  },
+  {
+    "country": "Monaco",
+    "population": 39520,
+    "access2Electricity": 100,
+    "rentaPerCapita": 173688.1894,
+    "description": ""
+  },
+  {
+    "country": "Mongolia",
+    "population": 3329282,
+    "percPoverty": 27.8,
+    "literacyRate15Above": 99.18327332,
+    "access2Electricity": 98.09999847,
+    "lifeExpectancy": 70.056,
+    "rentaPerCapita": 4534.918589,
+    "description": ""
+  },
+  {
+    "country": "Montenegro",
+    "population": 620173,
+    "percPoverty": 22.6,
+    "literacyRate15Above": 98.84718323,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.93170732,
+    "rentaPerCapita": 9367.016884,
+    "description": ""
+  },
+  {
+    "country": "Morocco",
+    "population": 37344787,
+    "percPoverty": 4.8,
+    "literacyRate15Above": 73.75000763,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.901,
+    "rentaPerCapita": 3496.758301,
+    "description": ""
+  },
+  {
+    "country": "Mozambique",
+    "population": 32163045,
+    "percPoverty": 46.1,
+    "literacyRate15Above": 60.65542984,
+    "access2Electricity": 30.60383224,
+    "lifeExpectancy": 61.387,
+    "rentaPerCapita": 500.4448085,
+    "description": ""
+  },
+  {
+    "country": "Myanmar",
+    "population": 54806014,
+    "percPoverty": 24.8,
+    "literacyRate15Above": 89.06994629,
+    "access2Electricity": 70.39719391,
+    "lifeExpectancy": 67.363,
+    "rentaPerCapita": 1187.238484,
+    "description": ""
+  },
+  {
+    "country": "Namibia",
+    "population": 2587344,
+    "percPoverty": 17.4,
+    "literacyRate15Above": 91.52726746,
+    "access2Electricity": 56.2586937,
+    "lifeExpectancy": 64.045,
+    "rentaPerCapita": 4729.270937,
+    "description": ""
+  },
+  {
+    "country": "Nauru",
+    "population": 10873,
+    "access2Electricity": 100,
+    "rentaPerCapita": 12252.2668,
+    "description": ""
+  },
+  {
+    "country": "Nepal",
+    "population": 29674920,
+    "percPoverty": 25.2,
+    "literacyRate15Above": 67.90843201,
+    "access2Electricity": 89.90000153,
+    "lifeExpectancy": 71.067,
+    "rentaPerCapita": 1222.878794,
+    "description": ""
+  },
+  {
+    "country": "Netherlands",
+    "population": 17533405,
+    "percPoverty": 14.4,
+    "access2Electricity": 100,
+    "lifeExpectancy": 81.4097561,
+    "rentaPerCapita": 58061.00167,
+    "description": ""
+  },
+  {
+    "country": "New Caledonia",
+    "population": 272620,
+    "literacyRate15Above": 97.80000305,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.77117073,
+    "rentaPerCapita": 34694.5504,
+    "description": ""
+  },
+  {
+    "country": "New Zealand",
+    "population": 5122600,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.05609756,
+    "rentaPerCapita": 48801.68513,
+    "description": ""
+  },
+  {
+    "country": "Nicaragua",
+    "population": 6702379,
+    "percPoverty": 24.9,
+    "literacyRate15Above": 82.61454773,
+    "access2Electricity": 88.90737915,
+    "lifeExpectancy": 74.697,
+    "rentaPerCapita": 2090.753461,
+    "description": ""
+  },
+  {
+    "country": "Niger",
+    "population": 25130810,
+    "percPoverty": 40.8,
+    "literacyRate15Above": 35.04999924,
+    "access2Electricity": 19.25190926,
+    "lifeExpectancy": 62.792,
+    "rentaPerCapita": 594.9251089,
+    "description": ""
+  },
+  {
+    "country": "Nigeria",
+    "population": 211400704,
+    "percPoverty": 40.1,
+    "literacyRate15Above": 62.01601028,
+    "access2Electricity": 55.40000153,
+    "lifeExpectancy": 55.018,
+    "rentaPerCapita": 2085.030765,
+    "description": ""
+  },
+  {
+    "country": "North Macedonia",
+    "population": 2065092,
+    "percPoverty": 21.6,
+    "literacyRate15Above": 97.80000305,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.69317073,
+    "rentaPerCapita": 6720.896285,
+    "description": ""
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "population": 57910,
+    "access2Electricity": 100,
+    "rentaPerCapita": 20659.64029,
+    "description": ""
+  },
+  {
+    "country": "Norway",
+    "population": 5408320,
+    "percPoverty": 12.7,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.2097561,
+    "rentaPerCapita": 89202.75054,
+    "description": ""
+  },
+  {
+    "country": "Oman",
+    "population": 5223376,
+    "literacyRate15Above": 95.6515274,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.078,
+    "rentaPerCapita": 16439.29645,
+    "description": ""
+  },
+  {
+    "country": "Pakistan",
+    "population": 225199929,
+    "percPoverty": 21.9,
+    "literacyRate15Above": 57.99885941,
+    "access2Electricity": 75.37969208,
+    "lifeExpectancy": 67.428,
+    "rentaPerCapita": 1537.936411,
+    "description": ""
+  },
+  {
+    "country": "Palau",
+    "population": 18174,
+    "percPoverty": 24.9,
+    "literacyRate15Above": 96.59374237,
+    "access2Electricity": 100,
+    "lifeExpectancy": 69.12926829,
+    "rentaPerCapita": 14243.86469,
+    "description": ""
+  },
+  {
+    "country": "Panama",
+    "population": 4381583,
+    "percPoverty": 21.5,
+    "literacyRate15Above": 95.73607635,
+    "access2Electricity": 96.70463562,
+    "lifeExpectancy": 78.68,
+    "rentaPerCapita": 14516.45805,
+    "description": ""
+  },
+  {
+    "country": "Papua New Guinea",
+    "population": 9119005,
+    "percPoverty": 39.9,
+    "literacyRate15Above": 61.59999847,
+    "access2Electricity": 60.40000153,
+    "lifeExpectancy": 64.725,
+    "rentaPerCapita": 2916.357349,
+    "description": ""
+  },
+  {
+    "country": "Paraguay",
+    "population": 7219641,
+    "percPoverty": 26.9,
+    "literacyRate15Above": 94.54454803,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.363,
+    "rentaPerCapita": 5400.103826,
+    "description": ""
+  },
+  {
+    "country": "Peru",
+    "population": 33359416,
+    "percPoverty": 30.1,
+    "literacyRate15Above": 94.49793243,
+    "access2Electricity": 99.31181335,
+    "lifeExpectancy": 76.947,
+    "rentaPerCapita": 6692.248375,
+    "description": ""
+  },
+  {
+    "country": "Philippines",
+    "population": 111046910,
+    "percPoverty": 16.7,
+    "literacyRate15Above": 96.27816772,
+    "access2Electricity": 96.84238434,
+    "lifeExpectancy": 71.36,
+    "rentaPerCapita": 3548.828323,
+    "description": ""
+  },
+  {
+    "country": "Poland",
+    "population": 37781024,
+    "percPoverty": 14.8,
+    "literacyRate15Above": 98.74273682,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.6,
+    "rentaPerCapita": 17840.92105,
+    "description": ""
+  },
+  {
+    "country": "Portugal",
+    "population": 10299423,
+    "percPoverty": 16.2,
+    "literacyRate15Above": 96.1375885,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.97560976,
+    "rentaPerCapita": 24262.18094,
+    "description": ""
+  },
+  {
+    "country": "Puerto Rico",
+    "population": 3263584,
+    "literacyRate15Above": 92.38999939,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.08746341,
+    "rentaPerCapita": 31429.86612,
+    "description": ""
+  },
+  {
+    "country": "Qatar",
+    "population": 2930524,
+    "literacyRate15Above": 93.46396637,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.363,
+    "rentaPerCapita": 61275.99827,
+    "description": ""
+  },
+  {
+    "country": "Romania",
+    "population": 19115146,
+    "percPoverty": 22.6,
+    "literacyRate15Above": 98.84449768,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.35365854,
+    "rentaPerCapita": 14861.90917,
+    "description": ""
+  },
+  {
+    "country": "Russian Federation",
+    "population": 143446060,
+    "percPoverty": 12.1,
+    "literacyRate15Above": 99.73005676,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.33878049,
+    "rentaPerCapita": 12172.78516,
+    "description": ""
+  },
+  {
+    "country": "Rwanda",
+    "population": 13276517,
+    "percPoverty": 38.2,
+    "literacyRate15Above": 73.21559143,
+    "access2Electricity": 46.59999847,
+    "lifeExpectancy": 69.329,
+    "rentaPerCapita": 833.8298757,
+    "description": ""
+  },
+  {
+    "country": "Samoa",
+    "population": 200144,
+    "percPoverty": 20.3,
+    "literacyRate15Above": 99.09577179,
+    "access2Electricity": 100,
+    "lifeExpectancy": 73.45,
+    "rentaPerCapita": 3939.113696,
+    "description": ""
+  },
+  {
+    "country": "San Marino",
+    "population": 34010,
+    "access2Electricity": 100,
+    "rentaPerCapita": 45515.7577,
+    "description": ""
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "population": 223364,
+    "percPoverty": 66.7,
+    "literacyRate15Above": 92.81664276,
+    "access2Electricity": 76.55908966,
+    "lifeExpectancy": 70.583,
+    "rentaPerCapita": 2449.333442,
+    "description": ""
+  },
+  {
+    "country": "Saudi Arabia",
+    "population": 35340680,
+    "literacyRate15Above": 97.58506775,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.28,
+    "rentaPerCapita": 23585.88563,
+    "description": ""
+  },
+  {
+    "country": "Senegal",
+    "population": 17196308,
+    "percPoverty": 46.7,
+    "literacyRate15Above": 51.90042114,
+    "access2Electricity": 70.36894226,
+    "lifeExpectancy": 68.213,
+    "rentaPerCapita": 1606.472061,
+    "description": ""
+  },
+  {
+    "country": "Serbia",
+    "population": 6844078,
+    "percPoverty": 21.7,
+    "literacyRate15Above": 99.48252869,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.22926829,
+    "rentaPerCapita": 9214.993546,
+    "description": ""
+  },
+  {
+    "country": "Seychelles",
+    "population": 99202,
+    "percPoverty": 25.3,
+    "literacyRate15Above": 95.8677063,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.23658537,
+    "rentaPerCapita": 13306.7256,
+    "description": ""
+  },
+  {
+    "country": "Sierra Leone",
+    "population": 8141343,
+    "percPoverty": 56.8,
+    "literacyRate15Above": 43.20632935,
+    "access2Electricity": 26.20088577,
+    "lifeExpectancy": 55.066,
+    "rentaPerCapita": 515.9320918,
+    "description": ""
+  },
+  {
+    "country": "Singapore",
+    "population": 5453566,
+    "literacyRate15Above": 97.1318512,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.74390244,
+    "rentaPerCapita": 72794.00302,
+    "description": ""
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "population": 42846,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.29268293,
+    "rentaPerCapita": 28988.25921,
+    "description": ""
+  },
+  {
+    "country": "Slovak Republic",
+    "population": 5447247,
+    "percPoverty": 11.4,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.86585366,
+    "rentaPerCapita": 21087.8461,
+    "description": ""
+  },
+  {
+    "country": "Slovenia",
+    "population": 2107007,
+    "percPoverty": 11.7,
+    "literacyRate15Above": 99.69999695,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.53170732,
+    "rentaPerCapita": 29200.81988,
+    "description": ""
+  },
+  {
+    "country": "Solomon Islands",
+    "population": 703995,
+    "percPoverty": 12.7,
+    "literacyRate15Above": 76.59999847,
+    "access2Electricity": 73.34648132,
+    "lifeExpectancy": 73.132,
+    "rentaPerCapita": 2336.968134,
+    "description": ""
+  },
+  {
+    "country": "Somalia",
+    "population": 16359500,
+    "literacyRate15Above": 5.404650211,
+    "access2Electricity": 49.73086929,
+    "lifeExpectancy": 57.697,
+    "rentaPerCapita": 445.7790165,
+    "description": ""
+  },
+  {
+    "country": "South Africa",
+    "population": 60041996,
+    "percPoverty": 55.5,
+    "literacyRate15Above": 95.02297211,
+    "access2Electricity": 84.38553619,
+    "lifeExpectancy": 64.379,
+    "rentaPerCapita": 6994.211654,
+    "description": ""
+  },
+  {
+    "country": "South Sudan",
+    "population": 11381377,
+    "percPoverty": 82.3,
+    "literacyRate15Above": 34.52275848,
+    "access2Electricity": 7.241338253,
+    "lifeExpectancy": 58.095,
+    "rentaPerCapita": 1119.651437,
+    "description": ""
+  },
+  {
+    "country": "Spain",
+    "population": 47326687,
+    "percPoverty": 21.7,
+    "literacyRate15Above": 98.59445953,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.33414634,
+    "rentaPerCapita": 30115.70589,
+    "description": ""
+  },
+  {
+    "country": "Sri Lanka",
+    "population": 22156000,
+    "percPoverty": 4.1,
+    "literacyRate15Above": 92.38230133,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.144,
+    "rentaPerCapita": 3814.715219,
+    "description": ""
+  },
+  {
+    "country": "St. Kitts and Nevis",
+    "population": 53546,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.33658537,
+    "rentaPerCapita": 18230.13235,
+    "description": ""
+  },
+  {
+    "country": "St. Lucia",
+    "population": 184401,
+    "percPoverty": 25,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.343,
+    "rentaPerCapita": 9570.995457,
+    "description": ""
+  },
+  {
+    "country": "St. Martin (French part)",
+    "population": 39239,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.12195122,
+    "rentaPerCapita": 21459.31913,
+    "description": ""
+  },
+  {
+    "country": "St. Vincent and the Grenadines",
+    "population": 111269,
+    "literacyRate15Above": 95.63215637,
+    "access2Electricity": 100,
+    "lifeExpectancy": 72.658,
+    "rentaPerCapita": 7996.614002,
+    "description": ""
+  },
+  {
+    "country": "Sudan",
+    "population": 44909351,
+    "percPoverty": 46.5,
+    "literacyRate15Above": 60.6971817,
+    "access2Electricity": 55.38970184,
+    "lifeExpectancy": 65.53,
+    "rentaPerCapita": 764.3410034,
+    "description": ""
+  },
+  {
+    "country": "Suriname",
+    "population": 591798,
+    "literacyRate15Above": 94.38327026,
+    "access2Electricity": 98.20477295,
+    "lifeExpectancy": 71.802,
+    "rentaPerCapita": 4836.332633,
+    "description": ""
+  },
+  {
+    "country": "Sweden",
+    "population": 10415811,
+    "percPoverty": 15.7,
+    "access2Electricity": 100,
+    "lifeExpectancy": 82.40731707,
+    "rentaPerCapita": 60238.98656,
+    "description": ""
+  },
+  {
+    "country": "Switzerland",
+    "population": 8697723,
+    "percPoverty": 15.5,
+    "access2Electricity": 100,
+    "lifeExpectancy": 83.1,
+    "rentaPerCapita": 93457.4404,
+    "description": ""
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "population": 18275704,
+    "percPoverty": 35.2,
+    "literacyRate15Above": 80.84452057,
+    "access2Electricity": 89.14031982,
+    "lifeExpectancy": 73.651,
+    "rentaPerCapita": 1265.60619,
+    "description": ""
+  },
+  {
+    "country": "Tajikistan",
+    "population": 9749625,
+    "percPoverty": 26.3,
+    "literacyRate15Above": 99.80000305,
+    "access2Electricity": 99.77929688,
+    "lifeExpectancy": 71.301,
+    "rentaPerCapita": 897.087902,
+    "description": ""
+  },
+  {
+    "country": "Tanzania",
+    "population": 61498438,
+    "percPoverty": 26.4,
+    "literacyRate15Above": 77.88722992,
+    "access2Electricity": 39.90000153,
+    "lifeExpectancy": 65.815,
+    "rentaPerCapita": 1135.539673,
+    "description": ""
+  },
+  {
+    "country": "Thailand",
+    "population": 69950844,
+    "percPoverty": 6.8,
+    "literacyRate15Above": 93.76776123,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.344,
+    "rentaPerCapita": 7233.388858,
+    "description": ""
+  },
+  {
+    "country": "Timor-Leste",
+    "population": 1343875,
+    "percPoverty": 41.8,
+    "literacyRate15Above": 68.0668335,
+    "access2Electricity": 96.1233139,
+    "lifeExpectancy": 69.712,
+    "rentaPerCapita": 1457.825128,
+    "description": ""
+  },
+  {
+    "country": "Togo",
+    "population": 8478242,
+    "percPoverty": 55.1,
+    "literacyRate15Above": 66.53707886,
+    "access2Electricity": 53.99743271,
+    "lifeExpectancy": 61.34,
+    "rentaPerCapita": 992.3284294,
+    "description": ""
+  },
+  {
+    "country": "Tonga",
+    "population": 106759,
+    "percPoverty": 22.5,
+    "literacyRate15Above": 99.41436768,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.018,
+    "rentaPerCapita": 4624.823449,
+    "description": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "population": 1403374,
+    "literacyRate15Above": 98.69999695,
+    "access2Electricity": 100,
+    "lifeExpectancy": 73.628,
+    "rentaPerCapita": 15243.12287,
+    "description": ""
+  },
+  {
+    "country": "Tunisia",
+    "population": 11935764,
+    "percPoverty": 15.2,
+    "literacyRate15Above": 79.03643036,
+    "access2Electricity": 100,
+    "lifeExpectancy": 76.891,
+    "rentaPerCapita": 3924.343925,
+    "description": ""
+  },
+  {
+    "country": "Turkiye",
+    "population": 85042736,
+    "percPoverty": 15,
+    "literacyRate15Above": 96.74221039,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.928,
+    "rentaPerCapita": 9586.61245,
+    "description": ""
+  },
+  {
+    "country": "Turkmenistan",
+    "population": 6117933,
+    "literacyRate15Above": 99.69999695,
+    "access2Electricity": 100,
+    "lifeExpectancy": 68.313,
+    "rentaPerCapita": 7612.03518,
+    "description": ""
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "population": 39226,
+    "access2Electricity": 99.40000153,
+    "rentaPerCapita": 24047.05471,
+    "description": ""
+  },
+  {
+    "country": "Tuvalu",
+    "population": 11925,
+    "percPoverty": 26.3,
+    "access2Electricity": 99.68923187,
+    "rentaPerCapita": 5291.485244,
+    "description": ""
+  },
+  {
+    "country": "Uganda",
+    "population": 47123533,
+    "percPoverty": 20.3,
+    "literacyRate15Above": 76.52749634,
+    "access2Electricity": 42.07441711,
+    "lifeExpectancy": 63.713,
+    "rentaPerCapita": 858.0575127,
+    "description": ""
+  },
+  {
+    "country": "Ukraine",
+    "population": 43814581,
+    "percPoverty": 1.4,
+    "literacyRate15Above": 99.97434998,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.18512195,
+    "rentaPerCapita": 4835.571777,
+    "description": ""
+  },
+  {
+    "country": "United Arab Emirates",
+    "population": 9991083,
+    "literacyRate15Above": 95.52648163,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.12,
+    "rentaPerCapita": 36284.55524,
+    "description": ""
+  },
+  {
+    "country": "United Kingdom",
+    "population": 67326569,
+    "percPoverty": 18.6,
+    "access2Electricity": 100,
+    "lifeExpectancy": 80.90243902,
+    "rentaPerCapita": 47334.35531,
+    "description": ""
+  },
+  {
+    "country": "United States",
+    "population": 331893745,
+    "percPoverty": 11.60,
+    "access2Electricity": 100,
+    "lifeExpectancy": 77.2804878,
+    "rentaPerCapita": 69287.53659,
+    "description": ""
+  },
+  {
+    "country": "Uruguay",
+    "population": 3485152,
+    "percPoverty": 11.6,
+    "literacyRate15Above": 98.7703476,
+    "access2Electricity": 100,
+    "lifeExpectancy": 78.056,
+    "rentaPerCapita": 17020.64864,
+    "description": ""
+  },
+  {
+    "country": "Uzbekistan",
+    "population": 34915100,
+    "percPoverty": 14.1,
+    "literacyRate15Above": 99.99994659,
+    "access2Electricity": 100,
+    "lifeExpectancy": 71.848,
+    "rentaPerCapita": 1983.064723,
+    "description": ""
+  },
+  {
+    "country": "Vanuatu",
+    "population": 314464,
+    "percPoverty": 15.9,
+    "literacyRate15Above": 87.50630951,
+    "access2Electricity": 67.33326721,
+    "lifeExpectancy": 70.623,
+    "rentaPerCapita": 3127.446248,
+    "description": ""
+  },
+  {
+    "country": "Venezuela, RB",
+    "population": 28704947,
+    "percPoverty": 33.1,
+    "literacyRate15Above": 97.12709045,
+    "access2Electricity": 100,
+    "lifeExpectancy": 72.066,
+    "rentaPerCapita": 16055.64532,
+    "description": ""
+  },
+  {
+    "country": "Vietnam",
+    "population": 98168829,
+    "percPoverty": 6.7,
+    "literacyRate15Above": 95.7538681,
+    "access2Electricity": 100,
+    "lifeExpectancy": 75.493,
+    "rentaPerCapita": 3694.019046,
+    "description": ""
+  },
+  {
+    "country": "Virgin Islands (U.S.)",
+    "population": 105870,
+    "access2Electricity": 100,
+    "lifeExpectancy": 79.8195122,
+    "rentaPerCapita": 39552.1686,
+    "description": ""
+  },
+  {
+    "country": "West Bank and Gaza",
+    "population": 4922749,
+    "percPoverty": 29.2,
+    "literacyRate15Above": 97.5144577,
+    "access2Electricity": 100,
+    "lifeExpectancy": 74.213,
+    "rentaPerCapita": 3663.969055,
+    "description": ""
+  },
+  {
+    "country": "Yemen, Rep.",
+    "population": 30490639,
+    "percPoverty": 48.6,
+    "literacyRate15Above": 54.09999847,
+    "access2Electricity": 73.75792694,
+    "lifeExpectancy": 66.181,
+    "rentaPerCapita": 690.759273,
+    "description": ""
+  },
+  {
+    "country": "Zambia",
+    "population": 18920657,
+    "percPoverty": 54.4,
+    "literacyRate15Above": 86.74796295,
+    "access2Electricity": 44.5244751,
+    "lifeExpectancy": 64.194,
+    "rentaPerCapita": 1120.630171,
+    "description": ""
+  },
+  {
+    "country": "Zimbabwe",
+    "population": 15092171,
+    "percPoverty": 38.3,
+    "literacyRate15Above": 88.69342041,
+    "access2Electricity": 52.74766922,
+    "lifeExpectancy": 61.738,
+    "rentaPerCapita": 1737.173977,
+    "description": ""
+  }
+]

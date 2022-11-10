@@ -1,12 +1,12 @@
 table {
   margin: auto;
-  margin-top: 50px;
-  width: 60%;
+  margin-top: 10px;
+  width: 70%;
 }
 
 .buscador {
-  top: 5%;
-  left: 20%;
+  margin-top: 2%;
+  left: 15%;
 }
 
 tr.example-detail-row {
@@ -21,24 +21,50 @@ tr.example-element-row:not(.example-expanded-row):active {
   background: #efefef;
 }
 
+
+/* ---- Posicionament files i columnes  ---- */
+
+.PercentatgePobresa {
+  padding-left: 3rem;
+}
+
 .celdaPercentatgePobresa{
-  padding-left: 3.5em;
+  padding-left: 5rem;
+}
+
+.Poblacio {
+  padding-left: 3rem;
+}
+
+.celdaPoblacio {
+  padding-left: 3rem;
 }
 
 .celdaMenys10{
-  padding-left: 2em;
+  padding-left: 2rem;
 }
 
-.celdaMenys550{
-  padding-left: 2.5em;
+.celdaAlfabetitzacio{
+  padding-left: 4rem;
 }
-
-
 
 .celdaAny{
-  padding-left: 0.4em;
+  padding-left: 0.4rem;
 }
 
+.celdaElectricitat {
+  padding-left: 2rem;
+}
+
+.celdaEsperanca {
+  padding-left: 2.2rem;
+}
+
+.celdaRenta {
+  padding-left: 4rem;
+}
+
+/* ---------------------------------- */
 
 .example-element-row td {
   border-bottom-width: 0;
@@ -79,15 +105,15 @@ tr.example-element-row:not(.example-expanded-row):active {
   opacity: 0.5;
 }
 
-.element1 {
-  padding-right: -50px;
-}
-
 
 mat-paginator {
-  margin-right: 20%;
+  margin-right: 15%;
 }
 
-mat-option:last-child::before{
-  content:'All' !important;
+mat-option > *{
+  display: none;
+}
+
+.mat-option-text::after {
+  content: 'Tot';
 }

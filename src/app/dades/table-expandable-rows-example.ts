@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { AfterViewInit, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
-import dades from './data.json';
+import dades from '../../assets/dades/dades.json';
 import { animate, state, style, transition, trigger } from '@angular/animations';
 import { MatTableDataSource } from '@angular/material/table';
 import { MatSort, Sort } from '@angular/material/sort';
@@ -26,7 +26,7 @@ import { LiveAnnouncer } from '@angular/cdk/a11y';
 
 export class TableExpandableRowsExample {
   dataSource = new MatTableDataSource<dades>(ELEMENT_DATA);
-  columnsToDisplay = ['country', 'percPoverty', 'lessThan10aDay', 'lessThan550aDay', 'dataYear'];
+  columnsToDisplay = ['country', 'population', 'percPoverty', 'literacyRate15Above', 'access2Electricity', 'lifeExpectancy', 'rentaPerCapita'];
   columnsToDisplayWithExpand = [...this.columnsToDisplay, 'expand'];
   expandedElement: dades | any;
 
@@ -61,10 +61,12 @@ export class TableExpandableRowsExample {
 
 interface dades {
   country?: string;
+  population?: number;
   percPoverty?: number;
-  dataYear?: number;
-  lessThan10aDay?: number;
-  lessThan550aDay?: number;
+  literacyRate15Above?: number;
+  access2Electricity?: number;
+  lifeExpectancy?:number;
+  rentaPerCapita?:number;
   description?: string;
 }
 
