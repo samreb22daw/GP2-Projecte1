@@ -130,7 +130,7 @@
     "description": "L'Azerbaidjan o Azerbaitjan, oficialment la República de l'Azerbaidjan, és l'estat més gran de la regió del Caucas, localitzat entre l'Àsia occidental i Europa oriental. Limita a l'est amb el mar Caspi, al nord amb Rússia, al nord-oest amb Geòrgia, a l'oest amb Armènia i al sud amb l'Iran."
   },
   {
-    "country": "Bahamas, The",
+    "country": "Bahamas",
     "population": 396914,
     "percPoverty": 9.3,
     "literacyRate15Above": 95.8,
@@ -407,7 +407,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.329,
     "rentaPerCapita": 16502.83857,
-    "description": ""
+    "description": "Xile, oficialment la República de Xile, és un estat de l'Amèrica del Sud que ocupa una franja llarga i estreta entre la costa de l'oceà Pacífic i els Andes. Limita amb el Perú al nord, Bolívia al nord-est, l'Argentina a l'est, l'oceà Pacífic a l'oest i el passatge de Drake al sud."
   },
   {
     "country": "China",
@@ -417,7 +417,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.097,
     "rentaPerCapita": 12556.33312,
-    "description": ""
+    "description": "La República Popular de la Xina, o simplement la Xina, és l'estat més extens de l'Àsia Oriental i el tercer més extens del món. Amb una població de més de 1.400 milions d'habitants, és el país més poblat del món."
   },
   {
     "country": "Colombia",
@@ -427,37 +427,37 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.46,
     "rentaPerCapita": 6131.225922,
-    "description": ""
+    "description": "Colòmbia —o la República de Colòmbia— és un estat de l'Amèrica del Sud. La seva costa nord i nord-est és al mar Carib. Limita amb Veneçuela a l'est; amb el Brasil, al sud-est; amb el Perú i l'Equador, al sud; i amb Panamà i l'oceà Pacífic, a l'oest"
   },
   {
-    "country": "Comoros",
+    "country": "Comoras",
     "population": 888456,
     "percPoverty": 42.4,
     "literacyRate15Above": 58.81702042,
     "access2Electricity": 86.73713684,
     "lifeExpectancy": 64.525,
     "rentaPerCapita": 1494.687693,
-    "description": ""
+    "description": "Les Comores, oficialment Unió de les Comores, són un estat insular africà situat a l'extrem septentrional del canal de Moçambic, a l'oceà Índic, entre el nord de Madagascar i el nord de Moçambic."
   },
   {
-    "country": "Congo, Dem. Rep.",
+    "country": "Congo, Democratic Republic",
     "population": 92377986,
     "percPoverty": 63.9,
     "literacyRate15Above": 77.04267883,
     "access2Electricity": 19.10000038,
     "lifeExpectancy": 60.971,
     "rentaPerCapita": 584.1064092,
-    "description": ""
+    "description": "La República Democràtica del Congo és el segon estat més gran de l'Àfrica. Limita al nord amb la República Centreafricana i el Sudan del Sud, a l'est amb Uganda, Ruanda, Burundi i Tanzània; al sud amb Zàmbia i Angola i a l'oest amb l'oceà Atlàntic, l'enclavament de Cabinda i la República del Congo."
   },
   {
-    "country": "Congo, Rep.",
+    "country": "Congo, Republic",
     "population": 5657017,
     "percPoverty": 40.9,
     "literacyRate15Above": 80.29875946,
     "access2Electricity": 49.51710129,
     "lifeExpectancy": 64.804,
     "rentaPerCapita": 2213.880863,
-    "description": ""
+    "description": "La República del Congo és un estat de l'Àfrica equatorial. Limita a l'oest amb el Gabon, al nord amb el Camerun i la República Centreafricana, a l'est i al sud amb la República Democràtica del Congo i al sud-oest amb l'enclavament angolès de Cabinda i amb el golf de Guinea."
   },
   {
     "country": "Costa Rica",
@@ -467,7 +467,7 @@
     "access2Electricity": 99.90000153,
     "lifeExpectancy": 80.465,
     "rentaPerCapita": 12508.61563,
-    "description": ""
+    "description": "Costa Rica és una república de l'Amèrica Central, que confronta al nord amb Nicaragua, a l'est amb el mar Carib, al sud-est amb Panamà i al sud i a l'oest amb l'oceà Pacífic. La capital és San José, amb poc més de 300.000 habitants. Altres ciutats de la seva àrea metropolitana són Heredia, Cartago i Alajuela."
   },
   {
     "country": "Cote d'Ivoire",
@@ -477,7 +477,7 @@
     "access2Electricity": 69.67912292,
     "lifeExpectancy": 58.104,
     "rentaPerCapita": 2578.760412,
-    "description": ""
+    "description": "Costa d'Ivori és una república de l'Àfrica Occidental que limita a l'oest amb Libèria i Guinea, al nord amb Mali i Burkina Faso, a l'est amb Ghana i al sud amb el golf de Guinea. La capital és Yamoussoukro, tot i que la ciutat principal és l'antiga capital, Abidjan."
   },
   {
     "country": "Croatia",
@@ -487,7 +487,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.72439024,
     "rentaPerCapita": 17398.76598,
-    "description": ""
+    "description": "Croàcia, oficialment República de Croàcia és un Estat de l'Europa mediterrània situada a la zona de transició entre l'Europa Central i els Balcans. Limita al nord amb Eslovènia i Hongria, al nord-est amb Sèrbia i al sud-est amb Montenegro i Bòsnia i Hercegovina, i al sud i a l'oest amb la mar Adriàtica."
   },
   {
     "country": "Cuba",
@@ -496,7 +496,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.892,
     "rentaPerCapita": 9477.852873,
-    "description": ""
+    "description": "Cuba, oficialment la República de Cuba, és un Estat del mar Carib integrat per l'illa de Cuba —la més gran i la segona més poblada de les Antilles—, l'illa de la Juventud, i altres illes adjacents."
   },
   {
     "country": "Curacao",
@@ -504,7 +504,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.01707317,
     "rentaPerCapita": 16109.86167,
-    "description": ""
+    "description": "Curaçao és una illa de la mar Carib, a prop de la costa veneçolana, i un dels països constituents del Regne dels Països Baixos. La capital és Willemstad i té uns 150.000 habitants. La llengua oficial és el neerlandès, malgrat que la que més s'hi parla és el papiament."
   },
   {
     "country": "Cyprus",
@@ -514,7 +514,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 81.135,
     "rentaPerCapita": 30798.47656,
-    "description": ""
+    "description": "Xipre és una illa de la Mediterrània. L'illa és situada al sud de Turquia, de la qual la separa la mar Mediterrània. Té 700.000 habitants i 9.000 km². Xipre entès com a illa i país és dividit entre els turcs i els grecs."
   },
   {
     "country": "Czechia",
@@ -523,7 +523,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.22682927,
     "rentaPerCapita": 26378.49996,
-    "description": ""
+    "description": "Txèquia, oficialment la República Txeca, és un país de l'Europa central sense sortida al mar. Fa frontera amb Polònia al nord, Alemanya al nord-oest i l'oest, Àustria al sud i Eslovàquia a l'est. La capital i la ciutat més gran és Praga, la part històrica de la qual té un gran atractiu turístic."
   },
   {
     "country": "Denmark",
@@ -532,7 +532,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 81.55121951,
     "rentaPerCapita": 67803.0471,
-    "description": ""
+    "description": "Dinamarca, oficialment el Regne de Dinamarca, és un país escandinau de l'Europa septentrional localitzat a la península de Jutlàndia, i forma una comunitat integrada per tres parts autònomes, la mateixa Dinamarca i els seus dos territoris d'ultramar o territoris dependents, Groenlàndia i les Illes Fèroe."
   },
   {
     "country": "Djibouti",
@@ -541,7 +541,7 @@
     "access2Electricity": 61.76708221,
     "lifeExpectancy": 67.49,
     "rentaPerCapita": 3363.712048,
-    "description": ""
+    "description": "La República de Djibouti és un estat de l'Àfrica oriental. Limita al nord amb Eritrea, a l'oest i al sud amb Etiòpia i amb Somàlia al sud-est. A l'est està banyat pel mar Roig i el golf d'Aden, i separat de la costa del Iemen, a la península d'Aràbia, per l'estret de Bab al-Mandab, de només 20 quilòmetres d'amplada."
   },
   {
     "country": "Dominica",
@@ -549,7 +549,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 76.59756098,
     "rentaPerCapita": 7559.975039,
-    "description": ""
+    "description": "Dominica és un estat insular de l'Amèrica Central, a les Petites Antilles, format per l'illa homònima. Està banyat a l'oest per mar Carib i a l'est per l'oceà Atlàntic; al nord està separat de l'illa francesa de Guadeloupe pel pas de Dominica, i al sud el pas de la Martinica el separa d'aquesta altra illa francesa."
   },
   {
     "country": "Dominican Republic",
@@ -559,7 +559,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.257,
     "rentaPerCapita": 8603.789905,
-    "description": ""
+    "description": "La República Dominicana és un estat de la Regió del Carib que ocupa les dues terceres parts de l'illa de la Hispaniola, la segona illa més gran de l'arxipèlag de les Antilles. Limita a l'oest amb Haití i està separat, a l'est, de l'illa de Puerto Rico pel pas de la Mona."
   },
   {
     "country": "Ecuador",
@@ -569,17 +569,17 @@
     "access2Electricity": 98.84999847,
     "lifeExpectancy": 77.216,
     "rentaPerCapita": 5934.875496,
-    "description": ""
+    "description": "L'Equador —o la República de l'Equador— és un estat de l'Amèrica del Sud. Limita a l'oest amb l'oceà Pacífic; al nord, amb Colòmbia; i a l'est i al sud, amb el Perú. També pertanyen a l'Equador les Illes Galápagos, situades uns 1000 km a l'oest de la costa."
   },
   {
-    "country": "Egypt, Arab Rep.",
+    "country": "Egypt",
     "population": 104258327,
     "percPoverty": 32.5,
     "literacyRate15Above": 71.16825104,
     "access2Electricity": 100,
     "lifeExpectancy": 72.15,
     "rentaPerCapita": 3876.359594,
-    "description": ""
+    "description": "Egipte, oficialment República Àrab d'Egipte, és un estat de l'Àfrica nord-oriental. Amb una extensió d'1.020.000 km², inclou la península del Sinaí, mentre que la majoria del país se situa al nord d'Àfrica."
   },
   {
     "country": "El Salvador",
@@ -589,7 +589,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 73.533,
     "rentaPerCapita": 4408.520365,
-    "description": ""
+    "description": "El Salvador és una república de l'Amèrica central que limita a l'oest amb Guatemala, al nord i a l'est amb Hondures i al sud amb l'oceà Pacífic. La capital és San Salvador, amb mig milió d'habitants, i les ciutats principals són les ciutats de Santa Ana i San Miguel, amb més de 150.000 habitants."
   },
   {
     "country": "Equatorial Guinea",
@@ -599,7 +599,7 @@
     "access2Electricity": 66.74772644,
     "lifeExpectancy": 59.057,
     "rentaPerCapita": 8462.28633,
-    "description": ""
+    "description": "Guinea Equatorial és una república de l'Àfrica central, l'antiga Guinea Espanyola. Es compon de la part continental, anomenada Mbini o Río Muni, que limita al nord amb el Camerun, a l'est i al sud amb el Gabon i a l'oest amb l'oceà Atlàntic."
   },
   {
     "country": "Eritrea",
@@ -609,7 +609,7 @@
     "access2Electricity": 52.1710968,
     "lifeExpectancy": 66.679,
     "rentaPerCapita": 642.5082588,
-    "description": ""
+    "description": "Eritrea és un estat de l'Àfrica nord-oriental. Limita amb el Sudan a l'oest, Etiòpia al sud i Djibouti a l'est. El nord-est del país està banyat per la mar Roja, d'on ve el seu nom, derivat del grec èrithros, 'vermell'."
   },
   {
     "country": "Estonia",
@@ -619,7 +619,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.34634146,
     "rentaPerCapita": 27280.65844,
-    "description": ""
+    "description": "La República d'Estònia és un estat de l'Europa del Nord, constituït per una porció continental i un gran arxipèlag al mar Bàltic. Limita amb el mar Bàltic a l'oest; i amb el golf de Finlàndia, al nord; al sud, amb l'estat bàltic germà —Letònia—; i amb Rússia, a l'est."
   },
   {
     "country": "Eswatini",
@@ -629,7 +629,7 @@
     "access2Electricity": 79.73049927,
     "lifeExpectancy": 60.721,
     "rentaPerCapita": 4214.861688,
-    "description": ""
+    "description": "Eswatini, oficialment Regne d'Eswatini, és un país de l'Àfrica Austral situat entre Sud-àfrica i Moçambic en les faldes orientals de les muntanyes Drakensberg. La forma de govern del país és la monarquia absoluta i el seu territori està organitzat en quatre districtes."
   },
   {
     "country": "Ethiopia",
@@ -639,7 +639,7 @@
     "access2Electricity": 51.0939827,
     "lifeExpectancy": 66.953,
     "rentaPerCapita": 943.9656842,
-    "description": ""
+    "description": "Etiòpia és una república democràtica federal de l'Àfrica nord-oriental. Limita al nord amb Eritrea i Djibouti, a l'est amb Somàlia, al sud amb Kenya i a l'oest amb el Sudan i el Sudan del Sud."
   },
   {
     "country": "Faroe Islands",
@@ -647,7 +647,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 83.09268293,
     "rentaPerCapita": 66320.6792,
-    "description": ""
+    "description": "Les Illes Fèroe són un grup d'illes de l'Atlàntic Nord situades a mig camí de les costes d'Islàndia, Escòcia i Noruega. Pertanyen al regne de Dinamarca, del qual en reberen l'autonomia el 1948."
   },
   {
     "country": "Fiji",
@@ -656,7 +656,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 67.561,
     "rentaPerCapita": 5085.971642,
-    "description": ""
+    "description": "La República de Fiji és un estat insular d'Oceania que ocupa tot un arxipèlag del Pacífic Sud, a la Melanèsia, situat a l'est de Vanuatu, a l'oest de Tonga i al sud de Tuvalu."
   },
   {
     "country": "Finland",
@@ -665,7 +665,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.13170732,
     "rentaPerCapita": 53982.61427,
-    "description": ""
+    "description": "La República de Finlàndia és un estat del nord-est d'Europa, a Escandinàvia, voltat per la mar Bàltica al sud-oest, pel golf de Finlàndia al sud-est i pel golf de Bòtnia a l'oest. Finlàndia té fronteres per terra amb Suècia al nord-oest, amb Noruega al nord i amb Rússia a l'est."
   },
   {
     "country": "France",
@@ -674,7 +674,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.17560976,
     "rentaPerCapita": 43518.53851,
-    "description": ""
+    "description": "França, oficialment la República Francesa, és un estat constituït per una metròpoli i per territoris d'ultramar."
   },
   {
     "country": "French Polynesia",
@@ -682,7 +682,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.836,
     "rentaPerCapita": 20182.5845,
-    "description": ""
+    "description": "La Polinèsia Francesa és un conjunt d'arxipèlags de la Polinèsia meridional que formen un territori d'ultramar francès."
   },
   {
     "country": "Gabon",
@@ -692,17 +692,17 @@
     "access2Electricity": 91.57156372,
     "lifeExpectancy": 66.69,
     "rentaPerCapita": 8016.990495,
-    "description": ""
+    "description": "El Gabon, oficialment la República Gabonesa és una república de la costa occidental d'Àfrica Central. Situat en l'equador, limita al nord amb Guinea Equatorial i el Camerun, a l'est i el sud amb el República del Congo i a l'oest amb el golf de Guinea."
   },
   {
-    "country": "Gambia, The",
+    "country": "Gambia",
     "population": 2486937,
     "percPoverty": 48.6,
     "literacyRate15Above": 50.77796936,
     "access2Electricity": 62.27306747,
     "lifeExpectancy": 62.383,
     "rentaPerCapita": 835.5944214,
-    "description": ""
+    "description": "Gàmbia, oficialment República de Gàmbia, és una república de l'Àfrica occidental, voltada completament pel Senegal excepte a l'oest, en què l'estuari del riu Gàmbia toca l'oceà Atlàntic. La capital n'és Banjul. Gàmbia és un país petit i estret amb la frontera basada en el riu Gàmbia."
   },
   {
     "country": "Georgia",
@@ -712,7 +712,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 73.919,
     "rentaPerCapita": 5042.385528,
-    "description": ""
+    "description": "Geòrgia és un estat de l'Europa de l'Est. Limita al nord amb Rússia, al sud amb Armènia i Turquia, al sud-est amb l'Azerbaidjan, i a l'oest amb la mar Negra."
   },
   {
     "country": "Germany",
@@ -721,7 +721,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.94146341,
     "rentaPerCapita": 50801.78671,
-    "description": ""
+    "description": "Alemanya, anomenat oficialment República Federal d'Alemanya, és un estat de l'Europa central que forma part de la Unió Europea."
   },
   {
     "country": "Ghana",
@@ -731,13 +731,13 @@
     "access2Electricity": 85.87355042,
     "lifeExpectancy": 64.347,
     "rentaPerCapita": 2445.290749,
-    "description": ""
+    "description": "Ghana és una república de l'Àfrica occidental. Confronta a l'oest amb la Costa d'Ivori, al nord-oest i al nord amb Burkina Faso, a l'est amb Togo i al sud amb el golf de Guinea."
   },
   {
     "country": "Gibraltar",
     "population": 33691,
     "access2Electricity": 100,
-    "description": ""
+    "description": "Gibraltar o millor Gibaltar és un territori britànic d'ultramar que inclou el penyal de Gibraltar i els seus encontorns, amb una gran importància estratègica perquè domina la riba nord de l'estret de Gibraltar, que uneix el mar Mediterrani i l'Atlàntic."
   },
   {
     "country": "Greece",
@@ -747,7 +747,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 81.08780488,
     "rentaPerCapita": 20276.54467,
-    "description": ""
+    "description": "Grècia, oficialment la República Hel·lènica és un estat del sud-est d'Europa, situat a la punta meridional de la península Balcànica. Fa frontera amb Albània, Macedònia del Nord i Bulgària al nord; i amb Turquia, a l'est. El mar Egeu és a l'est de Grècia; el mar Jònic, a l'oest; i el mar Mediterrani, al sud."
   },
   {
     "country": "Greenland",
@@ -755,7 +755,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 71.40463415,
     "rentaPerCapita": 54570.37502,
-    "description": ""
+    "description": "Groenlàndia o bé Grenlàndia és un país constituent del Regne de Dinamarca, situat entre l'oceà Àrtic i l'oceà Atlàntic, a l'est de les illes àrtiques del Canadà. Groenlàndia pertany geogràficament a l'Amèrica del Nord, tot i que geopolíticament pertany a Europa."
   },
   {
     "country": "Grenada",
@@ -764,7 +764,7 @@
     "access2Electricity": 93.58644867,
     "lifeExpectancy": 72.426,
     "rentaPerCapita": 9928.621733,
-    "description": ""
+    "description": "Grenada és un estat insular de l'Amèrica Central, la més meridional de les Petites Antilles. Inclou les illes Grenadines del sud, mentre que les Grenadines septentrionals pertanyen a Saint Vincent i les Grenadines, l'estat que es troba al nord de Grenada."
   },
   {
     "country": "Guam",
@@ -773,7 +773,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.277,
     "rentaPerCapita": 34624.34013,
-    "description": ""
+    "description": "Guam és una illa al Pacífic occidental que forma part de l'arxipèlag de les Mariannes. Oficialment és un territori no incorporat dels Estats Units d'Amèrica. Conté una superfície de 541 km² i una població de 159.547 habitants. És a mig camí entre Hawaii i les Filipines, dins de la Micronèsia."
   },
   {
     "country": "Guatemala",
@@ -783,7 +783,7 @@
     "access2Electricity": 97.05526733,
     "lifeExpectancy": 74.529,
     "rentaPerCapita": 5025.575573,
-    "description": ""
+    "description": "Guatemala és una república de l'Amèrica Central que afronta al nord i a l'oest amb Mèxic, al nord-est amb Belize i amb el mar Carib a través de la badia d'Amatique, al sud-est amb Hondures i El Salvador, i al sud amb l'oceà Pacífic."
   },
   {
     "country": "Guinea",
@@ -793,7 +793,7 @@
     "access2Electricity": 44.66867828,
     "lifeExpectancy": 61.962,
     "rentaPerCapita": 1174.352972,
-    "description": ""
+    "description": "Guinea, oficialment República de Guinea és una república de l'Àfrica nord-occidental, també coneguda com a Guinea Conakry per diferenciar-la dels altres dos estats homònims: Guinea Bissau i Guinea Equatorial."
   },
   {
     "country": "Guinea-Bissau",
@@ -803,7 +803,7 @@
     "access2Electricity": 33.33546829,
     "lifeExpectancy": 58.634,
     "rentaPerCapita": 812.962373,
-    "description": ""
+    "description": "Guinea Bissau és una república de l'Àfrica occidental que afronta al nord amb el Senegal, a l'est i al sud amb Guinea i a l'oest amb l'oceà Atlàntic."
   },
   {
     "country": "Guyana",
@@ -812,7 +812,7 @@
     "access2Electricity": 92.5405426,
     "lifeExpectancy": 70.023,
     "rentaPerCapita": 9374.80457,
-    "description": ""
+    "description": "Guyana és una república de la costa septentrional de l'Amèrica del Sud. Constitueix la part occidental de l'extensa regió de la Guaiana i limita amb Surinam a l'est, amb el Brasil al sud i a l'oest, amb Veneçuela a l'oest i amb l'oceà Atlàntic al nord."
   },
   {
     "country": "Haiti",
@@ -822,7 +822,7 @@
     "access2Electricity": 46.92553329,
     "lifeExpectancy": 64.315,
     "rentaPerCapita": 1814.674048,
-    "description": ""
+    "description": "Haití, oficialment República d'Haití, és una república del Carib situada al terç occidental de l'illa de la Hispaniola."
   },
   {
     "country": "Honduras",
@@ -832,15 +832,15 @@
     "access2Electricity": 93.20671082,
     "lifeExpectancy": 75.448,
     "rentaPerCapita": 2831.033021,
-    "description": ""
+    "description": "Hondures és una república de l'Amèrica Central que afronta a l'oest amb Guatemala i El Salvador, al sud amb Nicaragua i l'oceà Pacífic i al nord amb el golf d'Hondures i el mar Carib. Belize és solament a 75 km enllà del golf d'Hondures. Té una extensió de 112.090 km² i una població estimada de 6.500.000 habitants."
   },
   {
-    "country": "Hong Kong SAR, China",
+    "country": "Hong Kong",
     "population": 7413100,
     "access2Electricity": 100,
     "lifeExpectancy": 85.38780488,
     "rentaPerCapita": 49660.63424,
-    "description": ""
+    "description": "Hong Kong és un pais, format principalment per una ciutat i des-de 1997 una regió administrativa especial de la República Popular de la Xina, que comprèn una extensió d'uns 1.000 km² a la costa sud-est de l'estat."
   },
   {
     "country": "Hungary",
@@ -850,7 +850,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.61707317,
     "rentaPerCapita": 18772.67329,
-    "description": ""
+    "description": "Hongria és una república de l'Europa central, basada en l'històric Regne d'Hongria. Limita al nord amb Eslovàquia i Ucraïna, a l'est i al sud-est amb Romania, al sud amb Sèrbia i Croàcia, i a l'oest amb Eslovènia i Àustria."
   },
   {
     "country": "Iceland",
@@ -859,7 +859,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 83.06585366,
     "rentaPerCapita": 68383.76534,
-    "description": ""
+    "description": "Islàndia és un estat insular europeu que es troba a l'oceà Atlàntic Nord a la Dorsal atlàntica. El 2021 tenia una població estimada de 376.000 habitants, i una superfície total de 103.000 km²."
   },
   {
     "country": "India",
@@ -869,7 +869,7 @@
     "access2Electricity": 99,
     "lifeExpectancy": 69.887,
     "rentaPerCapita": 2277.434347,
-    "description": ""
+    "description": "'L'Índia', oficialment la República de l'Índia és un estat del sud de l'Àsia. És el setè país més gran del món en superfície, el segon més poblat després de la Xina, i el país democràtic més gran."
   },
   {
     "country": "Indonesia",
@@ -879,16 +879,16 @@
     "access2Electricity": 96.94999695,
     "lifeExpectancy": 71.908,
     "rentaPerCapita": 4291.812554,
-    "description": ""
+    "description": "La República d'Indonèsia és un Estat insular del sud-est d'Àsia situada a la Insulíndia, l'arxipèlag més gran del món, entre Indo-xina i Austràlia i entre els oceans Índic i Pacífic."
   },
   {
-    "country": "Iran, Islamic Rep.",
+    "country": "Iran",
     "population": 85028760,
     "literacyRate15Above": 85.54425049,
     "access2Electricity": 100,
     "lifeExpectancy": 76.87,
     "rentaPerCapita": 2756.749977,
-    "description": ""
+    "description": "La República Islàmica de l'Iran és un país de l'Orient Mitjà. Fins al 1935 va ser conegut com a Pèrsia. Fa frontera amb els següents països: Turkmenistan, Afganistan i Pakistan a l'est; Iraq, Turquia, Azerbaidjan i Armènia a l'oest."
   },
   {
     "country": "Iraq",
@@ -898,7 +898,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 70.748,
     "rentaPerCapita": 5048.387813,
-    "description": ""
+    "description": "L'Iraq o Irac, o el seu nom oficial República de l'Iraq, és un país majoritàriament musulmà de l'Orient Pròxim, situat al nord de la península aràbiga. Comprenent la desembocadura dels rius Tigris i Èufrates, és sovint anomenat Bilad ar-Rafidain. Bagdad n'és la capital."
   },
   {
     "country": "Ireland",
@@ -907,7 +907,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.20487805,
     "rentaPerCapita": 99152.10257,
-    "description": ""
+    "description": "Irlanda, oficialment República d'Irlanda, és un estat sobirà situat al nord-oest d'Europa que inclou 26 dels 32 comtats de l'illa d'Irlanda."
   },
   {
     "country": "Isle of Man",
@@ -915,7 +915,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.96585366,
     "rentaPerCapita": 86481.55259,
-    "description": ""
+    "description": "Man és una petita illa del mar d'Irlanda que forma, amb Gran Bretanya, Irlanda i d'altres illes, l'Arxipèlag de les Illes Britàniques, reserva de la biosfera per la UNESCO des de 2016. És una dependència de la Corona britànica."
   },
   {
     "country": "Israel",
@@ -924,7 +924,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.7,
     "rentaPerCapita": 51430.07968,
-    "description": ""
+    "description": "srael, oficialment l'Estat d'Israel, és un estat reconegut per l'àmplia majoria d'estats amb representació a la ONU - no obstant, no és reconegut per 32 estats -, ubicat a l'Orient Mitjà, en la regió oriental de la mar Mediterrània."
   },
   {
     "country": "Italy",
@@ -934,7 +934,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.34390244,
     "rentaPerCapita": 35551.28499,
-    "description": ""
+    "description": "Itàlia, oficialment la República Italiana, és un Estat europeu situat a la península Itàlica i que inclou les dues illes més grans de la mar Mediterrània, Sicília i Sardenya. Itàlia limita al nord amb França, Suïssa, Àustria i Eslovènia."
   },
   {
     "country": "Jamaica",
@@ -944,7 +944,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.586,
     "rentaPerCapita": 4586.650509,
-    "description": ""
+    "description": "Jamaica és un estat insular de les Grans Antilles, de 240 km de llargada i un màxim de 80 km d'amplada. L'illa de Jamaica està situada al mar del Carib, a 150 km de Cuba i a 180 km de l'illa de la Hispaniola. És el tercer país de parla anglesa més poblat d'Amèrica, després dels Estats Units i el Canadà."
   },
   {
     "country": "Japan",
@@ -952,7 +952,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 84.61560976,
     "rentaPerCapita": 39285.16311,
-    "description": ""
+    "description": "El Japó és un país insular de l'Àsia Oriental. Localitzat a l'oceà Pacífic, està situat a l'est de la República Popular de la Xina, Corea i Rússia, i s'estén des del mar d'Okhotsk al nord, al Mar de la Xina Oriental al sud."
   },
   {
     "country": "Jordan",
@@ -962,7 +962,7 @@
     "access2Electricity": 99.90000153,
     "lifeExpectancy": 74.655,
     "rentaPerCapita": 4405.839424,
-    "description": ""
+    "description": "Jordània, oficialment el Regne Haiximita de Jordània, és un país de l'Àsia situat a l'Orient Pròxim. Té fronteres amb l'Iraq, l'Aràbia Saudita, Israel, Palestina i Síria. Comparteix amb Israel i Palestina les costes de la mar Morta i amb l'Aràbia Saudita i l'Egipte el golf d'Aqaba."
   },
   {
     "country": "Kazakhstan",
@@ -972,7 +972,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 71.37,
     "rentaPerCapita": 10041.48984,
-    "description": ""
+    "description": "El Kazakhstan, amb la possible denominació en català Casaquistan qüestionada, oficialment la República del Kazakhstan és un país de l'Àsia Central que limita amb Rússia al nord, la Xina al sud-est, el Kirguizistan, l'Uzbekistan i el Turkmenistan al sud, i la mar Càspia a l'oest. És el novè país més extens del món."
   },
   {
     "country": "Kenya",
@@ -982,7 +982,7 @@
     "access2Electricity": 71.4379425,
     "lifeExpectancy": 66.991,
     "rentaPerCapita": 2006.83224,
-    "description": ""
+    "description": "Kenya és un estat de l'Àfrica oriental, limitat al nord pel Sudan del Sud i Etiòpia, a l'est per Somàlia i per l'oceà Índic, al sud per Tanzània i a l'oest per Uganda. El llac Victòria està situat al sud-oest i està compartit amb Uganda i Tanzània. La seva capital és Nairobi."
   },
   {
     "country": "Kiribati",
@@ -991,24 +991,24 @@
     "access2Electricity": 91.96302795,
     "lifeExpectancy": 68.611,
     "rentaPerCapita": 1514.591059,
-    "description": ""
+    "description": "La República de Kiribati, antigament coneguda com a Illes Gilbert, és un estat multiinsular de l'Oceà Pacífic."
   },
   {
-    "country": "Korea, Dem. People's Rep.",
+    "country": "North Korea",
     "population": 25887045,
     "literacyRate15Above": 99.99819183,
     "access2Electricity": 52.31354523,
     "lifeExpectancy": 72.453,
-    "description": ""
+    "description": "Corea del Nord, oficialment la República Popular Democràtica de Corea, és un estat de l'Àsia oriental que ocupa la meitat septentrional de la península de Corea."
   },
   {
-    "country": "Korea, Rep.",
+    "country": "South Korea",
     "population": 51744876,
     "literacyRate15Above": 97.96594238,
     "access2Electricity": 100,
     "lifeExpectancy": 83.42682927,
     "rentaPerCapita": 34757.72007,
-    "description": ""
+    "description": "Corea del Sud, oficialment la República de Corea és un país de l'Àsia que ocupa la regió meridional de la península de Corea. Al nord, limita amb Corea del Nord, al qual estava unit fins al 1945."
   },
   {
     "country": "Kosovo",
@@ -1017,7 +1017,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 71.08780488,
     "rentaPerCapita": 4986.582469,
-    "description": ""
+    "description": "Kosovo és un estat europeu amb reconeixement limitat, situat als Balcans. Aquesta província autònoma de l'extinta Iugoslàvia dins Sèrbia, proclamà la seva independència d'aquesta darrera el 17 de febrer del 2008."
   },
   {
     "country": "Kuwait",
@@ -1026,27 +1026,27 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.586,
     "rentaPerCapita": 24811.76971,
-    "description": ""
+    "description": "Pel que fa a la capital de l'estat, vegeu al-Kuwait. Kuwait és un estat de l'Àsia situat al fons del Golf Pèrsic. Per terra, fa frontera amb l'Iraq al nord, i l'Aràbia Saudita al sud. El subsol és ric en petroli, i el país és membre de l'OPEP."
   },
   {
-    "country": "Kyrgyz Republic",
+    "country": "Kyrgyzstan",
     "population": 6694200,
     "percPoverty": 25.3,
     "literacyRate15Above": 99.58599854,
     "access2Electricity": 99.98104858,
     "lifeExpectancy": 71.8,
     "rentaPerCapita": 1276.242643,
-    "description": ""
+    "description": "El Kirguizistan o Kirguizstan, oficialment denominat República Kirguís, és un estat de l'Àsia Central. Molt muntanyós i sense sortida al mar, limita amb la República Popular de la Xina a l'est, amb el Kazakhstan al nord, amb el Tadjikistan al sud i amb l'Uzbekistan a l'oest. La capital n'és Bixkek."
   },
   {
-    "country": "Lao PDR",
+    "country": "Laos",
     "population": 7379358,
     "percPoverty": 18.3,
     "literacyRate15Above": 84.66104126,
     "access2Electricity": 100,
     "lifeExpectancy": 68.219,
     "rentaPerCapita": 2551.326081,
-    "description": ""
+    "description": "La República Popular Democràtica de Laos, també anomenat el Lao, és un estat del sud-est de l'Àsia, a la península d'Indoxina. Limita amb Birmània i la República Popular de la Xina al nord-oest, Vietnam a l'est, Cambodja al sud-est i Tailàndia a l'oest i sud-oest. La seva capital i ciutat més poblada és Vientiane."
   },
   {
     "country": "Latvia",
@@ -1056,7 +1056,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.38780488,
     "rentaPerCapita": 20642.16792,
-    "description": ""
+    "description": "La República de Letònia és una república del nord-est d'Europa amb costa a la mar Bàltica. Letònia és coneguda com un dels països bàltics, juntament amb Estònia i Lituània, que limiten amb la república pel nord i el sud, respectivament. A l'est, comparteix fronteres amb Rússia i Bielorússia."
   },
   {
     "country": "Lebanon",
@@ -1066,7 +1066,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 79.004,
     "rentaPerCapita": 2670.441956,
-    "description": ""
+    "description": "El Líban oficialment la República libanesa, és un estat de l'Orient Mitjà que fa frontera al nord i a l'est amb Síria, al sud amb Israel i Palestina, i a l'oest és banyat pel Mediterrani."
   },
   {
     "country": "Lesotho",
@@ -1076,7 +1076,7 @@
     "access2Electricity": 47.35273743,
     "lifeExpectancy": 54.836,
     "rentaPerCapita": 1166.461667,
-    "description": ""
+    "description": "Lesotho és un reialme de l'Àfrica meridional que forma un enclavament dins de Sud-àfrica, per la qual està totalment envoltat. El nom del país significa 'Terra dels qui parlen sesotho'. És un país independent des del 1966."
   },
   {
     "country": "Liberia",
@@ -1086,7 +1086,7 @@
     "access2Electricity": 27.53470993,
     "lifeExpectancy": 64.423,
     "rentaPerCapita": 673.0890671,
-    "description": ""
+    "description": "Libèria és un estat de l'Àfrica occidental banyat per l'Atlàntic al sud i al sud-oest, i que fa frontera amb Sierra Leone al nord-oest, Guinea al nord i Costa d'Ivori a l'est. Fou fundat per antics esclaus dels EUA tot i que majoritàriament està habitat per africans indígenes."
   },
   {
     "country": "Libya",
@@ -1095,7 +1095,7 @@
     "access2Electricity": 69.70735168,
     "lifeExpectancy": 73.082,
     "rentaPerCapita": 6018.445207,
-    "description": ""
+    "description": "Líbia, també coneguda com a Estat de Líbia, és una república del nord de l'Àfrica. Limita al nord amb la mar Mediterrània, a l'oest amb Tunísia i Algèria, al sud-oest amb el Níger, al sud amb el Txad, al sud-est amb el Sudan i a l'est amb Egipte. Té una extensió d'1.759.540 km²."
   },
   {
     "country": "Liechtenstein",
@@ -1103,7 +1103,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 81.80731707,
     "rentaPerCapita": 169049.1569,
-    "description": ""
+    "description": "Liechtenstein o més formalment el Principat de Liechtenstein, és un petit estat de l'Europa alpina que limita amb Suïssa a l'oest i Àustria a l'est. Constitueix un enclavament que, juntament amb Suïssa, no forma part de la Unió Europea."
   },
   {
     "country": "Lithuania",
@@ -1113,7 +1113,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.92926829,
     "rentaPerCapita": 23433.39091,
-    "description": ""
+    "description": "Lituània és un estat d'Europa, i el més al sud dels estats bàltics. Limita al nord amb Letònia, a l'oest amb la mar Bàltica, al sud-est amb Bielorússia, i al sud amb Polònia i Kaliningrad. Va formar part de la Unió Soviètica sota el nom de República Socialista Soviètica de Lituània."
   },
   {
     "country": "Luxembourg",
@@ -1122,16 +1122,16 @@
     "access2Electricity": 100,
     "lifeExpectancy": 81.74146341,
     "rentaPerCapita": 135682.7943,
-    "description": ""
+    "description": "El Gran Ducat de Luxemburg és una monarquia constitucional hereditària amb sistema parlamentari situada entre Bèlgica, Alemanya i França. El Gran Duc Enric I n'és el cap d'estat des del mes d'octubre del 2000. Forma part de la Unió Europea des del 25 de març del 1957. N'és, per tant, un dels membres fundadors."
   },
   {
-    "country": "Macao SAR, China",
+    "country": "Macau",
     "population": 658391,
     "literacyRate15Above": 96.5384903,
     "access2Electricity": 100,
     "lifeExpectancy": 84.37,
     "rentaPerCapita": 45421.62663,
-    "description": ""
+    "description": "Macau és una ciutat del sud-est de la Xina, tocant a la mar de la Xina Meridional. Disposa d'un ampli grau d'autonomia, ja que havia estat una colònia portuguesa fins a l'any 1999, quan va tornar a la sobirania xinesa. La seva economia està basada en el trànsit marítim del seu port, els casinos i el turisme."
   },
   {
     "country": "Madagascar",
@@ -1141,7 +1141,7 @@
     "access2Electricity": 33.7350769,
     "lifeExpectancy": 67.39,
     "rentaPerCapita": 514.9058618,
-    "description": ""
+    "description": "Madagascar és un estat i una illa de l'oceà Índic davant la costa sud-oriental d'Àfrica a l'altura de Moçambic. Està separada del continent pel canal de Moçambic. La capital n'és Antananarivo. Cal destacar que antigament l'illa es trobava unida al continent africà, del qual es va separar."
   },
   {
     "country": "Malawi",
@@ -1151,7 +1151,7 @@
     "access2Electricity": 14.86676884,
     "lifeExpectancy": 64.694,
     "rentaPerCapita": 642.6569158,
-    "description": ""
+    "description": "Malawi, abans anomenat Nyasalàndia, és un país de l'Àfrica Oriental, situat a la riba del llac Niassa i que limita al nord i a l'est amb Tanzània, a l'est, sud i oest amb Moçambic i a l'oest amb Zàmbia. La capital és Lilongwe i la ciutat més gran."
   },
   {
     "country": "Malaysia",
@@ -1161,7 +1161,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 76.306,
     "rentaPerCapita": 11371.09902,
-    "description": ""
+    "description": "Malàisia és un estat federal de l'Àsia Sud-oriental. Consta de tretze estats i tres territoris federals, amb una àrea de 329.847 km². La seva capital és Kuala Lumpur però Putrajaya és la seu del seu govern."
   },
   {
     "country": "Maldives",
@@ -1171,7 +1171,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 79.208,
     "rentaPerCapita": 8994.641352,
-    "description": ""
+    "description": "La República de les Maldives és un estat format per un grup d'atols a l'oceà Índic, al sud-oest de l'Índia. La capital és Malé a l'illa del mateix nom. L'aeroport internacional està a l'illa veïna d'Hulule."
   },
   {
     "country": "Mali",
@@ -1181,7 +1181,7 @@
     "access2Electricity": 50.56141663,
     "lifeExpectancy": 59.692,
     "rentaPerCapita": 917.9130633,
-    "description": ""
+    "description": "Mali és un estat de l'Àfrica Occidental que limita amb Mauritània i Algèria al nord, amb el Níger a l'est, amb Burkina Faso, Costa d'Ivori i Guinea al sud i amb el Senegal i Mauritània a l'oest. El punt més elevat és el Mont Hombori situat a la part central del país."
   },
   {
     "country": "Malta",
@@ -1191,7 +1191,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.65365854,
     "rentaPerCapita": 33257.42203,
-    "description": ""
+    "description": "Malta, oficialment República de Malta, és un estat insular del Mediterrani. L'arxipèlag maltès —format per les illes principals de Malta i Għawdex i altres de menors— és al sud de Sicília, de la qual el separa l'estret de Malta. La capital és la Valletta."
   },
   {
     "country": "Marshall Islands",
@@ -1200,7 +1200,7 @@
     "access2Electricity": 99.16060638,
     "lifeExpectancy": 65.23902439,
     "rentaPerCapita": 4170.981918,
-    "description": ""
+    "description": "La República de les Illes Marshall és un estat insular que va obtenir la independència respecte els Estats Units el 1986, i així es va convertir en un dels països més joves d'Oceania. Està composta per dos arxipèlags i alguns esculls que en total sumen unes 1.152 illes del Pacífic."
   },
   {
     "country": "Mauritania",
@@ -1210,7 +1210,7 @@
     "access2Electricity": 47.34841919,
     "lifeExpectancy": 65.129,
     "rentaPerCapita": 1723.013866,
-    "description": ""
+    "description": "Mauritània, oficialment la República Islàmica de Mauritània, és un estat situat al nord-oest de l'Àfrica. Limita al sud-oest amb el Senegal, a l'est i el sud-est amb Mali, al nord-est amb Algèria i al nord-oest amb el territori del Sàhara Occidental annexionat pel Marroc."
   },
   {
     "country": "Mauritius",
@@ -1220,7 +1220,7 @@
     "access2Electricity": 99.66165161,
     "lifeExpectancy": 74.17707317,
     "rentaPerCapita": 8812.108249,
-    "description": ""
+    "description": "La República de Maurici és un estat africà situat a l'oceà Índic sud-occidental, a uns 900 km a l'est de Madagascar. Aquest Estat té una superfície de 2.040 km², el 91% de la qual pertany a l'illa Maurici i la resta a illes més petites, que inclouen les illes de Saint Brandon, Rodrigues i Agalega."
   },
   {
     "country": "Mexico",
@@ -1230,16 +1230,16 @@
     "access2Electricity": 99.40000153,
     "lifeExpectancy": 75.131,
     "rentaPerCapita": 9926.422768,
-    "description": ""
+    "description": "Mèxic, oficialment els Estats Units Mexicans, és una república federal constitucional de l'Amèrica del Nord. Limita al nord amb els Estats Units d'Amèrica; al sud i a l'oest, amb l'oceà Pacífic; al sud-est, amb Guatemala, Belize i la mar Carib; i a l'est, amb el golf de Mèxic."
   },
   {
-    "country": "Micronesia, Fed. Sts.",
+    "country": "Micronesia",
     "population": 116255,
     "percPoverty": 41.2,
     "access2Electricity": 82.92591858,
     "lifeExpectancy": 68.002,
     "rentaPerCapita": 3476.650895,
-    "description": ""
+    "description": "Els Estats Federats de Micronèsia són un estat federal d'Oceania, situats al nord de l'oceà Pacífic. Se situen al nord-est de Papua Nova Guinea, a l'est de Palau, al sud de les illes Mariannes Septentrionals, a l'oest de les illes Marshall i al nord-oest de Nauru."
   },
   {
     "country": "Moldova",
@@ -1249,14 +1249,14 @@
     "access2Electricity": 100,
     "lifeExpectancy": 72.006,
     "rentaPerCapita": 5314.531461,
-    "description": ""
+    "description": "La República de Moldàvia és un estat sense sortida al mar de l'Europa de l'Est, que limita amb Romania per l'oest i amb Ucraïna pel nord, l'est i el sud. Fins a l'any 1991 era la República Socialista Soviètica de Moldàvia, una de les repúbliques de la Unió Soviètica. És un petit estat de 33.843 km²."
   },
   {
     "country": "Monaco",
     "population": 39520,
     "access2Electricity": 100,
     "rentaPerCapita": 173688.1894,
-    "description": ""
+    "description": "El Principat de Mònaco és un petit estat europeu situat sobre la costa mediterrània que consta de l'única ciutat de Mònaco. Se situa a la Costa d'Atzur, entre les ciutats franceses de Niça i Menton. Té una superfície d'1,95 km² i una població de 36.950 habitants."
   },
   {
     "country": "Mongolia",
@@ -1266,7 +1266,7 @@
     "access2Electricity": 98.09999847,
     "lifeExpectancy": 70.056,
     "rentaPerCapita": 4534.918589,
-    "description": ""
+    "description": "Mongòlia és un país extens, sense accés al mar, que es localitza entre les regions de l'Àsia oriental i Àsia central. Mongòlia fa frontera amb Rússia al nord i la República Popular de la Xina al sud, l'est i oest. La seva capital és Ulan Bator, on viu el 38% de la població."
   },
   {
     "country": "Montenegro",
@@ -1276,7 +1276,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.93170732,
     "rentaPerCapita": 9367.016884,
-    "description": ""
+    "description": "Montenegro és un petit estat muntanyós situat a la península dels Balcans. Limita a l'oest amb la mar Adriàtica i Croàcia, al nord amb Bòsnia i Hercegovina, i a l'est amb Sèrbia i Albània. Des del 4 de febrer de 2003 es va establir com un dels dos estats membres de la Unió Estatal de Sèrbia i Montenegro."
   },
   {
     "country": "Morocco",
@@ -1286,7 +1286,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 76.901,
     "rentaPerCapita": 3496.758301,
-    "description": ""
+    "description": "El Marroc, oficialment el Regne del Marroc, és un estat del nord d'Àfrica. Limita amb l'oceà Atlàntic a l'oest, amb l'estret de Gibraltar, la mar Mediterrània i les ciutats autònomes espanyoles de Ceuta i Melilla al nord, amb Algèria a l'est i amb el Sàhara occidental i Mauritània al sud."
   },
   {
     "country": "Mozambique",
@@ -1296,7 +1296,7 @@
     "access2Electricity": 30.60383224,
     "lifeExpectancy": 61.387,
     "rentaPerCapita": 500.4448085,
-    "description": ""
+    "description": "Moçambic és un estat de la costa oriental de l'Àfrica Austral, que limita al nord amb Zàmbia, Malawi i Tanzània, a l'est amb el canal de Moçambic i amb l'oceà Índic, al sud i a l'oest amb Sud-àfrica i a l'oest amb Swazilàndia i amb Zimbàbue."
   },
   {
     "country": "Myanmar",
@@ -1306,7 +1306,7 @@
     "access2Electricity": 70.39719391,
     "lifeExpectancy": 67.363,
     "rentaPerCapita": 1187.238484,
-    "description": ""
+    "description": "Myanmar és un país del sud-est d'Àsia, que limita al nord-est amb la Xina, a l'est amb Laos i Tailàndia, al nord-oest amb Bangladesh i l'Índia i a l'oest amb el mar d'Andaman i el golf de Bengala. Des del novembre del 2005, la capital n'és Nay Pyi Taw en substitució de Yangon."
   },
   {
     "country": "Namibia",
@@ -1316,14 +1316,14 @@
     "access2Electricity": 56.2586937,
     "lifeExpectancy": 64.045,
     "rentaPerCapita": 4729.270937,
-    "description": ""
+    "description": "Namíbia és un estat de l'Àfrica meridional situat a la costa atlàntica, al nord de Sud-àfrica, al sud d'Angola i Zàmbia i a l'oest de Botswana. Té una extensió de 824.295 km² i una població de 2.533.794 habitants el 2017. La capital és Windhoek."
   },
   {
     "country": "Nauru",
     "population": 10873,
     "access2Electricity": 100,
     "rentaPerCapita": 12252.2668,
-    "description": ""
+    "description": "Nauru és una república insular d'Oceania situada a la part meridional de l'oceà Pacífic, al sud de les illes Marshall. És un dels estats independents més petits del món, tant pel que fa a la població com a la superfície, i és la república més petita i poc poblada que existeix."
   },
   {
     "country": "Nepal",
@@ -1333,7 +1333,7 @@
     "access2Electricity": 89.90000153,
     "lifeExpectancy": 71.067,
     "rentaPerCapita": 1222.878794,
-    "description": ""
+    "description": "La República Federal Democràtica del Nepal o simplement el Nepal és un estat a l'Àsia, entre l'Índia i el Tibet, al vessant sud de l'Himàlaia. La punta sud-oriental del país es troba a només 27 km de Bangladesh, i per la banda oriental, està separat de Bhutan per l'estat de Sikkim, associat a l'Índia."
   },
   {
     "country": "Netherlands",
@@ -1342,7 +1342,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 81.4097561,
     "rentaPerCapita": 58061.00167,
-    "description": ""
+    "description": "Els Països Baixos són un país constituent del Regne dels Països Baixos i estat membre de la Unió Europea. A més a més de ser el centre organitzatiu i administratiu del Regne, s'hi troben les seus oficials de la monarquia i les seves autoritats executives, legislatives i judicials."
   },
   {
     "country": "New Caledonia",
@@ -1351,7 +1351,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.77117073,
     "rentaPerCapita": 34694.5504,
-    "description": ""
+    "description": "Nova Caledònia és un arxipèlag de la Melanèsia amb la consideració de col·lectivitat sui generis de França. Les Nacions Unides l'inclouen en la llista de països no autònoms. Es troba a l'oceà Pacífic a uns 1.500 km a l'est d'Austràlia i a uns 2.000 km al nord de Nova Zelanda."
   },
   {
     "country": "New Zealand",
@@ -1359,7 +1359,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.05609756,
     "rentaPerCapita": 48801.68513,
-    "description": ""
+    "description": "Nova Zelanda és un estat situat a uns 2.000 quilòmetres al sud-est d'Austràlia. Es tracta d'un conjunt d'illes que es troben al llarg del Pacífic Sud, amb una extensió una mica més gran que el Regne Unit."
   },
   {
     "country": "Nicaragua",
@@ -1369,7 +1369,7 @@
     "access2Electricity": 88.90737915,
     "lifeExpectancy": 74.697,
     "rentaPerCapita": 2090.753461,
-    "description": ""
+    "description": "La República de Nicaragua és un país de l'Amèrica Central que limita el nord-oest amb Hondures, al sud amb Costa Rica, a l'oest amb l'oceà Pacífic i a l'est amb el mar Carib."
   },
   {
     "country": "Niger",
@@ -1379,7 +1379,7 @@
     "access2Electricity": 19.25190926,
     "lifeExpectancy": 62.792,
     "rentaPerCapita": 594.9251089,
-    "description": ""
+    "description": "El Níger, oficialment la República del Níger és un estat de l'Àfrica occidental. Limita al sud amb Nigèria i Benín, a l'oest amb Burkina Faso i Mali, al nord amb Algèria i Líbia i a l'est amb el Txad. La seva capital és Niamey."
   },
   {
     "country": "Nigeria",
@@ -1389,7 +1389,7 @@
     "access2Electricity": 55.40000153,
     "lifeExpectancy": 55.018,
     "rentaPerCapita": 2085.030765,
-    "description": ""
+    "description": "La República Federal de Nigèria és un país de l'Àfrica occidental, banyat pel golf de Guinea. Limita al nord amb el Níger, a l'est amb el Txad i amb el Camerun, a l'oest amb Benín, i al sud amb el golf de Guinea, on es troba l'illa de Bioko. És el país més poblat de l'Àfrica, i el setè del món."
   },
   {
     "country": "North Macedonia",
@@ -1399,14 +1399,14 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.69317073,
     "rentaPerCapita": 6720.896285,
-    "description": ""
+    "description": "La República de Macedònia del Nord, o República del Nord de Macedònia, és un estat europeu de la península Balcànica envoltat per Grècia, Bulgària, Sèrbia, Kosovo i Albània. Afronta al nord amb Sèrbia, a l'est amb Bulgària, al sud amb Grècia i a l'oest amb Albània."
   },
   {
     "country": "Northern Mariana Islands",
     "population": 57910,
     "access2Electricity": 100,
     "rentaPerCapita": 20659.64029,
-    "description": ""
+    "description": "Les illes Mariannes Septentrionals o Mariannes del Nord són un territori insular d'Oceania lliurement associat als Estats Units. Situades al nord de la Micronèsia, al Pacífic nord-occidental, comprenen gairebé la totalitat de l'arxipèlag de les Mariannes excepte la més meridional, Guam, territori nord-americà."
   },
   {
     "country": "Norway",
@@ -1415,7 +1415,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 83.2097561,
     "rentaPerCapita": 89202.75054,
-    "description": ""
+    "description": "Noruega, oficialment el Regne de Noruega, és un estat sobirà situat a la meitat occidental de la península d'Escandinàvia, a l'Europa del Nord. Constituïda en monarquia constitucional, el seu territori està organitzat en dinou comtats o fylker, amb capital a Oslo."
   },
   {
     "country": "Oman",
@@ -1424,7 +1424,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.078,
     "rentaPerCapita": 16439.29645,
-    "description": ""
+    "description": "El Sultanat d'Oman és un estat d'Àsia situat a l'Orient Mitjà, a la punta sud-est de la península d'Aràbia."
   },
   {
     "country": "Pakistan",
@@ -1434,7 +1434,7 @@
     "access2Electricity": 75.37969208,
     "lifeExpectancy": 67.428,
     "rentaPerCapita": 1537.936411,
-    "description": ""
+    "description": "La República Islàmica del Pakistan o el Pakistan és un estat ubicat al centre-sud d'Àsia. Limita amb l'Índia, l'Iran, l'Afganistan, la Xina i la mar d'Aràbia. Té més de 160 milions d'habitants, la majoria dels quals són musulmans. L'islam hi és la religió oficial."
   },
   {
     "country": "Palau",
@@ -1444,7 +1444,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 69.12926829,
     "rentaPerCapita": 14243.86469,
-    "description": ""
+    "description": "Palau és un estat pluriinsular de Micronèsia, a l'oceà Pacífic, situat a uns 500 km a l'est de les Filipines. Està constituït per un arxipèlag de 26 illes i 300 illots."
   },
   {
     "country": "Panama",
@@ -1454,7 +1454,7 @@
     "access2Electricity": 96.70463562,
     "lifeExpectancy": 78.68,
     "rentaPerCapita": 14516.45805,
-    "description": ""
+    "description": "El Panamà, oficialment la República de Panamà, és l'estat més meridional de l'Amèrica Central, situat a l'istme homònim que connecta els subcontinents de Nord-amèrica i Sud-amèrica i per tant, sovint és categoritzat com a estat transcontinental."
   },
   {
     "country": "Papua New Guinea",
@@ -1464,7 +1464,7 @@
     "access2Electricity": 60.40000153,
     "lifeExpectancy": 64.725,
     "rentaPerCapita": 2916.357349,
-    "description": ""
+    "description": "Papua Nova Guinea és un estat d'Oceania que ocupa la meitat oriental de l'illa de Nova Guinea. Està situat al Pacífic sud-occidental, al nord d'Austràlia i a l'oest de Salomó. Està banyat pel mar de Bismarck al nord, el mar de Salomó a l'est i el mar del Corall al sud."
   },
   {
     "country": "Paraguay",
@@ -1474,7 +1474,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.363,
     "rentaPerCapita": 5400.103826,
-    "description": ""
+    "description": "La República del Paraguai és un país de l'Amèrica del Sud localitzat entre les latituds 19° 18′ i 27° 30′ sud i les longituds 54° 19' i 62° 38′ oest del meridià de Greenwich. És un dels dos països sud-americans, al costat de Bolívia, sense sortida a l'oceà."
   },
   {
     "country": "Peru",
@@ -1484,7 +1484,7 @@
     "access2Electricity": 99.31181335,
     "lifeExpectancy": 76.947,
     "rentaPerCapita": 6692.248375,
-    "description": ""
+    "description": "El Perú, oficialment la República del Perú, és un país de Sud-amèrica que confronta al nord amb l'Equador i Colòmbia, a l'est amb el Brasil, al sud-est amb Bolívia, al sud amb Xile i a l'oest amb l'oceà Pacífic."
   },
   {
     "country": "Philippines",
@@ -1494,7 +1494,7 @@
     "access2Electricity": 96.84238434,
     "lifeExpectancy": 71.36,
     "rentaPerCapita": 3548.828323,
-    "description": ""
+    "description": "La República de les Filipines és un estat insular que consisteix en un arxipèlag situat en el Sud-est Asiàtic, a l'oceà Pacífic. La seva capital és Manila."
   },
   {
     "country": "Poland",
@@ -1504,7 +1504,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 76.6,
     "rentaPerCapita": 17840.92105,
-    "description": ""
+    "description": "Polònia, oficialment República de Polònia, és un estat de l'Europa central. Limita amb Alemanya a l'oest, amb Txèquia i Eslovàquia al sud, amb Ucraïna, Bielorússia i Lituània a l'est, i amb el mar Bàltic i l'óblast de Kaliningrad, un exclavament rus, al nord."
   },
   {
     "country": "Portugal",
@@ -1514,7 +1514,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.97560976,
     "rentaPerCapita": 24262.18094,
-    "description": ""
+    "description": "Portugal, oficialment la República Portuguesa, és un estat europeu situat al sud-oest d'Europa, en la regió occidental de la península Ibèrica, i inclou arxipèlags de l'oceà Atlàntic nord. Té una àrea total de 92.391 km² i és el país més occidental del continent europeu."
   },
   {
     "country": "Puerto Rico",
@@ -1523,7 +1523,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.08746341,
     "rentaPerCapita": 31429.86612,
-    "description": ""
+    "description": "Puerto Rico és un estat insular de l'Amèrica Central lliurement associat als Estats Units d'Amèrica. L'illa de Puerto Rico, el nom arawak original de la qual era Borikén, és la més petita i la més oriental de les Grans Antilles i està situada entre l'oceà Atlàntic al nord i el mar Carib al sud."
   },
   {
     "country": "Qatar",
@@ -1532,7 +1532,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.363,
     "rentaPerCapita": 61275.99827,
-    "description": ""
+    "description": "Qatar, oficialment l'Estat de Qatar, és un estat de l'Orient Mitjà, que ocupa la petita península de Qatar a la costa nord-est de la península Aràbiga."
   },
   {
     "country": "Romania",
@@ -1542,17 +1542,17 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.35365854,
     "rentaPerCapita": 14861.90917,
-    "description": ""
+    "description": "Romania és un estat del sud-est de l'Europa central. Fa frontera amb Ucraïna al nord i al nord-est, amb la República de Moldàvia a l'est, amb Bulgària al sud, amb Sèrbia al sud-oest i amb Hongria a l'oest. A llevant, és banyat per la mar Negra."
   },
   {
-    "country": "Russian Federation",
+    "country": "Russia",
     "population": 143446060,
     "percPoverty": 12.1,
     "literacyRate15Above": 99.73005676,
     "access2Electricity": 100,
     "lifeExpectancy": 71.33878049,
     "rentaPerCapita": 12172.78516,
-    "description": ""
+    "description": "Rússia coneguda formalment com la Federació de Rússia, i també citada de vegades com la Federació Russa, és un vast país que s'estén sobre Europa de l'Est i Àsia del Nord. És el país més extens del món, amb una superfície de 17.125.191 km², equivalent a una mica més de la novena part de la terra ferma del planeta, i posseeix una gran varietat de relleu i d'ecosistemes. La seva cabdal és la ciutat federal de Moscou."
   },
   {
     "country": "Rwanda",
@@ -1562,7 +1562,7 @@
     "access2Electricity": 46.59999847,
     "lifeExpectancy": 69.329,
     "rentaPerCapita": 833.8298757,
-    "description": ""
+    "description": "Ruanda és un país de l'Àfrica central sense sortida al mar, o estat sense litoral. Limita al nord amb Uganda, al sud amb Burundi, a l'est amb Tanzània i a l'oest amb la República Democràtica del Congo."
   },
   {
     "country": "Samoa",
@@ -1572,14 +1572,14 @@
     "access2Electricity": 100,
     "lifeExpectancy": 73.45,
     "rentaPerCapita": 3939.113696,
-    "description": ""
+    "description": "Samoa és un estat de la Polinèsia que comprèn 4 illes habitades i 6 illots, situat a la part de ponent de l'arxipèlag de Samoa, a l'oceà Pacífic. La seva capital és Apia, a l’illa d’Upolu. La part oriental de l'arxipèlag és un territori dels Estats Units."
   },
   {
     "country": "San Marino",
     "population": 34010,
     "access2Electricity": 100,
     "rentaPerCapita": 45515.7577,
-    "description": ""
+    "description": "La República de San Marino és la república més petita i antiga d'Europa i un dels estats més petits del món. Està completament envoltada per la República Italiana. La ciutat de San Marino és la capital judicial i administrativa d'aquest petit estat independent, situat al nord-est de la península Itàlica."
   },
   {
     "country": "Sao Tome and Principe",
@@ -1589,7 +1589,7 @@
     "access2Electricity": 76.55908966,
     "lifeExpectancy": 70.583,
     "rentaPerCapita": 2449.333442,
-    "description": ""
+    "description": "São Tomé i Príncipe és un estat insular localitzat al golf de Guinea. Està format per dues illes principals i alguns illots, amb una extensió total de 964 km² i prop de 165.000 habitants."
   },
   {
     "country": "Saudi Arabia",
@@ -1598,7 +1598,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.28,
     "rentaPerCapita": 23585.88563,
-    "description": ""
+    "description": "L'Aràbia Saudita o l'Aràbia Saudí és un regne del sud-oest d'Àsia que ocupa la major part de la península d'Aràbia i limita amb Jordània, l'Iraq i Kuwait al nord, amb el golf Pèrsic, Qatar i els Emirats Àrabs Units a l'est, amb Oman al sud-est, amb el Iemen al sud i amb la mar Roja a l'oest. La seva capital és Riad."
   },
   {
     "country": "Senegal",
@@ -1608,7 +1608,7 @@
     "access2Electricity": 70.36894226,
     "lifeExpectancy": 68.213,
     "rentaPerCapita": 1606.472061,
-    "description": ""
+    "description": "La República del Senegal és un estat al sud del riu Senegal, a l'Àfrica occidental. El Senegal limita a l'oest amb l'oceà Atlàntic, amb Mauritània al nord, amb Mali a l'est i amb la República de Guinea i Guinea Bissau al sud."
   },
   {
     "country": "Serbia",
@@ -1618,7 +1618,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.22926829,
     "rentaPerCapita": 9214.993546,
-    "description": ""
+    "description": "Sèrbia és un país situat al sud-est d'Europa a la zona dels Balcans. Limita al nord amb Hongria, a l'est amb Romania i Bulgària, al sud amb Macedònia del Nord i Albània, i a l'oest amb Montenegro, Croàcia i Bòsnia i Hercegovina."
   },
   {
     "country": "Seychelles",
@@ -1628,7 +1628,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.23658537,
     "rentaPerCapita": 13306.7256,
-    "description": ""
+    "description": "Seychelles; francès: or, oficialment la República de Seychelles, és un país insular arxipelàgic de l' oceà Índic a l'extrem oriental del mar de Somàlia. Consta de 115 illes. La seva capital i ciutat més gran, Victoria, té 1,500 quilometres est de l'Àfrica continental."
   },
   {
     "country": "Sierra Leone",
@@ -1638,7 +1638,7 @@
     "access2Electricity": 26.20088577,
     "lifeExpectancy": 55.066,
     "rentaPerCapita": 515.9320918,
-    "description": ""
+    "description": "Sierra Leone o Serra Lleona, oficialment República de Sierra Leone, és un estat de l'Àfrica Occidental. Limita amb Guinea al nord, Libèria al sud-est i l'oceà Atlàntic al sud-oest. Sierra Leone té una extensió total de 71,740 km² i una població estimada en 6.296.803 habitants."
   },
   {
     "country": "Singapore",
@@ -1647,24 +1647,24 @@
     "access2Electricity": 100,
     "lifeExpectancy": 83.74390244,
     "rentaPerCapita": 72794.00302,
-    "description": ""
+    "description": "Singapur és un país insular del sud-est asiàtic que engloba 64 illes i illots al capdavall de la península de Malacca."
   },
   {
-    "country": "Sint Maarten (Dutch part)",
+    "country": "Sint Maarten",
     "population": 42846,
     "access2Electricity": 100,
     "lifeExpectancy": 78.29268293,
     "rentaPerCapita": 28988.25921,
-    "description": ""
+    "description": "Sint Maarten és un país constituent del Regne dels Països Baixos que ocupa la meitat meridional de l'illa de Sant Martí, al Carib. L'altra meitat, Saint-Martin, és una col·lectivitat d'ultramar francesa. Formava part de les Antilles Neerlandeses fins a la seva dissolució, el 10 d'octubre del 2010."
   },
   {
-    "country": "Slovak Republic",
+    "country": "Slovakia",
     "population": 5447247,
     "percPoverty": 11.4,
     "access2Electricity": 100,
     "lifeExpectancy": 76.86585366,
     "rentaPerCapita": 21087.8461,
-    "description": ""
+    "description": "Eslovàquia, oficialment la República Eslovaca, és una república de l'Europa central, sense accés al mar. Té una població de més de 5 milions d'habitants i una àrea d'aproximadament 49.000 km². Limita al nord amb Polònia, a l'est amb Ucraïna, al sud amb Hongria, i a l'oest amb Àustria i Txèquia."
   },
   {
     "country": "Slovenia",
@@ -1674,7 +1674,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.53170732,
     "rentaPerCapita": 29200.81988,
-    "description": ""
+    "description": "La República d'Eslovènia és un país de l'Europa central i des de 2004 un estat membre de la Unió Europea. Limita amb Itàlia a l'oest, amb el mar Adriàtic al sud-oest, amb Croàcia al sud i a l'est, amb Hongria al nord-est i amb Àustria al nord. Té una població de 2.009.000 habitants."
   },
   {
     "country": "Solomon Islands",
@@ -1684,7 +1684,7 @@
     "access2Electricity": 73.34648132,
     "lifeExpectancy": 73.132,
     "rentaPerCapita": 2336.968134,
-    "description": ""
+    "description": "Salomó és un estat insular d'Oceania, situat al Pacífic Sud, a l'est de Papua Nova Guinea, que ocupa la major part de l'arxipèlag homònim; és part del Commonwealth i té la reina d'Anglaterra com a cap d'estat. Té 28.450 km² d'extensió i una població de 470.000 habitants. La capital n'és Honiara."
   },
   {
     "country": "Somalia",
@@ -1693,7 +1693,7 @@
     "access2Electricity": 49.73086929,
     "lifeExpectancy": 57.697,
     "rentaPerCapita": 445.7790165,
-    "description": ""
+    "description": "Somàlia, oficialment República Federal de Somàlia, abans coneguda com a República Somali Democràtica, és un Estat de l'est d'Àfrica amb costa al golf d'Aden i a l'oceà Índic. Limita amb Djibouti al nord, amb Etiòpia a l'oest i amb Kenya al sud-oest."
   },
   {
     "country": "South Africa",
@@ -1703,17 +1703,17 @@
     "access2Electricity": 84.38553619,
     "lifeExpectancy": 64.379,
     "rentaPerCapita": 6994.211654,
-    "description": ""
+    "description": "La República de Sud-àfrica és un Estat localitzat a l'extrem meridional de l'Àfrica. Limita amb els oceans Atlàntic i Índic, Namíbia, Botswana, Zimbàbue, Moçambic, Eswatini i Lesotho, un enclavament independent envoltat pel territori sud-africà. Sud-àfrica és membre del Commonwealth de Nacions."
   },
   {
-    "country": "South Sudan",
+    "country": "Sudan South",
     "population": 11381377,
     "percPoverty": 82.3,
     "literacyRate15Above": 34.52275848,
     "access2Electricity": 7.241338253,
     "lifeExpectancy": 58.095,
     "rentaPerCapita": 1119.651437,
-    "description": ""
+    "description": "El Sudan del Sud, oficialment la República del Sudan del Sud, és un estat sobirà situat al centre del continent africà, independent del Sudan des del 9 de juliol de 2011."
   },
   {
     "country": "Spain",
@@ -1723,7 +1723,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.33414634,
     "rentaPerCapita": 30115.70589,
-    "description": ""
+    "description": "Espanya o el Regne d'Espanya és un estat del sud-oest d'Europa, que ocupa la major part de la península Ibèrica, la qual comparteix amb Andorra, França, Gibraltar i Portugal. Amb una superfície de 504.030 km², Espanya és el segon estat més extens de l'Europa occidental i el sisè més poblat del continent europeu."
   },
   {
     "country": "Sri Lanka",
@@ -1733,51 +1733,51 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.144,
     "rentaPerCapita": 3814.715219,
-    "description": ""
+    "description": "Sri Lanka és un estat asiàtic de tradició mil·lenària famós per ser un puntal de saviesa en l'antiguitat i per ser avui un dels països més densament poblats. Abans del 1972 era conegut amb el nom de Ceilan. És un país insular situat al sud-est de l'Índia i banyat per les aigües de l'oceà Índic."
   },
   {
-    "country": "St. Kitts and Nevis",
+    "country": "Saint Kitts and Nevis",
     "population": 53546,
     "access2Electricity": 100,
     "lifeExpectancy": 71.33658537,
     "rentaPerCapita": 18230.13235,
-    "description": ""
+    "description": "Saint Christopher i Nevis és un estat insular del Carib a les illes de Sotavent, constituït per les illes de Saint Kitts i Nevis."
   },
   {
-    "country": "St. Lucia",
+    "country": "Saint Lucia",
     "population": 184401,
     "percPoverty": 25,
     "access2Electricity": 100,
     "lifeExpectancy": 76.343,
     "rentaPerCapita": 9570.995457,
-    "description": ""
+    "description": "Saint Lucia és un estat insular que forma part de les petites Antilles. Està situat a la banda est del mar Carib, al límit amb l'oceà Atlàntic —entre Saint Vincent i les Grenadines, al sud; i Martinica, al nord."
   },
   {
-    "country": "St. Martin (French part)",
+    "country": "Saint Martin",
     "population": 39239,
     "access2Electricity": 100,
     "lifeExpectancy": 80.12195122,
     "rentaPerCapita": 21459.31913,
-    "description": ""
+    "description": "Sant Martí és una illa tropical de les Petites Antilles situada al Carib nord-oriental, entre les illes d'Anguilla al nord, Saint-Barthélemy al sud-est i Saba i Sint Eustatius al sud. L'illa, de 87 km², està dividida en dues meitats entre França i el Regne dels Països Baixos."
   },
   {
-    "country": "St. Vincent and the Grenadines",
+    "country": "Saint Vincent and the Grenadines",
     "population": 111269,
     "literacyRate15Above": 95.63215637,
     "access2Electricity": 100,
     "lifeExpectancy": 72.658,
     "rentaPerCapita": 7996.614002,
-    "description": ""
+    "description": "Saint Vincent i les Grenadines o Sant Vicenç i les Granadines un país del Carib, a Amèrica, constituït per l'illa de Saint Vincent i per la meitat nord de la serralada de les Grenadines. Té límits marítims amb Saint Lucia, al nord-est, i amb Grenada, a sud-oest, i és un dels països més propers a Barbados."
   },
   {
-    "country": "Sudan",
+    "country": "Sudan North",
     "population": 44909351,
     "percPoverty": 46.5,
     "literacyRate15Above": 60.6971817,
     "access2Electricity": 55.38970184,
     "lifeExpectancy": 65.53,
     "rentaPerCapita": 764.3410034,
-    "description": ""
+    "description": "El Sudan, oficialment República del Sudan és un estat sobirà de la part nord-oriental de l'Àfrica. Limita amb Egipte al nord, amb la mar Roja al nord-est, amb Eritrea i Etiòpia a l'est, amb Sudan del Sud al sud, amb la República Centreafricana al sud-oest, amb el Txad a l'oest i amb Líbia al nord-oest."
   },
   {
     "country": "Suriname",
@@ -1786,7 +1786,7 @@
     "access2Electricity": 98.20477295,
     "lifeExpectancy": 71.802,
     "rentaPerCapita": 4836.332633,
-    "description": ""
+    "description": "El Surinam, oficialment la República del Surinam, és un estat del nord-est de l'Amèrica del Sud situat entre la Guaiana i la Guaiana Francesa, amb l'oceà Atlàntic al nord i el Brasil al sud."
   },
   {
     "country": "Sweden",
@@ -1795,7 +1795,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 82.40731707,
     "rentaPerCapita": 60238.98656,
-    "description": ""
+    "description": "Suècia, oficialment el Regne de Suècia, és un país nòrdic de la península escandinava a l'Europa septentrional. Suècia té fronteres terrestres amb Noruega a l'oest i amb Finlàndia al nord-est, i està connectat amb Dinamarca pel Pont d'Öresund al sud."
   },
   {
     "country": "Switzerland",
@@ -1804,17 +1804,17 @@
     "access2Electricity": 100,
     "lifeExpectancy": 83.1,
     "rentaPerCapita": 93457.4404,
-    "description": ""
+    "description": "Suïssa, oficialment la Confederació Suïssa en llatí Confœderatio Helvetica, és un Estat alpí sense accés al mar localitzat a Europa central, i amb una superfície de 41.285 km². Suïssa és una república federal integrada per 26 cantons."
   },
   {
-    "country": "Syrian Arab Republic",
+    "country": "Syria",
     "population": 18275704,
     "percPoverty": 35.2,
     "literacyRate15Above": 80.84452057,
     "access2Electricity": 89.14031982,
     "lifeExpectancy": 73.651,
     "rentaPerCapita": 1265.60619,
-    "description": ""
+    "description": "La República Àrab Siriana o Síria és un estat de l'Orient Mitjà situat al sud de Turquia, a l'oest de l'Iraq i al nord de Jordània, Israel i el Líban. Té, a més, una façana marítima banyada pel Mediterrani a ponent. Síria té una població de 19 milions d'habitants, la majoria dels quals parlen l'àrab."
   },
   {
     "country": "Tajikistan",
@@ -1824,7 +1824,7 @@
     "access2Electricity": 99.77929688,
     "lifeExpectancy": 71.301,
     "rentaPerCapita": 897.087902,
-    "description": ""
+    "description": "El Tadjikistan, oficialment República del Tadjikistan, és un estat de l'Àsia central. Limita al nord amb el Kirguizistan, a l'est amb la República Popular de la Xina, al sud amb l'Afganistan i a l'oest i el nord amb l'Uzbekistan. Té 143100 km² i una població estimada de 9.537.645 persones."
   },
   {
     "country": "Tanzania",
@@ -1834,7 +1834,7 @@
     "access2Electricity": 39.90000153,
     "lifeExpectancy": 65.815,
     "rentaPerCapita": 1135.539673,
-    "description": ""
+    "description": "Tanzània és un país situat a l'Àfrica Oriental. Limita al nord amb Kenya i Uganda, a l'oest amb Ruanda, Burundi, la República Democràtica del Congo, al sud amb Zàmbia, Malawi i Moçambic i a l'est amb l'Oceà Índic. El país té una superfície de 945.087 km² i la població supera els 35 milions d'habitants."
   },
   {
     "country": "Thailand",
@@ -1844,7 +1844,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.344,
     "rentaPerCapita": 7233.388858,
-    "description": ""
+    "description": "Tailàndia, formalment Regne de Tailàndia, és un estat del sud-est asiàtic que limita a l'est amb Laos, al sud-est amb Cambodja, al sud amb el Golf de Siam i Malàisia, i a l'oest amb el mar d'Andaman i Birmània. És un dels quaranta-nou països que componen el continent asiàtic."
   },
   {
     "country": "Timor-Leste",
@@ -1854,7 +1854,7 @@
     "access2Electricity": 96.1233139,
     "lifeExpectancy": 69.712,
     "rentaPerCapita": 1457.825128,
-    "description": ""
+    "description": "Timor Oriental és un estat d'Àsia, que comprèn la meitat oriental de l'illa de Timor, l'enclavament d'Oecusse a la part occidental de la mateixa illa i Atauro i Jaco, dues illes properes. Els cims més alts són el Ramelau i l'Aitana. La capital és Dili."
   },
   {
     "country": "Togo",
@@ -1864,7 +1864,7 @@
     "access2Electricity": 53.99743271,
     "lifeExpectancy": 61.34,
     "rentaPerCapita": 992.3284294,
-    "description": ""
+    "description": "El Togo, oficialment República Togolesa, és un país de l'Àfrica Occidental, que limita amb Ghana a l'oest, Benín a l'est, Burkina Faso al nord i el golf de Guinea al sud. La capital n'és Lomé."
   },
   {
     "country": "Tonga",
@@ -1874,7 +1874,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 71.018,
     "rentaPerCapita": 4624.823449,
-    "description": ""
+    "description": "El Regne de Tonga és un estat de Polinèsia, a l'oceà Pacífic, situat uns 700 km al sud-est de Fiji i 2.000 al nord-est de Nova Zelanda. Comprèn més de 170 illes i illots, repartits en tres arxipèlags principals."
   },
   {
     "country": "Trinidad and Tobago",
@@ -1883,7 +1883,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 73.628,
     "rentaPerCapita": 15243.12287,
-    "description": ""
+    "description": "Trinitat i Tobago és una república que s'assenta sobre un arxipèlag situat al sud del Carib, davant la costa oriental de Veneçuela i al sud de Grenada. També fa frontera marítima amb Barbados, al nord-est, i amb Guyana, al sud-est."
   },
   {
     "country": "Tunisia",
@@ -1893,17 +1893,17 @@
     "access2Electricity": 100,
     "lifeExpectancy": 76.891,
     "rentaPerCapita": 3924.343925,
-    "description": ""
+    "description": "Tunísia o República de Tunísia és un estat musulmà del nord d'Àfrica que fa frontera amb Algèria a l'oest i amb Líbia al sud-est, mentre que el mar Mediterrani banya les seves costes, al nord i a l'est del país. És el país més petit situat prop de la serralada muntanyosa de l'Atles."
   },
   {
-    "country": "Turkiye",
+    "country": "Turkey",
     "population": 85042736,
     "percPoverty": 15,
     "literacyRate15Above": 96.74221039,
     "access2Electricity": 100,
     "lifeExpectancy": 77.928,
     "rentaPerCapita": 9586.61245,
-    "description": ""
+    "description": "Turquia, oficialment la República de Turquia, és un estat eurasiàtic que ocupa la península d'Anatòlia al sud-oest d'Àsia, així com Tràcia als Balcans, regió del sud-est d'Europa."
   },
   {
     "country": "Turkmenistan",
@@ -1912,7 +1912,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 68.313,
     "rentaPerCapita": 7612.03518,
-    "description": ""
+    "description": "El Turkmenistan, oficialment la República de Turkmenistan, és un estat de l'Àsia central que limita al nord amb el Kazakhstan i l'Uzbekistan, al sud-est amb l'Afganistan, al sud amb l'Iran i a l'oest amb la mar Càspia."
   },
   {
     "country": "Turks and Caicos Islands",
