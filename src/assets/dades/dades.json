@@ -1919,7 +1919,7 @@
     "population": 39226,
     "access2Electricity": 99.40000153,
     "rentaPerCapita": 24047.05471,
-    "description": ""
+    "description": "Les illes Turks i Caicos són al Carib i tenen la consideració de territori britànic d'ultramar. El comitè de descolonització de les Nacions Unides les inclou en la llista de territoris no autònoms. La majoria de la població de Turks i Caicos són afroamericans."
   },
   {
     "country": "Tuvalu",
@@ -1927,7 +1927,7 @@
     "percPoverty": 26.3,
     "access2Electricity": 99.68923187,
     "rentaPerCapita": 5291.485244,
-    "description": ""
+    "description": "Tuvalu és un estat insular de la Polinèsia, situat per sota l'equador, al sud de Kiribati, al nord de Fiji i Wallis i Futuna i a l'est de Salomó. Després del Vaticà és l'estat menys poblat del món, si bé la seva petita superfície fa que tingui un gran densitat de població."
   },
   {
     "country": "Uganda",
@@ -1937,7 +1937,7 @@
     "access2Electricity": 42.07441711,
     "lifeExpectancy": 63.713,
     "rentaPerCapita": 858.0575127,
-    "description": ""
+    "description": "La República d'Uganda és un país del centre d'Àfrica. Limita a l'est amb Kenya, al nord amb el Sudan del Sud, a l'oest amb la República Democràtica del Congo, al sud-oest amb Ruanda i al sud amb Tanzània. Al sud i a l'est del país es troba el Llac Victòria, que comparteix amb Kenya i Tanzània."
   },
   {
     "country": "Ukraine",
@@ -1947,7 +1947,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 71.18512195,
     "rentaPerCapita": 4835.571777,
-    "description": ""
+    "description": "Ucraïna és un estat de l'Europa de l'Est. Afronta amb Bielorússia al nord, amb Rússia al nord-est i a l'est, amb la mar d'Azov i la mar Negra al sud, amb Romania i Moldàvia al sud-oest, i amb Hongria, Eslovàquia i Polònia a l'oest."
   },
   {
     "country": "United Arab Emirates",
@@ -1956,7 +1956,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.12,
     "rentaPerCapita": 36284.55524,
-    "description": ""
+    "description": "Els Emirats Àrabs Units són una federació de monarquies situada al sud-est de la península d'Aràbia, a l'Àsia sud-occidental. Limita amb el golf Pèrsic al nord, amb el golf d'Oman al nord-est, amb Oman al nord-est i a l'est, i amb l'Aràbia Saudita al sud i a l'oest. La capital és Abu Dhabi."
   },
   {
     "country": "United Kingdom",
@@ -1965,7 +1965,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 80.90243902,
     "rentaPerCapita": 47334.35531,
-    "description": ""
+    "description": "El Regne Unit oficialment, el Regne Unit de Gran Bretanya i Irlanda del Nord és un estat insular sobirà localitzat al nord-oest d'Europa. El Regne Unit està integrat, geogràficament, per l'illa de Gran Bretanya, una secció del nord de l'illa d'Irlanda i altres illes més petites."
   },
   {
     "country": "United States",
@@ -1974,7 +1974,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 77.2804878,
     "rentaPerCapita": 69287.53659,
-    "description": ""
+    "description": "Els Estats Units d'Amèrica són una república federal i constitucional integrada per 50 estats i un districte federal."
   },
   {
     "country": "Uruguay",
@@ -1984,7 +1984,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 78.056,
     "rentaPerCapita": 17020.64864,
-    "description": ""
+    "description": "L'Uruguai, oficialment la República Oriental de l'Uruguai, és un estat sobirà d'Amèrica del Sud situat entre el Brasil i l'Argentina. Limita al sud-est amb l'oceà Atlàntic, al nord-est amb l'estat brasiler de Rio Grande do Sul, al nord-oest amb la província argentina d'Entre Ríos i a l'oest amb el Riu de la Plata."
   },
   {
     "country": "Uzbekistan",
@@ -1994,7 +1994,7 @@
     "access2Electricity": 100,
     "lifeExpectancy": 71.848,
     "rentaPerCapita": 1983.064723,
-    "description": ""
+    "description": "La República de l'Uzbekistan o simplement l’Uzbekistan és un estat de l'Àsia central. Limita al nord amb el Kazakhstan, al nord-oest amb la mar d'Aral, a l'est amb el Kirguizistan i el Tadjikistan i al sud, en un curt tram de frontera, amb l'Afganistan, i amb el Turkmenistan."
   },
   {
     "country": "Vanuatu",
@@ -2004,17 +2004,17 @@
     "access2Electricity": 67.33326721,
     "lifeExpectancy": 70.623,
     "rentaPerCapita": 3127.446248,
-    "description": ""
+    "description": "Vanuatu, oficialment la República de Vanuatu, és un estat insular de l'Oceà Pacífic Sud. L'arxipèlag que el constitueix està situat a uns 1.750 km a l'est d'Austràlia, al nord-est de Nova Caledònia, a l'oest de Fiji i al sud de Salomó. Els primers habitants de Vanuatu van ser melanesians."
   },
   {
-    "country": "Venezuela, RB",
+    "country": "Venezuela",
     "population": 28704947,
     "percPoverty": 33.1,
     "literacyRate15Above": 97.12709045,
     "access2Electricity": 100,
     "lifeExpectancy": 72.066,
     "rentaPerCapita": 16055.64532,
-    "description": ""
+    "description": "Veneçuela, oficialment la República Bolivariana de Veneçuela, és un estat situat a la costa nord de Sud-amèrica. El territori veneçolà inclou, a més, diverses illes localitzades al mar Carib. Veneçuela limita amb la Guyana a l'est, el Brasil al sud, i Colòmbia a l'oest."
   },
   {
     "country": "Vietnam",
@@ -2024,15 +2024,15 @@
     "access2Electricity": 100,
     "lifeExpectancy": 75.493,
     "rentaPerCapita": 3694.019046,
-    "description": ""
+    "description": "El Vietnam, és un país del sud-est asiàtic, a Indoxina. La seva capital és Hanoi. Té frontera amb la Xina, Laos, Cambodja i el Golf de Tonquín."
   },
   {
-    "country": "Virgin Islands (U.S.)",
+    "country": "Virgin Islands",
     "population": 105870,
     "access2Electricity": 100,
     "lifeExpectancy": 79.8195122,
     "rentaPerCapita": 39552.1686,
-    "description": ""
+    "description": "Les Illes Verges Nord-americanes, o Illes Verges Americanes, són un grup d'illes del Carib que constitueixen una dependència dels Estats Units. Geogràficament, formen part de les illes Verges."
   },
   {
     "country": "West Bank and Gaza",
@@ -2042,17 +2042,17 @@
     "access2Electricity": 100,
     "lifeExpectancy": 74.213,
     "rentaPerCapita": 3663.969055,
-    "description": ""
+    "description": "Els territoris palestins, també anomenats per metonímia Palestina, són una entitat preestatal situada a l'Orient Mitjà, entre la mar Mediterrània i el riu Jordà. No formen un estat amb sobirania plena i s'utilitza per descriure els territoris ocupats per Israel des del 1967, és a dir, Cisjordània i la Franja de Gaza."
   },
   {
-    "country": "Yemen, Rep.",
+    "country": "Yemen",
     "population": 30490639,
     "percPoverty": 48.6,
     "literacyRate15Above": 54.09999847,
     "access2Electricity": 73.75792694,
     "lifeExpectancy": 66.181,
     "rentaPerCapita": 690.759273,
-    "description": ""
+    "description": "El Iemen o República del Iemen és una república de la península d'Aràbia al sud-oest d'Àsia, i forma part de l'Orient Mitjà. Limita al nord amb l'Aràbia Saudita, a l'est amb Oman, al sud amb el golf d'Aden i a l'oest amb el mar Roig."
   },
   {
     "country": "Zambia",
@@ -2062,7 +2062,7 @@
     "access2Electricity": 44.5244751,
     "lifeExpectancy": 64.194,
     "rentaPerCapita": 1120.630171,
-    "description": ""
+    "description": "Zàmbia és un estat de l'Àfrica Austral que limita amb la República Democràtica del Congo al nord, Tanzània al nord-est, Malawi i Moçambic a l'est, Zimbàbue, Botswana i Namíbia al sud i Angola a l'oest. És un país sense sortida al mar situat al centre-sud del continent africà."
   },
   {
     "country": "Zimbabwe",
@@ -2072,6 +2072,6 @@
     "access2Electricity": 52.74766922,
     "lifeExpectancy": 61.738,
     "rentaPerCapita": 1737.173977,
-    "description": ""
+    "description": "Zimbàbue és un estat del sud de l'Àfrica envoltat per Zàmbia, Moçambic, la República de Sud-àfrica i Botswana. Es troba entre el riu Zambeze, les cascades Victòria i el riu Limpopo. És un estat sense sortida al mar i els seus territoris es corresponen amb l'antiga Rhodèsia del Sud. L'idioma oficial és l'anglès."
   }
 ]
