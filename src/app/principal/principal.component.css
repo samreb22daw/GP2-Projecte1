@@ -16,19 +16,20 @@
         color: white;
         position: absolute;
         text-align: center;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        font-family: sans-serif;
+        top: 45%;
+        left: 45%;
+        transform: translate(-45%, -45%);
+        font-family: Helvetica;
     }
 
     .texto-banner > h1 {
         font-size: 70px;
         margin-bottom: 35px;
+        font-weight: 430;
     }
 
     .texto-banner > p {
-        font-size: 16px;
+        font-size: 15px;
     }
 
 /* Estilo para el div para centrar los títulos y la info de la web */
@@ -44,6 +45,7 @@
         font-size: 32px;
         margin-bottom: 20px;
         color: #1465BB;
+        font-weight: 400;
     }
 
     .contenido p {
@@ -63,7 +65,7 @@
     /* Div para ajustar el tamaño donde van las imágenes de la página principal */
     .flex-index .flex-images {
         width: 48%;
-        height: 400px;
+        height: 360px;
         margin-bottom: 40px;
         /* Lo hago relativo para después posicionar encima el overlay */
         position: relative;
