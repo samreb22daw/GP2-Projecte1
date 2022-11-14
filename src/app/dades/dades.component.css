@@ -1,0 +1,149 @@
+table {
+    margin: auto;
+    margin-top: 10px;
+    width: 70%;
+}
+
+ng-container {
+    border-radius: 10px;
+}
+
+.buscador {
+    margin-top: 2%;
+    left: 15%;
+    color: white;
+}
+
+.buscador input::placeholder {
+    color: white;
+}
+
+.buscador mat-label {
+    color: rgb(216, 216, 216);
+}
+
+::ng-deep.mat-form-field-underline {
+    background-color: rgb(168, 168, 168) !important;
+}
+
+::ng-deep.mat-form-field-ripple {
+    background-color: white!important;
+}
+
+tr.example-detail-row {
+    height: 0;
+}
+
+tr.example-element-row:not(.example-expanded-row):hover {
+    background: whitesmoke;
+}
+
+tr.example-element-row:not(.example-expanded-row):active {
+    background: #efefef;
+}
+
+
+/* ---- Posicionament files i columnes  ---- */
+
+
+.PercentatgePobresa {
+    padding-left: 3rem;
+}
+
+.celdaPercentatgePobresa {
+    padding-left: 5rem;
+}
+
+.Poblacio {
+    padding-left: 3rem;
+}
+
+ .celdaPoblacio {
+    padding-left: 3rem;
+}
+
+.celdaMenys10 {
+    padding-left: 2rem;
+}
+
+.celdaAlfabetitzacio {
+    padding-left: 3rem;
+}
+
+.celdaAny {
+    padding-left: 0.4rem;
+}
+
+.celdaElectricitat {
+    padding-left: 2rem;
+}
+
+.celdaEsperanca {
+    padding-left: 2.2rem;
+}
+
+.celdaRenta {
+    padding-left: 4rem;
+}
+
+/* ---------------------------------- */
+
+.example-element-row td {
+    border-bottom-width: 0;
+}
+
+.example-element-detail {
+    overflow: hidden;
+    display: flex;
+    height: 170px;
+}
+
+.example-element-diagram {
+    min-width: 80px;
+    padding: 8px;
+    font-weight: lighter;
+    margin: 8px 0;
+    height: 104px;
+}
+
+.example-element-diagram img {
+    width: 200px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+
+.example-element-symbol {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: normal;
+}
+
+.example-element-description {
+    padding: 20px 40px 0px 140px;
+}
+
+.example-element-description-attribution {
+    opacity: 0.5;
+}
+
+
+mat-paginator {
+    width: 70%;
+    margin: auto;
+}
+
+mat-option>* {
+    display: none;
+}
+
+.mat-option-text::after {
+    content: 'Tot';
+}
+
+.bg {
+    background-image: linear-gradient(rgba(4, 9, 30, 0.45), rgba(4, 9, 30, 0.45)), url('../../assets/africa.jpg');
+    background-position: fixed;
+    background-size: cover;
+
+}

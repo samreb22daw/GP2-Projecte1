@@ -1,15 +1,73 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
+import { AfterViewInit, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
+import dades from '../../assets/dades/dades.json';
+import { animate, state, style, transition, trigger } from '@angular/animations';
+import { MatTableDataSource } from '@angular/material/table';
+import { MatSort, Sort } from '@angular/material/sort';
+import { LiveAnnouncer } from '@angular/cdk/a11y';
+
+/**
+ * @title Table with expandable rows
+*/
 
 @Component({
-  selector: 'app-dades',
-  templateUrl: './dades.component.html',
-  styleUrls: ['./dades.component.css']
+  selector: 'dades-component',
+  styleUrls: ['dades.component.css'],
+  templateUrl: 'dades.component.html',
+  animations: [
+    trigger('detailExpand', [
+      state('collapsed', style({ height: '0px', minHeight: '0' })),
+      state('expanded', style({ height: '*' })),
+      transition('expanded <=> collapsed', animate('225ms cubic-bezier(0.4, 0.0, 0.2, 1)')),
+    ]),
+  ],
 })
-export class DadesComponent implements OnInit {
 
-  constructor() { }
+export class TaulaDades {
+  dataSource = new MatTableDataSource<dades>(ELEMENT_DATA);
+  columnsToDisplay = ['country', 'population', 'percPoverty', 'literacyRate15Above', 'access2Electricity', 'lifeExpectancy', 'rentaPerCapita'];
+  columnsToDisplayWithExpand = [...this.columnsToDisplay, 'expand'];
+  expandedElement: dades | any;
 
-  ngOnInit(): void {
+  constructor(private _liveAnnouncer: LiveAnnouncer) {}
+  @ViewChild(MatPaginator) paginator: MatPaginator;
+  @ViewChild(MatSort) sort: MatSort;
+
+  ngAfterViewInit() {
+    this.dataSource.paginator = this.paginator;
+    this.dataSource.sort = this.sort;
+  }
+  
+  announceSortChange(sortState: Sort) {
+    // This example uses English messages. If your application supports
+    // multiple language, you would internationalize these strings.
+    // Furthermore, you can customize the message to add additional
+    // details about the values being sorted.
+    if (sortState.direction) {
+      this._liveAnnouncer.announce(`Sorted ${sortState.direction}ending`);
+    } else {
+      this._liveAnnouncer.announce('Sorting cleared');
+    }
+  }
+
+  filtrar(event: Event) {
+    const filtro = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filtro.trim().toLowerCase();
   }
 
 }
+/** Announce the change in sort state for assistive technology. */
+
+interface dades {
+  country?: string;
+  population?: number;
+  percPoverty?: number;
+  literacyRate15Above?: number;
+  access2Electricity?: number;
+  lifeExpectancy?:number;
+  rentaPerCapita?:number;
+  description?: string;
+}
+
+const ELEMENT_DATA: dades[] = dades;
