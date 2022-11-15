@@ -46,10 +46,15 @@ tr.example-element-row:not(.example-expanded-row):active {
 /* ---- Posicionament files i columnes  ---- */
 
 
-.PercentatgePobresa {
-    padding-left: 3rem;
-}
+ /* .PercentatgePobresa, .celdaPercentatgePobresa{
+    padding-left: 3.5rem;
+} */
 
+/*
+
+.celdaPercentatgePobresa, .celdaMenys10, celdaAlfabetitzacio, .celdaAny, .celdaElectricitat, .celdaEsperanca, .celdaRenta {
+
+/
 .celdaPercentatgePobresa {
     padding-left: 5rem;
 }
@@ -84,7 +89,7 @@ tr.example-element-row:not(.example-expanded-row):active {
 
 .celdaRenta {
     padding-left: 4rem;
-}
+} */
 
 /* ---------------------------------- */
 

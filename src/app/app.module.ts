@@ -18,6 +18,7 @@ import { TaulaDades } from './dades/dades.component';
 import { PrincipalComponent } from './principal/principal.component';
 import { GraficComponent } from './grafic/grafic.component';
 import { FooterComponent } from './footer/footer.component';
+import { NgChartsModule } from 'ng2-charts';
 
 @NgModule({
   declarations: [
@@ -43,6 +44,7 @@ import { FooterComponent } from './footer/footer.component';
     MatPaginatorModule,
     MatSortModule,
     MatFormFieldModule,
+    NgChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent],
