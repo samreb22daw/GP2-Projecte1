@@ -150,5 +150,7 @@ mat-option>* {
     background-image: linear-gradient(rgba(4, 9, 30, 0.45), rgba(4, 9, 30, 0.45)), url('../../assets/africa.jpg');
     background-position: fixed;
     background-size: cover;
+    width: 100%;
+    height: 100vh;
 
 }
