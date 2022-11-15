@@ -19,6 +19,7 @@ import { PrincipalComponent } from './principal/principal.component';
 import { GraficComponent } from './grafic/grafic.component';
 import { FooterComponent } from './footer/footer.component';
 import { NgChartsModule } from 'ng2-charts';
+import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,9 @@ import { NgChartsModule } from 'ng2-charts';
     TaulaDades,
     PrincipalComponent,
     GraficComponent,
-    FooterComponent
+    FooterComponent,
+    PipePersonalitzada,
+    PipePersonalitzada2
   ],
   imports: [
     AppRoutingModule,
