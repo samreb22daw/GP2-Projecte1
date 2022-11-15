@@ -45,51 +45,10 @@ tr.example-element-row:not(.example-expanded-row):active {
 
 /* ---- Posicionament files i columnes  ---- */
 
-
- /* .PercentatgePobresa, .celdaPercentatgePobresa{
-    padding-left: 3.5rem;
-} */
-
-/*
-
-.celdaPercentatgePobresa, .celdaMenys10, celdaAlfabetitzacio, .celdaAny, .celdaElectricitat, .celdaEsperanca, .celdaRenta {
-
-/
-.celdaPercentatgePobresa {
-    padding-left: 5rem;
-}
-
-.Poblacio {
-    padding-left: 3rem;
-}
-
- .celdaPoblacio {
-    padding-left: 3rem;
-}
-
-.celdaMenys10 {
-    padding-left: 2rem;
-}
-
-.celdaAlfabetitzacio {
-    padding-left: 3rem;
-}
-
-.celdaAny {
-    padding-left: 0.4rem;
-}
-
-.celdaElectricitat {
-    padding-left: 2rem;
-}
-
-.celdaEsperanca {
-    padding-left: 2.2rem;
-}
-
-.celdaRenta {
-    padding-left: 4rem;
-} */
+:host ::ng-deep .mat-sort-header-container td{
+    display: flex;
+    justify-content: center;
+ }
 
 /* ---------------------------------- */
 
@@ -154,3 +113,4 @@ mat-option>* {
     height: 100vh;
 
 }
+
