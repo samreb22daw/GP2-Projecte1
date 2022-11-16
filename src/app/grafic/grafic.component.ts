@@ -6,12 +6,24 @@ import dadesContinents from '../../assets/dades/continents.json';
 
 var jsonfile = dadesContinents;
 
-var labels = jsonfile.map(function(e) {
+var continent:any = jsonfile.map(function(e) {
   return e.continent;
 });
 
 var pobresa:any = jsonfile.map(function(e) {
   return e.percPoverty;
+});
+
+var accesElectricitat:any = jsonfile.map(function(e) {
+  return e.access2Electricity;
+});
+
+var alfabetitzacio:any = jsonfile.map(function(e) {
+  return e.literacyRate;
+});
+
+var esperanca:any = jsonfile.map(function(e) {
+  return e.lifeExpectancy;
 });
 
 let poblacio:any;
@@ -31,7 +43,8 @@ export class GraficComponent {
     scales: {
       x: {},
       y: {
-        min: 10
+        min: 0,
+        max: 120
       }
     },
     plugins: {
@@ -49,15 +62,13 @@ export class GraficComponent {
     DataLabelsPlugin
   ];
 
-  
-
   public barChartData: ChartData<'bar'> = {
-    labels: [ 'Europa', 'Àfrica', 'Àsia', 'América', 'Oceania' ],
+    labels: [ 'Europa', 'Àfrica', 'Àsia', 'Amèrica del Nord','Amèrica del Sud', 'Oceania' ],
     datasets: [
-      { data: [ pobresa[1], 59, 80, 81, 56, 55, 40, 80, 90, 60 ], label: `${labels[1]}` },
-      { data: [ 28, 48, 40, 19, 86, 27, 90, 80, 90, 60 ], label: 'Series B' },
-      { data: [ 28, 48, 40, 19, 86, 27, 90, 80, 90, 60 ], label: 'Series B' },
-      { data: [ 28, 48, 40, 19, 86, 27, 90, 80, 90, 60 ], label: 'Series B' },
+      { data: [ accesElectricitat[0],accesElectricitat[1],accesElectricitat[2],accesElectricitat[3],accesElectricitat[4],accesElectricitat[5]  ], label: "Accés a electricitat" },
+      { data: [ alfabetitzacio[0],alfabetitzacio[1],alfabetitzacio[2],alfabetitzacio[3],alfabetitzacio[4],alfabetitzacio[5] ], label: "Tasa d'alfabetització" },
+      { data: [ pobresa[0], pobresa[1], pobresa[2], pobresa[3], pobresa[4], pobresa[5] ], label: "Tasa de pobresa" },
+      { data: [ esperanca[0], esperanca[1], esperanca[2], esperanca[3], esperanca[4], esperanca[5] ], label: "Esperança de vida" },
     ]
   };
 
@@ -76,18 +87,21 @@ export class GraficComponent {
       Math.round(Math.random() * 100),
       59,
       80,
-      Math.round(Math.random() * 100),
+      Math.round(Math.random() * 110),
       56,
-      Math.round(Math.random() * 100),
+      Math.round(Math.random() * 110),
       40 ];
 
     this.chart?.update();
   }
+
+  public barChartData2: ChartData<'bar'> = {
+    labels: [ 'Europa', 'Àfrica', 'Àsia', 'Amèrica del Nord','Amèrica del Sud', 'Oceania' ],
+    datasets: [
+      { data: [ 1,2,accesElectricitat[2],accesElectricitat[3],accesElectricitat[4],accesElectricitat[5]  ], label: "Accés a electricitat" },
+      { data: [ alfabetitzacio[0],alfabetitzacio[1],alfabetitzacio[2],alfabetitzacio[3],alfabetitzacio[4],alfabetitzacio[5] ], label: "Tasa d'alfabetització" },
+      { data: [ pobresa[0], pobresa[1], pobresa[2], pobresa[3], pobresa[4], pobresa[5] ], label: "Tasa de pobresa" },
+      { data: [ esperanca[0], esperanca[1], esperanca[2], esperanca[3], esperanca[4], esperanca[5] ], label: "Esperança de vida" },
+    ]
+  };
 }
-
-
-
-
-
-
-let continent:any = dadesContinents[1];

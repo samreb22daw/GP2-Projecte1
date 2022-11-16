@@ -15,6 +15,42 @@
       "literacyRate": 71,
       "access2Electricity": 43,
       "lifeExpectancy": 64.38,
-      "rentaPerCapita": 516123
-    }
+      "rentaPerCapita": 4121.0
+    },
+    {
+      "continent": "Àsia",
+      "population": 4598168800,
+      "percPoverty": 27.5,
+      "literacyRate": 84,
+      "access2Electricity": 97,
+      "lifeExpectancy": 79,
+      "rentaPerCapita": 13037.5
+    },
+    {
+      "continent": "Àmerica del Nord",
+      "population": 374241210,
+      "percPoverty": 27.5,
+      "literacyRate": 79,
+      "access2Electricity": 100,
+      "lifeExpectancy": 78,
+      "rentaPerCapita": 67514.0
+    },
+    {
+      "continent": "Àmerica del Sud",
+      "population":  439176795,
+      "percPoverty": 30,
+      "literacyRate": 76,
+      "access2Electricity": 98.5,
+      "lifeExpectancy": 78,
+      "rentaPerCapita": 8340.4
+    },
+    {
+      "continent": "Oceania",
+      "population":  44491724,
+      "percPoverty": 26.9,
+      "literacyRate": 98.44,
+      "access2Electricity": 99,
+      "lifeExpectancy": 83.2,
+      "rentaPerCapita": 48520
+    }   
 ]
