@@ -1,3 +1,26 @@
+/* Pequeños estilos para el título y poco texto que aparece en esta página */
+.contenido-dades {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 70px;
+}
+
+/* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
+.contenido-dades h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.contenido-dades p {
+    font-size: 15px;
+    color: white;
+}
+
+/* Estilos generales para la tabla */
+
 table {
     margin: auto;
     margin-top: 10px;
