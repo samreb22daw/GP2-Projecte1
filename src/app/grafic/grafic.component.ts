@@ -2,15 +2,29 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { ChartConfiguration, ChartData, ChartEvent, ChartType } from 'chart.js';
 import { BaseChartDirective } from 'ng2-charts';
 import DataLabelsPlugin from 'chartjs-plugin-datalabels';
+import dadesContinents from '../../assets/dades/continents.json';
+
+var jsonfile = dadesContinents;
+
+var labels = jsonfile.map(function(e) {
+  return e.continent;
+});
+
+var pobresa:any = jsonfile.map(function(e) {
+  return e.percPoverty;
+});
+
+let poblacio:any;
 
 @Component({
   selector: 'app-grafic',
   templateUrl: './grafic.component.html',
   styleUrls: ['./grafic.component.css']
 })
+
 export class GraficComponent {
   @ViewChild(BaseChartDirective) chart: BaseChartDirective | undefined;
-
+  
   public barChartOptions: ChartConfiguration['options'] = {
     responsive: true,
     // We use these empty structures as placeholders for dynamic theming.
@@ -35,10 +49,12 @@ export class GraficComponent {
     DataLabelsPlugin
   ];
 
+  
+
   public barChartData: ChartData<'bar'> = {
     labels: [ 'Europa', 'Àfrica', 'Àsia', 'América', 'Oceania' ],
     datasets: [
-      { data: [ 65, 59, 80, 81, 56, 55, 40, 80, 90, 60 ], label: 'Població' },
+      { data: [ pobresa[1], 59, 80, 81, 56, 55, 40, 80, 90, 60 ], label: `${labels[1]}` },
       { data: [ 28, 48, 40, 19, 86, 27, 90, 80, 90, 60 ], label: 'Series B' },
       { data: [ 28, 48, 40, 19, 86, 27, 90, 80, 90, 60 ], label: 'Series B' },
       { data: [ 28, 48, 40, 19, 86, 27, 90, 80, 90, 60 ], label: 'Series B' },
@@ -68,3 +84,10 @@ export class GraficComponent {
     this.chart?.update();
   }
 }
+
+
+
+
+
+
+let continent:any = dadesContinents[1];
