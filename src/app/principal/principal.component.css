@@ -1,14 +1,14 @@
-/* Div que contine la imagen principal de la página index */
-.banner-principal{
-    min-height: 100vh;
-        width: 100%;
-        background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url("../../assets/banner-pag-principal.png");
-        background-position: center;
-        /* Para escalar la imagen al mayor tamaño posible sin estirarla */
-        background-size: cover;
-        position: relative;
-        font-family: sans-serif;
-  }
+    /* Div que contine la imagen principal de la página index */
+    .banner-principal{
+        min-height: 100vh;
+            width: 100%;
+            background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url("../../assets/banner-pag-principal.png");
+            background-position: center;
+            /* Para escalar la imagen al mayor tamaño posible sin estirarla */
+            background-size: cover;
+            position: relative;
+            font-family: sans-serif;
+    }
 
     /* Estilos para el título y la pequeña frase de la página principal (índex) */
     .texto-banner {
