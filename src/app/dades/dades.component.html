@@ -1,8 +1,13 @@
-<!-- Filtrar per caracters -->
 <div class="bg">
+    <div class="contenido-dades">
+      <h1>Dades mundials</h1>
+      <p>En aquesta pàgina mostrem les dades actualitzades de 217 països del món.</p>
+    </div>
+
+    <!-- Filtrar per caracters -->
     <mat-form-field class="buscador">
-      <mat-label>Buscar</mat-label>
-      <input matInput (keyup)="filtrar($event)" placeholder="Pais">
+      <mat-label>Cerca</mat-label>
+      <input matInput (keyup)="filtrar($event)" placeholder="País">
     </mat-form-field>
   
     <table mat-table [dataSource]="dataSource" multiTemplateDataRows class="mat-elevation-z8" matSort>
@@ -96,12 +101,13 @@
     </table>
   
     <!---- Paginador ---->
-    <mat-paginator [pageSizeOptions]="[10, 20, 150]"
+    <mat-paginator [pageSizeOptions]="[10, 20, 50, 217]"
       showFirstLastButtons 
       aria-label="Select page of countries">
     </mat-paginator>
-    <br/><br/><br/><br/>
+    <br/><br><br>
+  <br>
   </div>
   
   
-  <app-footer></app-footer>
+  
