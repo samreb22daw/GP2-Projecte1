@@ -64,8 +64,7 @@
 
     /* Div para ajustar el tamaño donde van las imágenes de la página principal */
     .flex-index .flex-images {
-        width: 48%;
-        height: 360px;
+        width: 46%;
         margin-bottom: 40px;
         /* Lo hago relativo para después posicionar encima el overlay */
         position: relative;
@@ -88,7 +87,7 @@
             top: 0;
             left: 0;
         width: 100%;
-        border-radius: 5px;
+        border-radius: 10px;
         /* Le doy al height el valor de 0 ya que no quiero mostrarlo si no estoy en hover */
         height: 100%;
         transition: .7s;
@@ -131,7 +130,7 @@
     .index-dades h1 {
         /* Para posicionarlo siempre en la posición que le voy a indicar */
         position: absolute;
-        font-size: 60px;
+        font-size: 55px;
         color: white;
         top: 30%;
         margin-left: 8%;
