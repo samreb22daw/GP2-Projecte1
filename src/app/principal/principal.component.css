@@ -114,5 +114,47 @@
         opacity: 1;
     }
 
+    /* Div que contiene el banner de dades de la página index. Ajusta el tamaño porque es un background-image */
+    .index-dades {
+        margin-top: 70px;
+        width: 100%;
+        height: 75vh;
+        background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url(../../assets/index-dades.jpg);
+        background-position: center;
+        /* Para escalar la imagen al mayor tamaño posible sin estirarla */
+        background-size: cover;
+        position: relative;
+        margin-bottom: 40px;
+    }
+
+    /* Estilo para el texto y el botón dentro del banner de la página index */
+    .index-dades h1 {
+        /* Para posicionarlo siempre en la posición que le voy a indicar */
+        position: absolute;
+        font-size: 60px;
+        color: white;
+        top: 30%;
+        margin-left: 8%;
+        font-weight: 430;
+    }
+
+    .index-dades a {
+        position: absolute;
+        font-size: 28px;
+        color: white;
+        top: 80%;
+        right: 5%;
+        padding: 20px;
+        border: 1px solid white;
+        border-radius: 10px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+        .index-dades a:hover {
+            background-color: white;
+            color: #142157;
+            transition: 1s;
+        }
 
 
