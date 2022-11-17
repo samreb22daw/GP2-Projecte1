@@ -8,15 +8,7 @@
             </div>
         </div>
     </div>
-    <div class="grafic">
-        <div>
-            <div>
-                <canvas baseChart [data]="barChartData2" [options]="barChartOptions" [plugins]="barChartPlugins"
-                    [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
-                </canvas>
-            </div>
-        </div>
-    </div>
+    <button mat-button mat-raised-button color="primary" (click)="randomize()">Update</button>    
     <br><br>
 </div>
 
