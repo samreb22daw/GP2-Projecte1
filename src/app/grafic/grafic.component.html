@@ -1,11 +1,14 @@
 <div class="fondo">
     <div class="grafic">
         <div>
-            <div style="display: block">
+            <div>
                 <canvas baseChart [data]="barChartData" [options]="barChartOptions" [plugins]="barChartPlugins"
                     [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
                 </canvas>
             </div>
         </div>
     </div>
+    <button mat-button mat-raised-button color="primary" (click)="randomize()">Update</button>    
+    <br><br>
 </div>
+
