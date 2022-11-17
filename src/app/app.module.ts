@@ -21,6 +21,7 @@ import { FooterComponent } from './footer/footer.component';
 import { NgChartsModule } from 'ng2-charts';
 import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
 
+
 @NgModule({
   declarations: [
     AppComponent,

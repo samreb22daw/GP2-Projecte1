@@ -16,9 +16,9 @@
         color: white;
         position: absolute;
         text-align: center;
-        top: 45%;
-        left: 45%;
-        transform: translate(-45%, -45%);
+        top: 35%;
+        left: 35%;
+        transform: translate(-35%, -35%);
         font-family: Helvetica;
     }
 
