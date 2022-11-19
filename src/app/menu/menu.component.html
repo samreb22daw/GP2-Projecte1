@@ -5,9 +5,9 @@
                 <button mat-icon-button color="white" routerLink="" routerLinkActive="active">
                     <mat-icon>home</mat-icon>
                 </button>
-                <button mat-button routerLink="" routerLinkActive="active">Inici</button>
-                <button mat-button routerLink="/dades" routerLinkActive="active">Dades</button>
-                <button mat-button routerLink="/grafic" routerLinkActive="active">Gràfic</button>
+                <button mat-button routerLink="" routerLinkActive="active" [@animacioMenu]="state">Inici</button>
+                <button mat-button routerLink="/dades" routerLinkActive="active" [@animacioMenu]="state">Dades</button>
+                <button mat-button routerLink="/grafic" routerLinkActive="active" [@animacioMenu]="state">Gràfic</button>
             </div>
         </section>
     </div>
