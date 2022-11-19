@@ -29,7 +29,7 @@ export class MenuComponent implements OnInit {
   ngAfterViewInit() {
     setTimeout( () => {
       this.state = 'shown';
-    }, 200);
+    }, 500);
   }
 
   isActive = false;

@@ -8,7 +8,7 @@ import { NgModule } from '@angular/core';
   templateUrl: './principal.component.html',
   styleUrls: ['./principal.component.css'],
   animations: [
-    trigger("myAnimationTrigger", [
+    trigger("animacioBanner", [
       state('hidden', style({
         transform: 'translateY(0%)', opacity:0})
       ), state('shown', style({
@@ -32,7 +32,7 @@ export class PrincipalComponent implements OnInit {
   ngAfterViewInit() {
     setTimeout( () => {
       this.state = 'shown';
-    }, 200);
+    }, 1000);
   }
 
 }
