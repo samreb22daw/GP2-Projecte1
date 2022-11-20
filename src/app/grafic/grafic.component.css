@@ -1,9 +1,42 @@
-.grafic {
-    width: 60%;
-    margin: auto;
-    margin-top: 10%;
-}
+    .fondo {
+        width: 100%;
+    }
 
-.fondo {
-    width: 100%;
-}
+    .grafic {
+        padding-top: 50px;
+        width: 80%;
+        margin: auto;
+    }
+
+    .boto {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #1465BB;
+        color: white;
+    }
+
+    /* Estilo para el div para centrar los títulos y la info de la web */
+    .contenido {
+        width: 80%;
+        text-align: center;
+        margin: auto;
+        margin-top: 70px;
+    }
+
+    /* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
+    .contenido h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        color: #1465BB;
+        font-weight: 500;
+    }
+
+    .contenido h3 {
+        font-size: 22px;
+        color: #1465BB;
+    }
+
+    .contenido p {
+        font-size: 15px;
+        color: gray;
+    }

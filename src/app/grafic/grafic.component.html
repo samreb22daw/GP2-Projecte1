@@ -1,4 +1,24 @@
 <div class="fondo">
+    <div class="contenido">
+        <h1>Gràfics comparatius</h1>
+        <p>En aquesta pàgina es mostren diversos gràfics comparatius amb les dades dels diferents països i continents.</p>
+        <div class="grafic">
+            <h3>Comparació entre continents</h3>
+            <div>
+                <div>
+                    <canvas baseChart [data]="barChartData" [options]="barChartOptions" [plugins]="barChartPlugins"
+                        [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
+                    </canvas>
+                </div>
+                <button mat-button mat-raised-button color="danger" (click)="randomize()" class="boto">Update</button>    
+            </div>
+        </div>
+        <p>En aquest primer gràfic hem comparat les dades de tots els continents del món. D'aquest gràfic podem extreure la conclusió que Àfrica és el continent amb menys accés a recursos i el més pobre,
+            mentre que Europa és el continent amb menys pobresa i el que té més accés a recursos.</p>
+    </div>
+    
+    <br><br>
+
     <div class="grafic">
         <div>
             <div>
@@ -8,7 +28,5 @@
             </div>
         </div>
     </div>
-    <button mat-button mat-raised-button color="primary" (click)="randomize()">Update</button>    
-    <br><br>
 </div>
 
