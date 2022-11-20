@@ -1,0 +1,112 @@
+[
+    {
+        "country": "Azerbaijan",
+        "population": 10145212,
+        "percPoverty": 6,
+        "literacyRate": 99.79598236,
+        "unemployment": 6.3,
+        "access2Electricity": 100,
+        "lifeExpectancy": 73.123,
+        "rentaPerCapita": 5384.034998,
+        "description": "L'Azerbaidjan o Azerbaitjan, oficialment la República de l'Azerbaidjan, és l'estat més gran de la regió del Caucas, localitzat entre l'Àsia occidental i Europa oriental. Limita a l'est amb el mar Caspi, al nord amb Rússia, al nord-oest amb Geòrgia, a l'oest amb Armènia i al sud amb l'Iran."
+    },
+    {
+        "country": "Czechia",
+        "population": 10703446,
+        "percPoverty": 8.6,
+        "unemployment": 2.89,
+        "literacyRate": 99,
+        "access2Electricity": 100,
+        "lifeExpectancy": 78.22682927,
+        "rentaPerCapita": 26378.49996,
+        "description": "Txèquia, oficialment la República Txeca, és un país de l'Europa central sense sortida al mar. Fa frontera amb Polònia al nord, Alemanya al nord-oest i l'oest, Àustria al sud i Eslovàquia a l'est. La capital i la ciutat més gran és Praga, la part històrica de la qual té un gran atractiu turístic."
+    },
+    {
+        "country": "Iceland",
+        "population": 372295,
+        "unemployment": 3.51,
+        "percPoverty": 8.8,
+        "literacyRate": 99.9,
+        "access2Electricity": 100,
+        "lifeExpectancy": 83.06585366,
+        "rentaPerCapita": 68383.76534,
+        "description": "Islàndia és un estat insular europeu que es troba a l'oceà Atlàntic Nord a la Dorsal atlàntica. El 2021 tenia una població estimada de 376.000 habitants, i una superfície total de 103.000 km²."
+    },
+    {
+        "country": "Finland",
+        "population": 5541696,
+        "percPoverty": 10.8,
+        "literacyRate": 99.9,
+        "unemployment": 7.36,
+        "access2Electricity": 100,
+        "lifeExpectancy": 82.13170732,
+        "rentaPerCapita": 53982.61427,
+        "description": "La República de Finlàndia és un estat del nord-est d'Europa, a Escandinàvia, voltat per la mar Bàltica al sud-oest, pel golf de Finlàndia al sud-est i pel golf de Bòtnia a l'oest. Finlàndia té fronteres per terra amb Suècia al nord-oest, amb Noruega al nord i amb Rússia a l'est."
+    },
+    {
+        "country": "Slovakia",
+        "population": 5447247,
+        "percPoverty": 11.4,
+        "literacyRate": 99.62,
+        "unemployment": 6.74,
+        "access2Electricity": 100,
+        "lifeExpectancy": 76.86585366,
+        "rentaPerCapita": 21087.8461,
+        "description": "Eslovàquia, oficialment la República Eslovaca, és una república de l'Europa central, sense accés al mar. Té una població de més de 5 milions d'habitants i una àrea d'aproximadament 49.000 km². Limita al nord amb Polònia, a l'est amb Ucraïna, al sud amb Hongria, i a l'oest amb Àustria i Txèquia."
+    },
+    {
+        "country": "Morocco",
+        "population": 37344787,
+        "percPoverty": 4.8,
+        "unemployment": 11.47,
+        "literacyRate": 73.75000763,
+        "access2Electricity": 100,
+        "lifeExpectancy": 76.901,
+        "rentaPerCapita": 3496.758301,
+        "description": "El Marroc, oficialment el Regne del Marroc, és un estat del nord d'Àfrica. Limita amb l'oceà Atlàntic a l'oest, amb l'estret de Gibraltar, la mar Mediterrània i les ciutats autònomes espanyoles de Ceuta i Melilla al nord, amb Algèria a l'est i amb el Sàhara occidental i Mauritània al sud."
+    },
+    {
+        "country": "Algeria",
+        "population": 44616626,
+        "percPoverty": 5.5,
+        "unemployment": 12.55,
+        "literacyRate": 81.40783691,
+        "access2Electricity": 99.80413055,
+        "lifeExpectancy": 77.063,
+        "rentaPerCapita": 3765.034625,
+        "description": "Algèria, oficialment República Democràtica Popular d'Algèria, és un estat del nord d'Àfrica. És l'estat més gran del continent i de la riba mediterrània, així com el desè estat més gran del món en termes de superfície."
+      },
+      {
+        "country": "Mauritania",
+        "population": 4775110,
+        "percPoverty": 31,
+        "unemployment": 11.27,
+        "literacyRate": 53.49758911,
+        "access2Electricity": 47.34841919,
+        "lifeExpectancy": 65.129,
+        "rentaPerCapita": 1723.013866,
+        "description": "Mauritània, oficialment la República Islàmica de Mauritània, és un estat situat al nord-oest de l'Àfrica. Limita al sud-oest amb el Senegal, a l'est i el sud-est amb Mali, al nord-est amb Algèria i al nord-oest amb el territori del Sàhara Occidental annexionat pel Marroc."
+      },
+      {
+        "country": "Tunisia",
+        "population": 11935764,
+        "percPoverty": 15.2,
+        "unemployment": 16.82,
+        "literacyRate": 79.03643036,
+        "access2Electricity": 100,
+        "lifeExpectancy": 76.891,
+        "rentaPerCapita": 3924.343925,
+        "description": "Tunísia o República de Tunísia és un estat musulmà del nord d'Àfrica que fa frontera amb Algèria a l'oest i amb Líbia al sud-est, mentre que el mar Mediterrani banya les seves costes, al nord i a l'est del país. És el país més petit situat prop de la serralada muntanyosa de l'Atles."
+      },
+      {
+        "country": "Namibia",
+        "population": 2587344,
+        "percPoverty": 17.4,
+        "unemployment": 21.68,
+        "literacyRate": 91.52726746,
+        "access2Electricity": 56.2586937,
+        "lifeExpectancy": 64.045,
+        "rentaPerCapita": 4729.270937,
+        "description": "Namíbia és un estat de l'Àfrica meridional situat a la costa atlàntica, al nord de Sud-àfrica, al sud d'Angola i Zàmbia i a l'oest de Botswana. Té una extensió de 824.295 km² i una població de 2.533.794 habitants el 2017. La capital és Windhoek."
+      }
+]   

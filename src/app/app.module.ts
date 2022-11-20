@@ -16,7 +16,7 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MenuComponent } from './menu/menu.component';
 import { TaulaDades } from './dades/dades.component';
 import { PrincipalComponent } from './principal/principal.component';
-import { GraficComponent, Grafic2Component } from './grafic/grafic.component';
+import { GraficComponent } from './grafic/grafic.component';
 import { FooterComponent } from './footer/footer.component';
 import { NgChartsModule } from 'ng2-charts';
 import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
@@ -31,8 +31,7 @@ import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
     GraficComponent,
     FooterComponent,
     PipePersonalitzada,
-    PipePersonalitzada2,
-    Grafic2Component
+    PipePersonalitzada2
   ],
   imports: [
     AppRoutingModule,
@@ -49,7 +48,7 @@ import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
     MatPaginatorModule,
     MatSortModule,
     MatFormFieldModule,
-    NgChartsModule
+    NgChartsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
