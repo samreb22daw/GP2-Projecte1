@@ -32,7 +32,7 @@ export class PrincipalComponent implements OnInit {
   ngAfterViewInit() {
     setTimeout( () => {
       this.state = 'shown';
-    }, 1000);
+    }, 1100);
   }
 
 }

@@ -136,3 +136,14 @@ mat-option>* {
     height: auto;
 }
 
+.databank {
+    text-align: center;
+    color: white;
+    opacity: 0.6;
+}
+
+.databank > a {
+    color: white;
+
+}
+
