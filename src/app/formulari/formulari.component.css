@@ -1,0 +1,133 @@
+.bg {
+    background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url('../../assets/contacte.jpg');
+    background-position: fixed;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.form {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 550px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    position: relative;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.titol {
+    color: rgb(46, 46, 46);
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.subtitol {
+    color: rgb(46, 46, 46);
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.input-div {
+    height: 50px;
+    position: relative;
+    width: 100%;
+}
+
+.nom {
+    margin-top: 40px;
+}
+
+.mail {
+    margin-top: 30px;
+}
+
+.input {
+    background-color: #d8d8d8;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 14px;
+    height: 100%;
+    outline: 0;
+    padding: 15px 20px 15px;
+    width: 100%;
+}
+
+#missatge {
+    height: 120px;
+    resize: none;
+}
+
+.lletrer {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 20px;
+    left: 20px;
+    position: absolute;
+    top: -20px;
+    transform: translateY(0);
+    transition: transform 200ms;
+    width: 76px;
+}
+
+.mini {
+    width: 50px;
+}
+
+.input:focus~.lletrer,
+.input:not(:placeholder-shown)~.lletrer {
+    transform: translateY(8px);
+}
+
+.placeholder {
+    color: #65657b;
+    font-family: sans-serif;
+    left: 20px;
+    line-height: 14px;
+    pointer-events: none;
+    position: absolute;
+    transform-origin: 0 50%;
+    transition: transform 200ms, color 200ms;
+    top: 20px;
+}
+
+.input:focus~.placeholder,
+.input:not(:placeholder-shown)~.placeholder {
+    transform: translateY(-30px) translateX(10px) scale(0.75);
+}
+
+.input:not(:placeholder-shown)~.placeholder {
+    color: #808097;
+}
+
+.input:focus~.placeholder {
+    color: #000000;
+}
+
+.envia {
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 110px;
+    outline: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.envia:active {
+    background-color: #06b;
+}
+
