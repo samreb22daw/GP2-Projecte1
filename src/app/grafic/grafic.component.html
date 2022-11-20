@@ -10,23 +10,41 @@
                         [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
                     </canvas>
                 </div>
-                <button mat-button mat-raised-button color="danger" (click)="randomize()" class="boto">Update</button>    
             </div>
         </div>
+        <br>
         <p>En aquest primer gràfic hem comparat les dades de tots els continents del món. D'aquest gràfic podem extreure la conclusió que Àfrica és el continent amb menys accés a recursos i el més pobre,
-            mentre que Europa és el continent amb menys pobresa i el que té més accés a recursos.</p>
+            mentre que Europa és el continent amb menys pobresa i el que té més accés a recursos.</p><br><br>
+
+        <div class="grid">
+            <div class="grafic-grid">
+                <h3>Comparació entre els 5 països menys pobres d'Europa</h3>
+                <div>
+                    <div>
+                        <canvas baseChart [data]="barChartData" [options]="barChartOptions" [plugins]="barChartPlugins"
+                            [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
+                        </canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="grafic-grid">
+                <h3>Comparació entre els 5 països menys pobres d'Àfrica</h3>
+                <div>
+                    <div>
+                        <canvas baseChart [data]="barChartData" [options]="barChartOptions" [plugins]="barChartPlugins"
+                            [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
+                        </canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
     </div>
+  
     
     <br><br>
 
-    <div class="grafic">
-        <div>
-            <div>
-                <canvas baseChart [data]="barChartData" [options]="barChartOptions" [plugins]="barChartPlugins"
-                    [type]="barChartType" (chartHover)="chartHovered($event)" (chartClick)="chartClicked($event)">
-                </canvas>
-            </div>
-        </div>
-    </div>
+    
+    <button mat-button mat-raised-button color="danger" (click)="randomize()" class="boto">Update</button>    
 </div>
 

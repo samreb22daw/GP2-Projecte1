@@ -4,7 +4,7 @@
 
     .grafic {
         padding-top: 50px;
-        width: 80%;
+        width: 70%;
         margin: auto;
     }
 
@@ -20,7 +20,7 @@
         width: 80%;
         text-align: center;
         margin: auto;
-        margin-top: 70px;
+        margin-top: 40px;
     }
 
     /* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
@@ -39,4 +39,16 @@
     .contenido p {
         font-size: 15px;
         color: gray;
+    }
+
+    .grid {
+        display: grid;
+        /* Para que el grid tenga 3 columnas, y cada columna tenga el mismo ancho */
+        grid-template-columns: repeat(2, 1fr);
+        height: auto;
+        column-gap: 40px;
+    }
+
+    .grafic-grid {
+        width: 99%;
     }
