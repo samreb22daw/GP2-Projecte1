@@ -20,6 +20,7 @@ import { GraficComponent } from './grafic/grafic.component';
 import { FooterComponent } from './footer/footer.component';
 import { NgChartsModule } from 'ng2-charts';
 import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
+import { FormulariComponent } from './formulari/formulari.component';
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import { PipePersonalitzada, PipePersonalitzada2 } from './pipe-personalitzada';
     GraficComponent,
     FooterComponent,
     PipePersonalitzada,
-    PipePersonalitzada2
+    PipePersonalitzada2,
+    FormulariComponent
   ],
   imports: [
     AppRoutingModule,
