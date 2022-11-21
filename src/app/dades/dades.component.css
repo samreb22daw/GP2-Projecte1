@@ -146,3 +146,20 @@ mat-option>* {
 
 }
 
+mat-option[ng-reflect-value='217']:before {
+    content: 'All';
+    float: left;
+    text-transform: none;
+    top: 0px;
+    position: relative;
+  }
+  mat-option[ng-reflect-value='217'] .mat-option-text {
+    display: none;
+    position: relative;
+  }
+  mat-select[ng-reflect-value='217'] .mat-select-value-text span {
+    display: none;
+  }
+  mat-select[ng-reflect-value='217'] .mat-select-value-text:after {
+    content: 'All';
+  }
