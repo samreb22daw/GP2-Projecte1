@@ -131,3 +131,24 @@
     background-color: #06b;
 }
 
+/* Pequeños estilos para el título y poco texto que aparece en esta página */
+.contenido-grafic {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+}
+
+/* Estilos para los títulos y el texto que se encuentran dentro de la clase .contenido */
+.contenido-grafic h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.contenido-grafic p {
+    font-size: 15px;
+    color: white;
+}
+
