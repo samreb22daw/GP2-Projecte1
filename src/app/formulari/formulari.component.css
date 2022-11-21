@@ -2,6 +2,8 @@
     background-image: linear-gradient(rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.5)), url('../../assets/contacte.jpg');
     background-position: fixed;
     background-size: cover;
+    min-height: 100%;
+    position: relative;
     width: 100%;
     height: auto;
 }
