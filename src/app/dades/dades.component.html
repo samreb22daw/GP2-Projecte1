@@ -1,9 +1,10 @@
 <div class="bg">
-    <div class="contenido-dades">
-      <h1>Dades mundials</h1>
-      <p>En aquesta pàgina es mostren algunes de les dades actualitzades més rellevants de 217 països del món.</p>
-    </div>
-
+  
+  <div class="contenido-dades">
+    <h1 [@animacioText]="state">Dades mundials</h1>
+    <p [@animacioText]="state">En aquesta pàgina es mostren algunes de les dades actualitzades més rellevants de 217 països del món.</p>
+  </div>
+  <div [@animacioTaula]="state">
     <!-- Filtrar per caracters -->
     <mat-form-field class="buscador">
       <mat-label>Cerca</mat-label>
@@ -110,6 +111,7 @@
     <br><br><br>
     
   </div>
+</div>
   
   
   
