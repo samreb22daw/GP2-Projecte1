@@ -1,27 +1,27 @@
 # GP2Projecte1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+## Dependencies necessàries
 
-## Development server
+Cal tenir instal·lat <a href="https://nodejs.org/en/download/">Node.js</a> i <a href="https://angular.io/guide/setup-local">Angular</a> amb una versió recent i compatible.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descarregar i configurar el projecte
 
-## Code scaffolding
+1.  Obrir un terminal i executar `git clone https://github.com/samreb22daw/GP2-Projecte1.git; cd GP2-Projecte1` .<br>
+2.  Un cop dins de la carpeta, executar `npm install`. <br>
+3.  Instal·lar Angular Material executant `ng add @angular/material`. Quan pregunti pel tema i altres configuracions, seleccionar les que es mostren a la següent imatge.
+![image](https://user-images.githubusercontent.com/113675350/203396133-67d25f8b-3469-4f22-8016-220886c4070d.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Fent funcionar el projecte
 
-## Running unit tests
+Per executar el projecte, cal fer servir la comanda `ng serve --open`, que obrirà l'aplicació web a una nova pestanya del navegador.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
+## Documentació
+<ul>
+  <li><a href="https://angular.io/">Angular</a></li>
+  <li><a href="https://material.angular.io/">Angular Material Design</a></li>
+</ul>
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
