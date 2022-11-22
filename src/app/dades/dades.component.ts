@@ -35,10 +35,10 @@ import { LiveAnnouncer } from '@angular/cdk/a11y';
 })
 
 export class TaulaDades {
-  dataSource = new MatTableDataSource<dades>(ELEMENT_DATA);
+  dataSource = new MatTableDataSource<dades>(PAISOS_DATA);
   columnsToDisplay = ['country', 'population', 'percPoverty', 'literacyRate15Above', 'access2Electricity', 'lifeExpectancy', 'rentaPerCapita'];
   columnsToDisplayWithExpand = [...this.columnsToDisplay, 'expand'];
-  expandedElement: dades | any;
+  expandedPais: dades | any;
 
   constructor(private _liveAnnouncer: LiveAnnouncer) {}
   @ViewChild(MatPaginator) paginator: MatPaginator;
@@ -81,4 +81,4 @@ interface dades {
   description?: string;
 }
 
-const ELEMENT_DATA: dades[] = dades;
+const PAISOS_DATA: dades[] = dades;
