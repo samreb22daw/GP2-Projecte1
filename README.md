@@ -23,5 +23,3 @@ Per executar el projecte, cal fer servir la comanda `ng serve --open`, que obrir
   <li><a href="https://angular.io/">Angular</a></li>
   <li><a href="https://material.angular.io/">Angular Material Design</a></li>
 </ul>
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
