@@ -1,6 +1,6 @@
 # GP2Projecte1
 
-## Dependencies necessàries
+## Dependències necessàries
 
 Cal tenir instal·lat <a href="https://nodejs.org/en/download/">Node.js</a> i <a href="https://angular.io/guide/setup-local">Angular</a> amb una versió recent i compatible.
 
