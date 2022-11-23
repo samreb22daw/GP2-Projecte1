@@ -1,6 +1,6 @@
 [
     {
-      "continent": "European Union",
+      "continent": "Europa",
       "population": 446946712,
       "percPoverty": 21.7,
       "literacyRate": 90.98,
@@ -9,7 +9,7 @@
       "rentaPerCapita": 38234.1
     },
     {
-      "continent": "Africa",
+      "continent": "Àfrica",
       "population": 1416625724,
       "percPoverty": 34,
       "literacyRate": 71,

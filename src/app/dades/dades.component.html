@@ -83,7 +83,7 @@
         <td mat-cell *matCellDef="let paisos" [attr.colspan]="columnsToDisplayWithExpand.length">
           <div class="example-pais-detail" [@detailExpand]="paisos == expandedPais ? 'expanded' : 'collapsed'">
             <div class="example-pais-diagram">
-              <img src="../../assets/banderas/Flag of {{paisos.country}}.gif" width="50px" />
+              <img src="/assets/banderas/Flag of {{paisos.country}}.gif" width="50px" />
             </div>
             <div class="example-pais-description">
               <p>{{paisos.description}}</p>

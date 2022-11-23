@@ -10,6 +10,10 @@ var jsonfile2 = dadesPaisosRics;
 
 // Retornem les dades del json de continents
 
+var continent: any = jsonfile.map(function (e) {
+  return e.continent;
+});
+
 var pobresa: any = jsonfile.map(function (e) {
   return e.percPoverty;
 });
@@ -94,7 +98,7 @@ export class GraficComponent {
   }];
 
   public barChartData: ChartData<'bar'> = {
-    labels: ['Europa', 'Àfrica', 'Àsia', 'Amèrica del Nord', 'Amèrica del Sud', 'Oceania'],
+    labels: [continent[0], continent[1], continent[2], continent[3], continent[4], continent[5]],
     datasets: [
       { data: [accesElectricitat[0], accesElectricitat[1], accesElectricitat[2], accesElectricitat[3], accesElectricitat[4], accesElectricitat[5]], label: "Accés a electricitat (%)", backgroundColor: ["#ff6961"] },
       { data: [alfabetitzacio[0], alfabetitzacio[1], alfabetitzacio[2], alfabetitzacio[3], alfabetitzacio[4], alfabetitzacio[5]], label: "Taxa d'alfabetització (%)", backgroundColor: ["#dcd9f8"] },
